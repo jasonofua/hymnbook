@@ -1062,7 +1062,7 @@ Meet for our salvation.",
       Always on the LORD’s side,\n
       Father, always Thine.",
   ]),
-  
+
    Hymn("NO 40", "I hear the voice of Jesus say", [
     "1.	I hear the voice of Jesus say,\n
     “Come unto me and rest;\n
@@ -1091,73 +1091,174 @@ Meet for our salvation.",
     O soon ‘twill rise and fill the earth.\n
     And all the nations bless’d.",
   ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-  Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
+   Hymn("NO 41", "Teach me O LORD, good thoughts of Thee", [
+    "1.	Teach me O LORD, good thoughts of Thee
+    Thy loving kindness too;
+    And may my heart remember Thee,
+    With understanding true."
+
+    "2.	Teach me to understand Thy will
+    Thy blessings to enjoy;
+    For Thy tabernacle love I,
+    To dwell and do the will.	"
+
+    "3.	To be wise in Thy law teach me
+    And in Thy light guide me;
+    That I will have thy glory true,
+    E’er shining in my life."
+
+    "4.	In resistance from satan’s snares,
+    Thy truth my anchor is.
+    Teach me to keep Thy laws O LORD  
+    To stray not from Thy word.",
   ]),
 
-   Hymn("NO 31", "", [
-    ".",
+   Hymn("NO 42", "ALMIGHTY FATHER, strong to save", [
+    "1.	ALMIGHTY FATHER, strong to save!/nAll we are hopeless without THEE./nThy wisdom, power, justice and love\nO LORD are freely owned from THEE.",
+    "Refrain:\nGive us Thy grace, give us Thy strength;\nGracious Father Eternal one!\nGive us Thy love, give Thy truth,\nIn Thy Kingdom to do Thy will.",
+    "2.	LORD, when our ways may slippery be\nWe will appeal for help from THEE;\nAs without THEE our hope is in vain,\nConsider our supplication.",
+    "3.	ALMIGHTY FATHER, KING of Kings!\nWith one accord we’ve come to THEE.\nThy Kingdom tidings of freedom\nBrings happiness to oppressed souls.",
+    "4.	In all our changing scenes of life,\nLORD, in Thy word truth we hope;\nFor Thou art our Shepherd and Hope\nThy freedom is indeed our need.",
   ]),
-   Hymn("NO 31", "", [
-    ".",
+
+   Hymn("NO 43", "Arise, O LORD of hosts!", [
+    "1.	Arise, O LORD of hosts!\nWith saving arm arise!\nWhen storms of life beset,\nDisturbing all my ways.",
+    "Refrain:\nArise! Jehovah God arise!\nAnd save me with Thy might hand!",
+    "2.	LORD of Gideon arise!\nIn Thee, I put my trust;\nAnd in Thy name rejoice\nWith cheerful voices true.",
+    "3.	Shew Thy marvelous works \n To people of the world\nAnd let them now confess\n“JEHOVAH is true GOD”.",
+    "4.	ALMIGHTY GOD arise!\nSend now prosperity,\nLORD, to Thy faithful ones,\nWho love to keep Thy way.",
   ]),
-   Hymn("NO 31", "", [
-    ".",
+
+   Hymn("NO 44", "God of mercy to humble ones", [
+    "1.	God of mercy to humble ones,\nOf nations on the earth!\nCrown us with Thy victory and peace\nThrough all the changing scenes.",
+    "2. 	With Thy bless-ed wisdom and power\nWe will silence the foes;\nAnd they with their mouth will confess\nThat THOU alone art GOD.",
+    "3.	LORD, we cannot do without thee\nIn whatsoe’er we do;\nAnd let us not be confounded\nIn all on earth we do.",
+    "4.	May we forever Thy own be called\n“JEHOVAH’S Freedomites”\nMarching triumphantly in peace\nNow to the promised land.",
   ]),
-   Hymn("NO 31", "", [
-    ".",
+
+   Hymn("NO 45", "CHOOSE Thou my way, O LORD", [
+    "1.	CHOOSE Thou my way, O LORD\nIn Thy truth to remain.\nBy Thy mighty hand lead me LORD\nTo eternity shore.",
+    "2.	Guide Thou my steps, O LORD\nThat I may walk in Thee,\nAs not to stumble in the way,\nThough a sinner I am.",
+    "3.	Guide Thou my thoughts, O LORD\nFrom satan’s lures to flee,\nThat I may kwow of Thee my LORD,\nFor prize of life to gain.",
+    "4.	In trouble or distress,\nI look for help from Thee\nFor Thou art my Shield and Defense\nMy Tower and my Guard.",
   ]),
-   Hymn("NO 31", "", [
-    ".",
+
+   Hymn("NO 46", "GOD be Thou with us", [
+    "1.	GOD be Thou with us,\nFor in Thee we hope\nAnd in Thy kingdom,\nLORD, we pray to stay\nIn all exhortations,\nAnd Lo! In our prayers,\nWe pray Thee, our Father,\nO abide with us.",
+    "2.		LORD, keep Thou ourselves\nFrom going astray.\nHelp us understand,\nO LORD, all Thy laws.\nWith good meditations\nFar from worldly lusts,\nWe hope in Thy goodness, \nO LORD GOD of hosts",
+    "3.	JEHOVAH our KING!\nIn Thee we rejoice.\nNow send us Thy light\nWith abounding grace.\nWe, trusting in Thy name,\nNo sorrow will have;\nBut joy of Thy Blessings\nShall fill all our hearts.",
   ]),
-   Hymn("NO 31", "", [
-    ".",
+
+   Hymn("NO 47", "GOD, be with us as we journey", [
+    "1.	GOD, be with us as we journey\nThro’ this evil world of sin.\nAnd may thy will on earth be done\nAs it is in heaven done.",
+    "2.	May evil thoughts,  LORD, from us flee,\nAnd make our hearts always pure.\nIn all we do may we serve Thee\nAnd Thy Holy name to praise.",
+    "3.	No refuge here on earth we have,\nBeside Thee, ALMIGHTY GOD.\nGuard and guide us MOST HOLY LORD \nThro’ the various scenes of life.",
   ]),
-   Hymn("NO 31", "", [
-    ".",
+
+  Hymn("NO 48", "GOD of mercy, GOD of justice,", [
+    "1.	GOD of mercy, GOD of justice,\nHear us when on Thee we call\nMay our humble supplications,\nReach Thy Heav’nly throne O GOD\nHear us Father, hear us we pray;\nWe seek Thee in every hour\nIn Thy glorious Kingdom on earth,\nFull of love and equity.",
+    "2.	We, as bird O then without nests,\nHad once from Thee wandered far.\nOft in sorrow, oft in danger\nWhen Thee we knew not O GOD.\nIn Thy Kingdom shelter us LORD, \nFor to Thee we have returned.\nGracious Father, GOD of mercy,\nBless all those who’ve known Thy way.",
   ]),
+
+   Hymn("NO 49", "LORD, for Thy name’s sake leave me not", [
+    "1.	LORD, for Thy name’s sake leave me not;\nLet not my foes prevail o’er me,\nThat I will not be a reproach\nAmongst the nations to Thy name,
+    "2.	For this cause, I do love Thy name\nMore than things bright and beautiful \nWorldly glories and kingly states,\nLORD, can’t be equaled with Thy Name.",
+    "3.	Never was known thy pow’rful name;\nNever was heard The Holy name,\nWhen we dwelt in satanic realm,\nAmongst the foes the godless ones.",
+    "4.	LORD, thou art wonderful and great!\nThe Heavens, the moon, sun and stars;\nThe mountains, the seas, and the trees,\nShew forth Thy wonderous works of old",
+    "5.	I now have hope, by serving Thee,\nAnd always will hail Thy great name\nLORD, leave me not for Thy name’s sake,\nThat I’d not go astray from Thee.",
+  ]),
+
+   Hymn("NO 50", "LORD, in the calm and darkest night", [
+    "1.	LORD, in the calm and darkest night,\nO! when sleep may us overtake;\nMay Thy presence around us shine,\nThat we awake with brighter light.",
+    "2.	LORD, may Thy holy angel guard\nAnd deliver us from the foes,\nWho love the night more than the day,\nSeeking to rob and to destroy.",
+    "3.	May Thy word be our choicest light,\nThat when we sleep, we rest with hope \nTo wake with joy, to see Thy light,\nAnd face Thy service with delight.",
+  ]),
+
+   Hymn("NO 51", "MY LORD, from people of the world", [
+    "1.	MY LORD, from people of the world\nWho have no hope in Thee;\nFrom all their snares deliver me,\nThat I may live in Thee.",
+    "2.	Wash me with Thy water the truth,\nJEHOVAH GOD of truth;\nAnd leave me not in temptations,\nBut from evils save me.",
+    "3.	My LORD, guide my steps in Thy “Way”\nThat I may walk aright\n	In Thy law a lamp to my feet,\nIn Thy kingdom “Thy Way”.",
+    "4.	Thy presence is fullness of joy;\nI’ll sing and praise Thy name,\nI thank Thee, LORD, for keeping me\nStill in Thy “Way” this day.",
+  ]),
+
+   Hymn("NO 52", "LORD, whate’er we’ll do great or small", [
+    "1.	LORD, whate’er we’ll do great or small,\nWhate’er we’ll speak or think of Thee\nMay they all to Thy glory be,\nAnd be well pleasing in Thy sight.",
+    "Chorus:\nWhate’er we do great or small with faith,\nWhate’er we do great or small with faith\nWhate’er we do, with faith be good in Thy sight.",
+    "2.	LORD, as we tread this woeful world,\nGuide us Father to The Kingdom;\n	Lest we stumble without Thine aid,\nAnd fall to rise no more O LORD.",
+    "3.	LORD, not the love for carnal lusts,\nNor all satan’s pleasures with joy;\nBut faithfulness and love of Thee.\nWill bring us nearer to Thy throne.",
+    "4.	FATHER, at each approaching day,\nMay the thoughts of Thy Bless-ed Realm \nMake strong our new-found thoughts of Thee,\nIn faithful works in love each day.",
+  ]),
+
+   Hymn("NO 53", "THINK of God’s wonderful acts", [
+    "1.	THINK of God’s wonderful acts\nHow He doth His people save\nFrom satan’s oppressive acts\nThroughout changing scenes of life.",
+    "2.	Think of His bountiful love\nThro’ Christ His Be-lov-ed Son.\nThink of His Kingdom on earth,\n	Full of grace and equity.",
+    "3.	Think of His infinite pow’r\nWhen various trials you meet;\nThink of His wonders how great, \nHow He saves us from them all.",
+    "4.	Think of His wonderful peace.\nHe doth give His faithful ones;\nThink of His mercy divine\nHis goodness never faileth.",
+  ]),
+
+   Hymn("NO 54", "GOD is the Rock of His people", [
+    "1.	GOD is the Rock of His people;\nThough snare of foes invade our ways,\nAnd ere we call, His presence shines,\nWith a wonderful saving arm.",
+    "Chorus:\nAnd ere we call, His presence shines\nWith a wonderful saving arm!\nAnd ere we call, His presence shines,\nWhen snares of foes invade our ways!",
+    "2.	To Him we give our lives and all,\nHis purposes to understand\nWe learn of Him to do His will,\nAnd be with Him on golden strand.",
+    "3.	Peaceful homes His promise affords,\nAnd gives new life of joyous rest\nNo more shall be known dreadful gates,\nBut everlasting life and peace!.",
+  ]),
+
+   Hymn("NO 55", "GOD is our shield and confidence", [
+    "1.	GOD is our shield and confidence,\nThro’ land, and sea, and sky.\nDeliv’rance He to us affords,\nThat seek His grace divine.",
+    "2.	According to our hope in Him,\nHe crownest us with joy.\nBy marvelous acts He protects,\nThough dangers may affright.",
+    "3.	LORD, Thou art our refuge and strength,\nA help in time of ill.\nMay all that love to do Thy will,\nTrust in Thy lasting strength.",
+    "4.	Thou stilleth the storms of the foes,\nBy Thy wonderful acts.\nThou suff’reth not our feet to slide,\nBy Thy mercy and pow’r.",
+  ]),
+
+   Hymn("NO 56", "LORD, it is our choice to be Thine", [
+    "1.	LORD, it is our choice to be Thine;\nWhatever may befall us,\nAnd when the hour of trial comes,\nWe will call on Thee for help.",
+    "2.	LORD, without Thee our hope is vain,\nIn Thy absence all is pain;\nThy presence is our joy and peace,\nO in this world void of ease!",
+    "3.	Most Holy One, Thou art our GOD,\nWho makes all our foes to flee;\nAt the trump of Thy holy word,\nWith shameful faces they’ll fall.",
+    "4.	Now to the world Thy light is shown,\nFor the salvation of man.\nThro’ our Lord and King-Christ Jesus\nWho’s now in spirit with us.",
+  ]),
+
+   Hymn("NO 57", "O LORD GOD, no hour is as sweat", [
+    "1.	O LORD GOD, no hour is as sweat,\nO Father no day is as bright!\nNeither is night also as calm,\nAs when Thy words comfort my heart.",
+    "2.	From every sunrise till ev’ning,\nLORD, when my daily bread I seek.\nThen Thy falling dews crownest me\nWith Thy never-ceasing blessings.",
+    "3.	No words can tell the joy within \nMy heart, when Thy presence brightens\nMy sojourning days amidst foes,\nAnd filleth me with victory songs.",
+    "4.	LORD, when satanic lusts harass\nMy onward march to promise land,\nThy precious word will be my lamp.\nGuide my steps with Thy mighty hand.",
+  ]),
+
+   Hymn("NO 58", "THEY that always trust in the LORD", [
+    "1.	THEY that always trust in the LORD,\nLike Mountain Zion shall be,\nWhich indeed cannot be removed ,\nBut for ever abideth.\nAs mountains ‘round Jerusalem\nSo the LORD His flock surround\nTo protect them that trust in Him,\nFrom henceforth for ever more.",
+    "2.	The rod of the wicked shan’t rest\nOn the lot of righteous ones;\nLest the righteous will be tempted\nTo put their hands unto sin\nDo good, O LORD to those that seek\nTo do good, in Thy Kingdom;\nAnd to the upright ones in heart\nShew Thy lovingkindness true.",
+    "3.	LORD, as for such that turn aside\nUnto their vain crooked ways,\nTheir lot shall be with evil ones,\nBut on ‘Israel’ shall be peace,\nLORD our “Captain of Salvation”\nJesus, blessed “Prince of Peace”\nLead us O our loving Shepherd,\nLord, till the battle be won.",
+  ]),
+
+   Hymn("NO 59", "GOD is my shepherd, I’ll not want", [
+    "1.	GOD is my shepherd, I’ll not want;\nDown He makes me to lie\nIn pastures green, He leadeth me\nBeside the silent stream.",
+    "2.	Thou now restore my hope and life,\nAnd make me now to thrive\nWithin the “City of Refuge”\nOn Thee my hope is built.",
+    "3.	And though through shades of death I tread,\nNo evil will I dread.\nThou art with me: Thy staff and rod\nShall comfort me, O LORD.",
+    "4.	Oh! In the presence of my foes,\nA table Thou prepare.\nMy head Thou with Thy wisdom fill;\nThy blessings I will feel.",
+    "5.	Goodness and love shall follow me,\nAll the days of my life.\nIn God’s Tabernacle I‘ll be,\nFor ever more in Christ.",
+  ]),
+
+   Hymn("NO 60 Part one", "ALMIGHTY, Holy Father", [
+    "1.	ALMIGHTY, Holy Father,\nFull of bounteous gift of life!\nThee alone I’ll serve to live;\nGuide me LORD in all my ways.\n  Blessed Father!",
+    "2.	To my feet, Thy word-a light,\nDirecting me LORD, aright\nThy precepts to keep and live,\nTill this sinful world I leave\n  O what a light",
+    "3.	With the two-edged sword Thy word,\nGo I boldly in Thy strength;\nTrusting that Thy pow’r will save\nMe from all wiles of the foe.\n O precious word.",
+    "4.	When I hear with joy Thy name\nFaithfully I run to Thee,\nCasting my cares upon Thee,\nFather, Thou carest for me.\nO what a name!.",
+  ]),
+
+   Hymn("NO 60 Part two", "ALMIGHTY Holy Father", [
+    "1.	ALMIGHTY Holy Father,\nFull of bounteous gift of life!\nThee alone I’ll serve to live,\nGuide me LORD in all my ways.\nBless-ed Father!\nThee alone I’ll serve to live;\nGuide me O LORD in all Thy ways.",
+    "2.	To my feet, Thy word-a light\nDirecting me LORD, aright\nThy precepts to keep and live,\nTill this sinful world I leave\n O what a light!\nThy precepts to keep and live,\nUntil I leave this sinful world.",
+    "3.	With Thy two-edg’d sword Thy word\nGo I boldly in Thy strength;\nTrusting that Thy pow’r will save\nMe from all wiles of the foe.\nO precious word.\nTrusting that Thy pow’r will save\nMe, LORD from all wiles of the foe.",
+    "4.	When I hear with joy Thy name\nFaithfully I run to Thee,\nCasting my cares upon Thee,\n Father, Thou carest for me.\nO what a name!\nCasting my cares upon Thee\nFather, LORD Thou carest for me.",
+  ]),
+
+   Hymn("NO 61", "FATHER of wisdom, gracious GOD", [
+    "1.	FATHER of wisdom, gracious GOD;\nAccept our thanksgiving this day,\nNot worldly thanks of faithless way,\nBut faithful thanks to Thee my LORD.",
+    "2.	For our hope in truth we thank Thee\nWhose favour and love crown our needs\nOur faithful works and love of Thee,\nAre done Thy blessings to enjoy.",
+    "3.	Ourselves we commit to Thy care;\nOur thoughts are all to know of Thee,\nO! May we ever thank Thee more\nFor Thy goodness; to Thee we flee.",
+	  "4.	LORD, we come with thanks Thee to praise;\nFor so great Thy lovingkindness\nFather of wisdom might and grace\nThou art our ROCK and hope and peace.",
+  ]),
+  
    Hymn("NO 31", "", [
     ".",
   ]),
