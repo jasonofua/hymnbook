@@ -1258,67 +1258,146 @@ Meet for our salvation.",
     "3.	Ourselves we commit to Thy care;\nOur thoughts are all to know of Thee,\nO! May we ever thank Thee more\nFor Thy goodness; to Thee we flee.",
 	  "4.	LORD, we come with thanks Thee to praise;\nFor so great Thy lovingkindness\nFather of wisdom might and grace\nThou art our ROCK and hope and peace.",
   ]),
+
+   Hymn("NO 62", "FOR each perfect gift from above", [
+    "1.	FOR each perfect gift from above,\nSo freely given us;\nWe gather with thanks for Thy love\nUnto us Lord of lords.",
+    "2.	By faithful deeds and sincere words,\nWe bring our thanks with praise; \nIn Thy Tabernacle good Lord,\nCrown us always with peace.",
+    "3.	Jesus, abroad Thy praise shall be	\nFor men Thy light to see\nIn all we do, may we praise Thee,\nAnd from sins always flee.",
+    "4.	The purpose of GOD is unveiled\nIn His Tabernacle;\nHis bless-edness His saints revealed,\nWho didst obey His call.",
+  ]),
+
+   Hymn("NO 63", "TO GOD be the glory, great things He hath done", [
+    "1.	TO GOD be the glory, great things He hath done\nSo loved He the world that He gave us His Son,\nWho yielded His life an atonement for sin,\nAnd opened the lifegate that all may go in.",
+    "Refrain:\nPraise the LORD, Praise the LORD,\nLet the earth hear His voice!\nPraise the LORD, Praise the LORD,\nLet the people rejoice! \nO come to the Father thro’ Jesus the Son,\nAnd give Him the glory, great things He hath done.",
+    "2.	O perfect redemption, the purchase of blood,\nTo every believer the promise of GOD;\nThe vilest offender who truly believes,\nThat moment from Jesus a pardon receives.",
+    "3.	Great things He hath taught us, great things He hath done,\nAnd great our rejoicing thro’ Jesus the Son;\nBut purer, and higher, and greater will be\nOur wonder, our triumph when Jesus we see.",
+  ]),
+
+   Hymn("NO 64", "NOW thank we all our GOD ", [
+    "1.	NOW thank we all our GOD\nWith heart and hands and voices,\nWho wondrous things hath done,\nIn whom His world rejoices;\nWho, from our mother’s arms,\nHath bless-ed us on our way\nWith countless gift of love\nAnd still is ours today. ",           
+    "2.	O may this bounteous GOD \nThrough all our life be near us,\nWith ever joyful hearts\nAnd blessed peace to cheer us;\nAnd keep us in His grace,\nAnd guide us when perplexed,\nAnd free us from all ills\nIn this world and the next.",
+    "3.	All praise and thanks to GOD\nThe Father now be given,\nThe Son and Him who reigns\nWith Them in highest heaven,\nThe one ETERNAL GOD,\n Whom earth and heav’n adore;\nFor thus it was, is now\nAnd shall be evermore.",
+  ]),
+
+   Hymn("NO 65", "HERE in the mount of GOD we come", [
+    "1.	HERE in the mount of GOD we come,\nBringing our off’rings and our vows \nFor JEHOVAH’S mercies on us.\nPraise ye the LORD.",
+    "2.	New blessings always from our LORD,\nFlow peacefully into our homes.\nNow may we as His favoured ones\nPraise ye the LORD.",
+    "3.	O come, O come ye favoured ones\n	Our King of glory to adore.\nIn exaltation of His name,\nPraise ye the LORD.",
+    "4.	We unitedly Him acclaim\nGOD that wrought wondrous things, not few;\nAnd giveth those who trust in Him,\nHis riches true.",
+  ]),
+
+   Hymn("NO 66", "PRAISE ye the LORD, O brethren", [
+    "1.	PRAISE ye the LORD, O brethren\nAnd always bless His name.\nSing of His wonderful acts,\nWhich He hath wrought on us!\nO worship Him and, thank Him,\nAnd Him only adore\n Through Jesus Christ our Saviour-\nTabernacle of GOD.",
+    "2.	Bless-ed are we O brethren,\nWho confess Him our own.\nThe goodness of His wisdom\nHas brought us nearer Him,\nO worship Him, and thank Him\nFor His loving-kindness:\nAnd learn His truth and shun lies\nThat thou might live in Him.",
+    "3.	Now in this day of gladness,\nDo, knit your hearts in love,\nAnd ”Hail JEHOVAH and Christ”\nIn God’s Kingdom always.\nO worship Him, and thank Him,\nNow fill His house with praise\nAnd thanks, and in Him rejoice\nFor His Tabernacle.",
+  ]),
+
+   Hymn("NO 67", "LORD! Mighty is Thy hand", [
+    "1.	LORD! Mighty is Thy hand!\nTo make great, it is Thine\nAnd give strength to Thine own,\nWho trusteth in Thy name.",
+    "Refrain:\n‘Tis Thine O LORD\nWe give this day\nSo willingly!\n‘Tis Thine O LORD!",
+    "2.	In our meditation\nTo seek Thy Salvation,\nWe have this day given\nThese gifts to be Thine own.",
+    "3.	LORD in sincerity,\nWe’ve offered willingly:\nAnd now with joy we see\nThy people here this day.",
+    "4.	Our LORD! We know that Thou\nTriest the heart of men,\nWeather they seek Thine own\nIn uprightness to live.",
+    "5.	As pilgrims in thy sight,\nMay our hearts keep Thy law\nAlways to be a light\nTo guide us ever more.",
+  ]),
+
+   Hymn("NO 68", "LORD, with a willing heart", [
+    "1.	LORD, with a willing heart\nWe pay our vows,\nO this day in Thy court\nMost gracious LORD\n Re-ceive us with Thine love\n Oh! Our loving Father,\nKeeping, and blessing us\nWith divine show’r.",
+    "2.	LORD with a willing heart\nThee, we will serve,\nAnd praise Thee, with thank\nThat we don’t swerve \nFrom Thee to satan’s hold,\nOh! Feed us with Thy word,\nThat we may not depart\nFrom Thee O LORD.",
+  ]),
+
+   Hymn("NO 69", "O GOD of Salem, gracious LORD", [
+    "1.	O GOD of Salem, gracious LORD,\nBless-ed one of Israel:\nThou in ages doth lead and guard,\nAnd feed Thy children well.",
+    "2.	Our lives and off’rings we present\nThis day with all our hearts\nGOD of Salem we’ll ne’er resent\nTo herald loud Thy acts.",
+    "3.	LORD shew Thy light to all Thy race,\nAnd may their trouble cease;\nAnd in Thy Kingdom by Thy grace,\nWe shall ever dwell in peace.",
+  ]),
+
+   Hymn("NO 70", "UNTO Thee we give thanks ", [
+    "1 UNTO Thee we give thanks\nIn Thy Kingdom O GOD\nO Thou Most Holy and Reverend\nThou spoileth the snares \nAnd the ways of the foes,\nAnd make us free from the wiles of foes.",
+    "Chorus:\nWe give thanks and rejoice.\nUnto Thee we give thanks and rejoice.",
+    "2.	Now, Thy gospel O LORD\nExtends from shore to shore,\nRescuing the lost ones to Thee.\nJEHOVAH our GOD\nLORD, may Thy name be known\nIn the remotest part of earth.",
+    "3.	Teach us LORD, to become\n Good ones of Thy Kingdom;\nAnd bless us in Thy court below\nThro’ Christ our Saviour:\nAnd we thank Thee, O LORD,\nFor keeping us safe throughout the years.",
+  ]),
+
+   Hymn("NO 71", "WE thank Thee, Father, our LORD", [
+    "1.	WE thank Thee, Father, our LORD,\nFor so great Thy love to us\nAnd Thy wondrous precious word,\nGiven us Thy own by grace\nFor Thy precious Truth we yearn\n And Thy gracious peace we earn.",
+    "2.	We thank Thee for this we know\nThat Thy presence is our joy\nFrom strength to strength we‘ll declare\nThy wondrous acts near and far,\nWhich to mankind Thou have shown,\nThough of old some had not known. ",
+    "3.	Praise the LORD with one accord\n With melodious songs of praise;\nAnd with precious gifts and thanks,\nHis kingdom adorned with praise,\nYe people O thank the LORD\nFor so great His love to us.",
+  ]),
+
+   Hymn("NO 72", "NOW thank we LORD, our GOD", [
+    "1.	NOW thank we LORD, our GOD-\nCre-a-tor of man-kind\nWho daily feeds His creatures dear,\nAnd clothe them with His care.\nThough our days be spent here.\nIn vale of death and woe;\nYet, trusting in His loving care,\nWe‘ll reach the blissful shore.",  
+    "2.	O JEHOVAH our GOD\nThine is the ruling rod,\nWe hope to live by faith in Thee\nFrom Thee our blessings be\nThy bless-ed race to run\nThro’ Jesus Christ Thy son\nLORD, give us strength to do Thy will\nOur hearts with wisdom fill.",
+    "3.	When with Christ we shall live\nIn Joy eternally. \nThe saints above, the meek below-\nO, what a glorious day!\nAnd what a “Paradise”\nShall heaven and earth be!\nThen nowhere shall the foe be found,\nFor righteous ones shall rule.",
+    "4.	Now Thank we LORD our GOD,\nFor His mercy on us,\nIn sending Jesus Christ our LORD\nTo ransom us from sins.\nLORD, hear Thy children sing,\nMarching to land of peace\nFor prize of life from Thee our KING\nJEHOVAH GOD of peace.",
+  ]),
+
+   Hymn("NO 73", "THAT which our feeble hands have wrought", [
+    "1.	THAT which our feeble hands have wrought,\nWill to the throne of GOD be brought.\nNow as our faithful thanks-off’rings,\nFor His mercies to us we sing.",
+    "2.	Render to GOD His praises due; \nGive to Him our off’rings, though few,\nKnowing of truth it’s His to save\nUs from satan’s perilous waves. ",
+    "3.	O! When we hear His precious word,\nWe feel His gracious love divine\nAnd love to do His will with joy,\nTill satan’s fold He doth destroy.",
+    "4.	GOD, who in His likeness made us,\nWill be thro’ this last day our light\nAnd Oh! With joy our mouth shall sing-\n“Hail JEHOVAH and Jesus Christ!”.",
+  ]),
+
+   Hymn("NO 74", "HONOUR the LORD with thy substance", [
+    "1.	HONOUR the LORD with thy substance\nAnd the first fruit of thy increase\nSo shall prosperity abide\nIn what Thou findst to do.",
+    "2.	Satan wont prevail on thy ways\nBy his destructive plots or deeds\n But blessings shall with Thee abide\nIn what Thou findst to do.",
+    "3.	Now give unto GOD His due thanks\nFor all His benefits to Thee,\nEnrich His store with plenteous gifts\nIn what thou findst to do.",
+  ]),
+
+   Hymn("NO 75", "WE praise thee, O GOD", [
+    "1.	WE praise thee, O GOD,\nFor the Son of Thy love,\nFor Jesus who died\nAnd is now gone above.",
+    "Refrain:\nHallelujah! Thine the glory\nHallelujah! Amen:\nHallelujah! Thine the glory,\nRevive us again.",
+    "2.	We praise thee, O GOD,\nFor Thy Spi-rit of light,\nWho has shown us Christ;\nOur Re-deem-er and our King",
+    "3.	All glo-ry and praise \nTo the Lamb that was slain\nWho has borne our sins\nAnd has cleansed ev’ry stain.",
+    "4.	Re-vive us a-gain,\nFill each heart with Thy love;\nRe-kin-dle each soul \nWith Thy pow’r from a-bove.",
+  ]),
+
+   Hymn("NO 76", "GUIDE me, O Thou great JEHOVAH", [
+    "1.	GUIDE me, O Thou great JEHOVAH,\nPilgrim through this barren land;\nI am weak, but Thou art Mighty;\nHold me with thy pow’rful hand\nLORD of heaven, LORD of heaven,\nFeed me till I want no more.",
+    "2.	Open now the crystal fountain,\nWhence the healing stream doth flow;\nLet the fire and cloudy pillar\nLead me all my journey through;\nStrong Deliverer, strong Deliverer,\nBe Thou still my strength and shield.",
+    "3.	When I tread the verge of Jordan,\nBid my anxious fears subside;\nDeath of death, and hell’s destruction,\nLand me safe on Canaan’s side;\nSongs of praises, songs of praises\nI will ever give to Thee.",
+  ]),
+
+   Hymn("NO 77", "‘AT Jesus’ name shall all knees bow", [
+    "1.	‘AT Jesus’ name shall all knees bow\nOf things in heav’n and earth below;’\nAnd then with tongues shall they confess,\n‘Christ Jesus is the King of glory’",
+    "2.	’Though he, bein’ in the form of GOD\nThought it not robb’ry to be made;\nEqual with the ALMIGHTY GOD;’\nYet, the form of servant he took!   
+    "3.	’Bein’ found in fashion as a man,\nHe humbled himself and became\nObedient unto shameful death-\nThe death on tree in Golgotha’!",
+    "4.	’That we, as repentant sinners,\n Might receive thro’ Christ God’s blessings\n And everlasting life by grace,\n Thro’ his precious blood shed for us!",
+    "5.	’By him, for him, were made good things\nVisible and invisible;\n Whether of thrones and dominions,\n Or principalities and pow’rs.",
+  ]),
+
+   Hymn("NO 78", "CHRIST is the Way, the Truth, and Life", [
+    "1.	CHRIST is the Way, the Truth, and Life\nLoving shepherd Prince of life.\nAs He love us, let’s then love them\n Who do love him as we do.
+    "Chorus:\nChrist’s redeeming grace abiding!\nWe’ve passed from death unto life\nHallelujah! Hallelujah!\nFor this great gift from above.",
+    "2.	Christ our Star of hope and Leader,\nAnd the Dayspring from above.\nDefensive Rock-Gracious Saviour;\n Guide and guard us safely Home.",
+    "3.	Christ the key to goodly treasure-\nHid under the mercy seat,\nHelp us LORD to have such treasure\nAnd glorify Thee with it.",
+    "4.	“Lovest thou me”?The Savior said,\n‘Yes’! Our voices cried with joy.\nTherefore, praise Him ye that were blind\nBut now have seen the true way.",
+  ]),
+
+   Hymn("NO 79", "I am he that reigneth", [
+    "1.	 ‘I am he that reigneth,\nAnd rules in majesty\nI am he that reigneth\nTo save the meek in Christ.\nBehold! I am alive-\nAlive though once was dead;\nBehold! I am alive-\nAnd reign for ever more.’",
+    "2.	‘I am he that bringeth\nThe lasting peace of GOD.\nI am he that bringeth\nThe lasting peace of GOD.\nBehold! I am the Lord,\n And the Saviour of the world\nI am he that bringeth\nThe lasting peace of God.’",
+    "3.	‘I am he that sitteth,\nAt the right hand of GOD\nI am he that sitteth\nAt the right of GOD \nTo rule in equity,\n And captives to set free\nI am he that ruleth\nAs King of Righteousness.’",
+    "4.	‘I am he that loveth\nThe sinner all to save\nI am he that sheddeth\nMy blood to save mankind\nWho love me as I do\nAnd heed my word of truth\nI am he that loveth\nSinners who love my way.’",
+    "5.	‘I am he that teacheth\nThe humble sheep of GOD\nI am he that teacheth \nThe humble sheep of GOD\nBehold! I am the Truth \nAnd the way and the life-\nThe door of all the sheep\nWho love the way of life",
+    "6.	I am he that feedeth\nThe hungry ones with truth\nI am he that feedteh\nWith precious word of life\nBehold! All the powers\nIn heaven and on earth,\nUnto me belongeth,\nNow and for ever more.’",
+  ]),
+
+   Hymn("NO 80", "JESUS, I love Thee with all my heart", [
+    "1.	JESUS, I love Thee with all my heart\nAnd not by outward lips of praise\nBut with sincerity of heart,\nIn Thy Kingdom to own Thy grace.",
+    "2.	 The bitterness of my sorrows\n more shall be known, since I hear\nThy yoke to learn of all Thy ways.\nMy King and Saviour, Thine I am.",
+    "3.	Tongues can’t express my love for Thee,\nHow Thou didst die for me on the tree;\nAnd yet Thou counteth it but joy\nTo ransom a sinner like me.",
+    "4.	Jesus, Thou “Sun of Righteousness”\nCometh with healing in Thy wings\nThy chosen ones on earth\nThat in thy Kingdom they’ll rejoice.",
+  ]),
+
+   Hymn("NO 81", "NO word can tell what blest relief", [
+    "1.	NO word can tell what blest relief\nI’ve found in Jesus, my Lord;\nNor ear had heard of such relief,\nWhen we knew not Christ our Lord.
+    "2.	Thanks be to Christ, our gracious one;\nWho now comes in pow’r to reign\nWith wondrous light to lead his own\nTo the promised bless-ed home.
+    "3.	Not by worldly wisdom and might\nShall thy peace and love be gained;\nBut by keeping thy precious light,\nWhich in ages past was hid.
+    "4.	Days of sorrows and of mourning\nShall not in my heart be known,\nSince in thee  my Lord, I obtain\nLife and peace from thy fountain.",
+  ]),
   
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
    Hymn("NO 31", "", [
     ".",
   ]),
