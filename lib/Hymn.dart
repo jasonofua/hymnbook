@@ -1397,43 +1397,87 @@ Meet for our salvation.",
     "3.	Not by worldly wisdom and might\nShall thy peace and love be gained;\nBut by keeping thy precious light,\nWhich in ages past was hid.
     "4.	Days of sorrows and of mourning\nShall not in my heart be known,\nSince in thee  my Lord, I obtain\nLife and peace from thy fountain.",
   ]),
-  
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
+
+   Hymn("NO 82", "YEARS I spent in vanity and pride", [
+    "1.	YEARS I spent in vanity and pride,\nCaring not my Lord was crucified,\nKnowing not it was for me he died\nOn Calvary.",
+    "Refrains:\nMercy there was great, and grace was free;\nPardon there was multiplied to me;\nThere my burdened soul found liberty,\nAt Calvary.",
+    "2.	By GOD’S word at last my sin I learned;\nThen I trembled at the law I’ d spurned,\nTill my guilty soul imploring turned\nTo Calvary.",
+    "3.	Now I’ve giv’n to Jesus everything\nNow I gladly own him as my king,\nNow my redeemed soul can only sing\nOf Calvary.",
+    "4.	Oh, the love that drew salvation’s plan!\nOh, the grace that brought it down to man\nOh, mighty gulf that GOD did span\nAt Calvary.",
   ]),
 
-   Hymn("NO 31", "", [
-    ".",
+   Hymn("NO 83", "WHEN we walk with the Lord", [
+    "1.	WHEN we walk with the Lord\nIn the light of His word,\nWhat a glory He sheds on our way,\nWhen we do His good will,\nHe abides with us still,\nAnd with all who will trust and obey.",
+    "Refrain:\nTrust and obey\nFor there’s no other way\nTo be happy in Jesus\nBut to trust and obey.",              
+    "2.	Not a shadow can rise,\nNot a cloud in the skies,\nBut His smile quickly drives it away,\nNot a doubt nor a fear,\nNot a sigh nor a tear,\n Can abide while we trust and obey.",
+    "3.	But we never can prove\nThe delights of His love\nUntil all on the altar we lay,\nFor the favour He shows,\nAnd the joy He bestows,\nAre for them who will trust and obey.
+    "4.	Then in fellowship sweet\nIn the light of His word,\nWhat a glory He sheds on our way;\nWhat He says we will do,\nWhere He sends we will go-\nNever fear, only trust and obey.",
   ]),
-   Hymn("NO 31", "", [
-    ".",
+
+   Hymn("NO 84", "BLESSED assurance, Jesus is mine!", [
+    "1.	BLESSED assurance, Jesus is mine!\nOh, what a foretaste of glory divine!\nHeir of Salvation, purchase of GOD,\nBorn of His spirit, washed in His blood.",
+    "Refrain:\nThis is my story, this is my song,\nPraising my Saviour all the day long;\nThis is my story, this is my song, \nPraising my Saviour all the long.",
+    "2.	Perfect submission, perfect delight,\nVisions of heaven now burst on my sight;\nAngles descending, bring from above,\nEchoes of mercy, whispers of love.",
+    "3.	Perfect submission, all is at rest,\nI in my Saviour am happy and blest;\nWatching and praying looking above,\nFilled with His goodness, lost in His love.",
   ]),
-   Hymn("NO 31", "", [
-    ".",
+
+   Hymn("NO 85", "TODAY the Saviour calls", [
+    "1.	TODAY the Saviour calls;\nYe wand’rers come;\nOh, ye benighted souls,\nWhy longer roam?
+    "2.	Today the Saviour calls;\nOh, listen now!\nWithin these sacred walls!\nTo Jesus bow.
+    "3.	Today the Saviour calls;\nFor refuge fly;\nThe storm of justice falls,\nAnd death is nigh.
+    "4.	The spirit calls today;\nYield to His pow’r, \nOh, grieve Him not away!\n‘Tis mercy’s hour.",
+  ]),
+
+   Hymn("NO 86", "ALL to Jesus I surrender", [
+    "1.	ALL to Jesus I surrender,\nAll to Him I freely give;\nI will ever love and trust Him,\nIn His presence daily live.",
+    "Refrain:\nI surrender all’\nI surrender all.\nAll to Thee, my blessed Saviour,\nI surrender all.",
+    "2.	All to Jesus I surrender,\nHumbly at His feet I bow,\nWorldly pleasure all forsaken,\nBless me, Jesus, bless me now.",
+    "3.	All to Jesus I surrender,\nMake me, Saviour, wholly Thine;\nLet me feel the Holy Spirit,\nTruly know that Thou art mine.",
+    "4.	All to Jesus I surrender,\nLord I give myself to Thee;\nFill me with Thy love and power\nLet Thy blessing fall on me.",
+  ]),
+
+   Hymn("NO 87 part one", "SOLDIERS of Christ a-rise", [
+    "1.	SOLDIERS of Christ a-rise,\nAnd put your a-mour on,\nStrong in the strength which GOD sup-plies\nThrough His e-ter-nal Son.",
+    "2.	Strong in the LORD of Hosts,\nAnd His migh-ty pow’r\nWho in the strength of Je-sus trusts\nIs more than con-que-ror.",
+    "3.	Stand in His great might\nWith all His strength endued\nAnd take, to arm you for the light,\nThe pa-no-ply of God.",
+    "4.	That hav-ing all things done\nAnd all your con-flicts past\nYou may o’ercome through Christ a-lone,\nAnd stand en-tire at last.",
+    "5.	Leave no un-guard-ed place,\nNo weak-ness of soul;\nTake ev-‘ry vir-tue, ev-‘ry grace\nAnd for-ti-fy the whole.",
+    "6.	From strength to strength go on,\nWres-tle and fight and pray;\nTread all the pow’rs of dark-ness down,\nAnd win the well-fought day.",
+  ]),
+
+   Hymn("NO 87 part two", "SOLDIERS of Christ a-rise", [
+    "1.	SOLDIERS of Christ a-\nAnd put your ar-mour on,\nStrong in the strength which GOD sup-plies\nThrough His e-ter-nal Son;\nStrong in the LORD of Hosts,\nAnd His migh-ty pow’r\nWho in the strength of Je-sus trusts,\nIs more than con-que-ror.",
+    "2.	Stand then in His great might\nWith all His strength en-dued\nAnd take, to arm you for the fight,\nThe pa-no-ply of GOD;\n That hav-ing all things done\nAnd all your con-flicts past\nYou may ov’r-come through Christ a-lone\nAnd stand en-tire at last.",
+    "3.	Leave no un-guard-ed place\nNo weak-ness of the soul;\nTake ev-‘ry vir-tue, ev-‘ry grace\nAnd for-ti-fy the whole;\nFrom strength to strength go on,\nWres-tle and fight and pray,\nTread all the powers of dark-ness down,\nAnd win the well-fought day.",
+  ]),
+
+   Hymn("NO 88", "WALKING in sunlight, all of my journey", [
+    "1.	WALKING in sunlight, all of my journey;\nOver the mountains, thro’ the deep vale\n Jesus has said “I’ll never forsake thee,”\nPromise divine that never can fail.",
+    "Refrain:\nHeavenly sunlight, heavenly sunlight,\nFlooding my soul with glory divine;\nHallelujah, I am rejoicing\nSinging his praises, Jesus is mine.",
+    "2.	Shadows around me, shadows above me,\nNever conceal my Saviour and guide;\nHe is the light, in him is no darkness;\nEver I’m walking close to his side.",
+    "3.	In the bright sunlight, ever rejoicing,\nPressing my way to things from above\nSinging his praises gladly I’m walking,\nWalking in sunlight, sunlight of love.",
+  ]),
+
+   Hymn("NO 89", "WHAT a friend we have in Jesus", [
+    "1.	WHAT a friend we have in Jesus,\nAll our sins and grief to bear!\nWhat a privilege to carry\nEverything to GOD in pray’r,\nO what peace we often forfeit\nO what needless pain we bear,\nAll because we do not carry\nEverything to GOD in pray’r.",
+    "2.	Have we trails and temptations?\nIs there trouble anywhere?\nWe should never be discouraged,\nTake it to the Lord in pray’r,\nCan we find a friend so faithful?\nWho will all our sorrows share?\nJesus knows our every weakness,\n Take it to the Lord in pray’r", ",             
+    "3.	Are we weak and heavy-laden\nCumbered with a load of care?\nPrecious Saviour, still our refuge-\nTake it to the lord in pray’r,\nDo thy friends despise, forsake thee?\nTake it to the Lord in pray’r,\nIn His arm He’ll take and shield thee\nThou wilt find a solace there.",
   ]), 
 
-   Hymn("NO 31", "", [
-    ".",
+   Hymn("NO 90", "WHEN I survey the tree of shame", [
+    "1.	WHEN I survey the tree of shame\nOn which the Prince of glory died,\nMy richest gain I count but loss,\nAnd pour contempt on all my pride.",
+    "2.	Forbid it, Lord, that I should boast\nSave in the death of Christ my Lord;\nAll the vain things that charm me most\nI sacrifice them to his blood.",
+    "3.	See, from his head, his hand, his feet,\nSorrow and love flow mingled down;\nDid e’er such love and sorrow meet,\nOr thorns compose so rich a crown?",
+    "4.	Where the whole realm of nature mine,\nThat were a present far too small;\nLove so amazing, so divine,\nDemands my soul, my life, my all.",
   ]),
-   Hymn("NO 31", "", [
-    ".",
+   Hymn("NO 91", "HOW sweet the name of Jesus sounds", [
+    "1.	HOW sweet the name of Jesus sounds\nIn a believer’s ear\nIt soothes his sorrows heals his wounds\nAnd drives away his fear.",
+    "2.	It makes the wounded spirit whole,\nAnd calms the troubled breast;\n“Tis manna to the hungry soul,\nAnd to the weary rest.",
+    "3.	The name, the Rock on which I build,\nMy shield and hiding place,\nMy never failing treasury, filled\nWith boundless stores of grace.",
+    "4.	Jesus, my Shepherd, Saviour, Friend,\nMy prophet, Priest, and King,\nMy Lord, my Life, my Way, my End,\nAccept the praise I bring.",
   ]),
-   Hymn("NO 31", "", [
+
+   Hymn("NO 92", "", [
     ".",
   ]),
   Hymn("NO 31", "", [
