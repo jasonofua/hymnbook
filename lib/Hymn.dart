@@ -396,54 +396,23 @@ And leave us not in Satan’s snares."
   ]),
 
   Hymn("NO 14", "A Little Flock, so calls He thee", [
-    "1.	A Little Flock, so calls He thee\n
-	    Who bought thee, with His blood;\n
-	    A little flock disowned of men,\n
-	    But owned and loved of GOD."
-
-"2.	A little flock, so calls He thee;\n
-	  Church of the first-born hear!\n
-	  Be not ashamed to own the name;\n
-	  It is no name of fear."
-
-"3.	Not many rich or noble called,\n
-	Not many great or wise;\n
-	Those whom GOD makes His kings and priests\n
-	As poor in human eyes."
-
-"4.	But the Chief Shepherd comes at length\n
-	His feeble days are o’er\n
-  With glory crowned, and sceptre’s strength,\n
-  He reigns for evermore.",
+    "1.	A Little Flock, so calls He thee\nWho bought thee, with His blood;\nA little flock disowned of men,\nBut owned and loved of GOD.",
+    "2.	A little flock, so calls He thee;\nChurch of the first-born hear!\nBe not ashamed to own the name;\nIt is no name of fear.",
+    "3.	Not many rich or noble called,\nNot many great or wise;\nThose whom GOD makes His kings and priests\nAs poor in human eyes.",
+    "4.	But the Chief Shepherd comes at length\nHis feeble days are o’er\nWith glory crowned, and sceptre’s strength,\nHe reigns for evermore.",
   ]),
 
   Hymn("NO 15", "", [
-    "1.	BLESS-ED LORD, when all Thy mercies\n
-	  Comfort my weary heart!\n
-	   heart inclines to rest in peace,\n
-	  Void of sorrows and pain."
-
-"2.	When inspired with the thought “I’m Thine”\n
-	What more could words express\n
-	Than godly utt’rance  of Thy praise?\n
-	O Thou “ANCIENT OF DAYS!”"
-
-"3.	Thy praise I’ll sing from shore to shore\n
-	  In all my sojourn here.\n
-	  When Thy wondrous way I survey,\n
-	  I bow in awe and fear."
-
-"4.	Here we meet Thy wisdom to learn;\n
-	That we, Thy own might run\n
-	The race of life so as to win,\n
-	And gain the precious prize.",
+    "1.	BLESS-ED LORD, when all Thy mercies\nComfort my weary heart!\nheart inclines to rest in peace,\nVoid of sorrows and pain.",
+    "2.	When inspired with the thought “I’m Thine”\nWhat more could words express\nThan godly utt’rance  of Thy praise?\nO Thou “ANCIENT OF DAYS!”",
+    "3.	Thy praise I’ll sing from shore to shore\nIn all my sojourn here.\nWhen Thy wondrous way I survey,\nI bow in awe and fear.",
+    "4.	Here we meet Thy wisdom to learn;\nThat we, Thy own might run\nThe race of life so as to win,\nAnd gain the precious prize.",
   ]),
 
   Hymn("NO 16", "GLORY and praises to our GOD", [
-    "1.	GLORY and praises to our GOD\n
-	    Who eternally reigns.\n
-	    Wisdom and pow’r, justice and love,\n
-	    Within His throne abide."
+    "1.	GLORY and praises to our GOD\nWho eternally reigns.\n
+    Wisdom and pow’r, justice and love,\n
+	    Within His throne abide.",
 
     "2.	Words cannot say of my sweet thoughts\n
 	  In GOD and His Kingdom,\n
