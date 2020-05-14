@@ -1477,10 +1477,16 @@ Meet for our salvation.",
     "4.	Jesus, my Shepherd, Saviour, Friend,\nMy prophet, Priest, and King,\nMy Lord, my Life, my Way, my End,\nAccept the praise I bring.",
   ]),
 
-   Hymn("NO 92", "", [
-    ".",
+   Hymn("NO 92", "THE Great Physician now is near", [
+    "1.	THE Great Physician now is near,\nThe sympathizing Jesus,\n He speaks the drooping heart to cheer,\nOh, hear the voice of Jesus!",
+    "Chorus:\nSweetest note in seraph song,\nSweetest name on mortal tongue,\n Sweetest carol ever sung;\nJesus blessed Jesus!",
+    "2.	All glory to the risen Lamb!\nI now believe in Jesus;\nI love the blessed Saviour’s name,\nI love the name of Jesus.",
+    "3.	His name dispels my guilt and fear,\n  No other name but Jesus!\nOh, how soul delights to hear\nThe precious name of Jesus,",
+    "4.	Come, brethren, help me sing His praise,\nOh, praise the name of Jesus!\nCome, sisters, all your voices raise,\n Oh, bless the name of Jesus.",
+    "5.	The children too, both great and small,\n Who love the name of Jesus,\nMay now accept the gracious call\n  To love and work for Jesus.",
   ]),
-  Hymn("NO 31", "", [
+
+  Hymn("NO 93", "", [
     ".",
   ]),
   Hymn("NO 31", "", [
