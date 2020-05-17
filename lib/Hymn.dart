@@ -34,365 +34,96 @@ final List<Hymn> hymns = [
   ]),
 
   Hymn("NO 3", "ALMIGHTY, MOST HOLY,", [
-  "  1.	ALMIGHTY, MOST HOLY,\n
-	Is Thy name O LORD of Host!\n
-	To Thee we come with thanks\n
-	And Thy holy name to praise,\n
-	We thank Thee LORD, for using us\n
-	Thy name to proclaim abroad."
-
-"2.	All wisdom, all pow’rs\n
-	Unto Thee MOST HIGH belong\n
-	When we come to praise Thee,\n
-	What a blessing we have found;\n
-	And the faithful ones by Thy grace\n
-	Shall reap the good of the land."
-
-"3.	Thou art justice and love!\n
-And all good things come from Thee,\n
-By love, mercy and truth,\n
-Thou hast brought us to Thy light\n
-But when we had not come to Thee.\n
-We were then without Thy light.",
+  "  1.	ALMIGHTY, MOST HOLY,\nIs Thy name O LORD of Host!\nTo Thee we come with thanks\nAnd Thy holy name to praise,\nWe thank Thee LORD, for using us\nThy name to proclaim abroad.",
+  "2.	All wisdom, all pow’rs\nUnto Thee MOST HIGH belong\nWhen we come to praise Thee,\nWhat a blessing we have found;\nAnd the faithful ones by Thy grace\nShall reap the good of the land.",
+  "3.	Thou art justice and love!\nAnd all good things come from Thee,\nBy love, mercy and truth,\nThou hast brought us to Thy light\nBut when we had not come to Thee.\nWe were then without Thy light.",
   ]),
 
   Hymn("NO 4", "ALL GLORY TO GOD BE GIVEN", [
-    "1.	ALL glory to GOD be given;
-	For so good His great love divine;
-	Trusting He’s almighty to save,
-	Pledge thyself always to His care."
-
-"Chorus:\n
-		All glory be given to the LORD:\n
-		All glory be given to the LORD\n
-		With thankful praises, for His Love Divine."
-
-"2.	LORD, how valuable is Thy word,\n
-	Which in all what I do I need\n
-	By feeding on this precious word,\n
-	I will from sin and death be saved."
-
-"3.	Healing water-Thy word O LORD,\n
-	Maketh hearts of the sinners clean\n
-	Who from their evil ways return,\n
-To seek Thy divine grace O LORD."
-
-"4.	I sought, and now I’ve found the truth\n
-	Of my Lord who loves me dearly\n
-Now in my heart His precious words\n
-	Abound and make me love His ways.",
+    "1.	ALL glory to GOD be given;\nFor so good His great love divine;\nTrusting He’s almighty to save,",
+    "Chorus:\nAll glory be given to the LORD:\nAll glory be given to the LORD\nWith thankful praises, for His Love Divine.",
+    "2.	LORD, how valuable is Thy word,\nWhich in all what I do I need\nBy feeding on this precious word,\nI will from sin and death be saved.",
+    "3.	Healing water-Thy word O LORD,\nMaketh hearts of the sinners clean\nWho from their evil ways return,\nTo seek Thy divine grace O LORD."
+    "4.	I sought, and now I’ve found the truth\nOf my Lord who loves me dearly\nNow in my heart His precious words\nAbound and make me love His ways.",
   ]),
 
 
   Hymn("NO 5", "MARVELOUS AND GREAT", [
-    "1 MARVELOUS and great,\n
-O LORD, are Thy works.\n
-Glorious is Thy throne,\n
-Perfect are Thy ways\n
-Thy saints all shall praise Thee,\n
-All the world around\n
-Confessing Thy goodness\n
-And truth to mankind."
-
-"2.	Marvelous and great\n
-	Is Thy love, O GOD,\n
-	Thy justice and love\n
-	To mankind bestowed.\n
-	Many are Thy blessings,\n
-	Promised to mankind;\n
-And those who love Thy ways,\n
-Thy blessings enjoy."
-
-"3.	Heaven is Thy throne\n
-	The earth Thy footstool;\n
-The fullness thereof\n
-Are all from Thee LORD\n
-Thou dwell not in temples\n
-Made with sinful hands;\n
-But Thy Holy Temple\n
-Is Thy ‘nointed ones."
-
-"4.	We honour Thy name,\n
-	And honour Thy ways\n
-	We honour thy word\n
-	And esteem Thy love.\n
-	Thy wisdom and pow’r\n
-	Thy justice and love\n
-	Declare Thy wondrous works\n
-	All the world around.",
+    "1 MARVELOUS and great,\nO LORD, are Thy works.\nGlorious is Thy throne,\nPerfect are Thy ways\nThy saints all shall praise Thee,\nAll the world around\nConfessing Thy goodness\nAnd truth to mankind.",
+    "2.	Marvelous and great\nIs Thy love, O GOD,\nThy justice and love\nTo mankind bestowed.\nMany are Thy blessings,\nPromised to mankind;\nAnd those who love Thy ways,\nThy blessings enjoy.",
+    "3.	Heaven is Thy throne\nThe earth Thy footstool;\nThe fullness thereof\nAre all from Thee LORD\nThou dwell not in temples\nMade with sinful hands;\nBut Thy Holy Temple\nIs Thy ‘nointed ones.",
+    "4.	We honour Thy name,\nAnd honour Thy ways\nWe honour thy word\nAnd esteem Thy love.\nThy wisdom and pow’r\nThy justice and love\nDeclare Thy wondrous works\nAll the world around.",
   ]),
 
   Hymn("NO 5", "MAR-VE-LOUS and great are Thy works O LORD GOD", [
-    "1.	MAR-VE-LOUS and great are Thy works O LORD GOD\n
-	Glo-ri-ous……………is Thy throne………………..\n
-	Per-fect are Thy ways all Thy saints shall praise Thee,\n
-	All the world……….world a-round……………"
-
-"Refrain:\n
-	   Con-fess-ing……. Con-fess-ing Thy good-ness\n
-	   And Thy truth……. To all man-kind\n
-	   Con-fess-ing……. Con-fess-ing Thy goodness\n
-	   And Thy truth……. To all man-kind."
-
-"2.	Mar-ve-lous and great is Thy love O LORD GOD\n
-	Thy just–ice ………. And Thy love ………\n
-	To man-kind bes-tow’d  man-y are thy blessings\n
-	Thou pro-mised ……… to man-kind………."
-
-"Refrain:\n
-	   And those who……..And those who love Thy ways\n
-	   Thy bless-ings……they will en-joy\n
-	   And those who……..And those who love Thy ways\n
-	   Thy bless-ings……they will en-joy"
-
-"3.	Hea-ven is Thy throne and the earth Thy foot-stool;\n
-	And the full………ness there-of………………\n
-	Are all fro thee Lord, Thou dwell not in tem-ples\n
-Made by hands……sinf-ful hands…………."
-
-"Refrain:\n
-	   Thy tem-ple……..Thy ho-ly tem-ple Lord\n
-	   Is the Saints……Thy ‘nointed ones\n
-	   Thy tem-ple……..Thy ho-ly tem-ple Lord\n
-	   Is the Saints……Thy ‘nointed ones"
-
-"4.	We hon-our Thy name and we hon-our Thy ways,\n
-	AL-MIGHTY……………..JE-HO-VAH…….\n
-	We es-teem Thy love, thy wisdom and Thy pow’r\n
-	AL-MIGHTY……………..JE-HO-VAH……."
-
-"Refrain:\n
-	   We’ll pro-claim…….And declare all Thy works\n
-	   To the world……….the world a-round\n
-	   We’ll pro-claim…….And declare all Thy works\n
-	   To the world……….the world a-round",
+    "1.	MAR-VE-LOUS and great are Thy works O LORD GOD\nGlo-ri-ous……………is Thy throne………………..\nPer-fect are Thy ways all Thy saints shall praise Thee,\nAll the world……….world a-round……………",
+    "Refrain:\nCon-fess-ing……. Con-fess-ing Thy good-ness\nAnd Thy truth……. To all man-kind\nCon-fess-ing……. Con-fess-ing Thy goodness\nAnd Thy truth……. To all man-kind.",
+    "2.	Mar-ve-lous and great is Thy love O LORD GOD\nThy just–ice ………. And Thy love ………\nTo man-kind bes-tow’d  man-y are thy blessings\nThou pro-mised ……… to man-kind……….",
+    "Refrain:\nAnd those who……..And those who love Thy ways\nThy bless-ings……they will en-joy\nAnd those who……..And those who love Thy ways\nThy bless-ings……they will en-joy",
+    "3.	Hea-ven is Thy throne and the earth Thy foot-stool;\nAnd the full………ness there-of………………\nAre all fro thee Lord, Thou dwell not in tem-ples\nMade by hands……sinf-ful hands………….",
+    "Refrain:\nThy tem-ple……..Thy ho-ly tem-ple Lord\nIs the Saints……Thy ‘nointed ones\nThy tem-ple……..Thy ho-ly tem-ple Lord\nIs the Saints……Thy ‘nointed ones",
+    "4.	We hon-our Thy name and we hon-our Thy ways,\nAL-MIGHTY……………..JE-HO-VAH…….\nWe es-teem Thy love, thy wisdom and Thy pow’r\nAL-MIGHTY……………..JE-HO-VAH…….",
+    "Refrain:\nWe’ll pro-claim…….And declare all Thy works\nTo the world……….the world a-round\nWe’ll pro-claim…….And declare all Thy works\nTo the world……….the world a-round",
   ]),
 
   Hymn("NO 6", "JEHOVAH GOD of hosts", [
-    "1.	JEHOVAH GOD of hosts-\n
-	  The HOLY and REVEREND\n
-	  We flee to Thy Kingdom,\n
-	  For truth and protection.\n
-	  LORD, Thine we are;\n
-	  Now protect us\n
-	  For Thine we are\n
-	  O GOD of hosts."
-
-"2.	Thy blessings and Thy peace\n
-	  Thou giveth those who stay\n
-	  n Thy court to obey\n
-	  Thy true testimonies.\n
-	  O Thine we are,\n
-    To dwell with Thee\n
-    And to obey\n
-    LORD, in Thy court."
-
-"3.	A goodly hope we have,\n
-	LORD in keeping Thy Truth.\n
-	And, as on Thee we build\n
-  Our hope, we’ll live by faith.\n
-	And faithful still\n
-	To do Thy will\n
-	For evermore,\n
-	For Thine we are."
-
-"4	Ye people of the LORD!\n
-    Now sing that “Thine we are”\n
-	  To our loving Father\n
-	  Jehovah Blessed GOD\n
-	  Sing “Thine we are”\n
-	  And now rejoice\n
-	  In KING of Kings.\n
-	  Sing “Thine we are!",
+    "1.	JEHOVAH GOD of hosts-\nThe HOLY and REVEREND\nWe flee to Thy Kingdom,\nFor truth and protection.\nLORD, Thine we are;\nNow protect us\nFor Thine we are\nO GOD of hosts.",
+    "2.	Thy blessings and Thy peace\nThou giveth those who stay\nn Thy court to obey\nThy true testimonies.\nO Thine we are,\nTo dwell with Thee\nAnd to obey\nLORD, in Thy court.",
+    "3.	A goodly hope we have,\nLORD in keeping Thy Truth.\nAnd, as on Thee we build\nOur hope, we’ll live by faith.\nAnd faithful still\nTo do Thy will\nFor evermore,\nFor Thine we are.",
+    "4	Ye people of the LORD!\nNow sing that “Thine we are”\nTo our loving Father\nJehovah Blessed GOD\nSing “Thine we are”\nAnd now rejoice\nIn KING of Kings.\nSing “Thine we are!",
   ]),
 
   Hymn("NO 7", "JEHOVAH, the ALMIGHTY GOD!", [
-    "1.	JEHOVAH, the ALMIGHTY GOD!\n
-	  May the earth Thy glory fill;\n
-	  Where we, the”Jonadabs” will dwell,\n
-	  Trusting in Thy”Word of life”."
-
-"Chorus:\n
-	Guide us LORD by Thy word,\n
-  In this woeful sinful world:\n
-  Though godless one abide,\n
-  Yet we triumph by Thy word."
-
-"2.	We worship Thee, O LORD of host;\n
-	  Thou who saves us from our foes;\n
-	  And though away would roll the years,\n
-	  O LORD, Thou art same always."
-
-"3.	O LORD Thee alone we still serve,\n
-	  Thro’ our Saviour Christ Jesus;\n
-	  With joy we will renew our vows,\n
-	  To serve Thee in Thy Kingdom."
-
-"4.	May Thy light shine in all we do\n
-    And make it LORD glorious still\n
-    That we a light to all would be,\n
-    Calling all lost ones to Thee.",
+    "1.	JEHOVAH, the ALMIGHTY GOD!\nMay the earth Thy glory fill;\nWhere we, the”Jonadabs” will dwell,\nTrusting in Thy”Word of life”.",
+    "Chorus:\nGuide us LORD by Thy word,\nIn this woeful sinful world:\nThough godless one abide,\nYet we triumph by Thy word.",
+    "2.	We worship Thee, O LORD of host;\nThou who saves us from our foes;\nAnd though away would roll the years,\nO LORD, Thou art same always.",
+    "3.	O LORD Thee alone we still serve,\nThro’ our Saviour Christ Jesus;\nWith joy we will renew our vows,\nTo serve Thee in Thy Kingdom.",
+    "4.	May Thy light shine in all we do\nAnd make it LORD glorious still\nThat we a light to all would be,\nCalling all lost ones to Thee.",
   ]),
 
   Hymn("NO 8", "FATHER, Thy children we are", [
-    "1.	FATHER, Thy children we are;\n
-	Feed us with Thy living bread;\n
-	For to Thee we leave our care;\n
-	Thou knowest our daily need."
-
-"Chorus: \n
-Thine we are Father of life!\n
-Chosen ones of Thy Kingdom;\n
-Gracious LORD Father of life\n
-Bless us Father: Thine we are."
-
-"2.	May Thou, with thy guardian care,\n
-	Uphold our thoughts evermore\n
-	To think of Thee O Father,\n
-	To be Thine, and Thine for’er"
-
-"3.	Thy love to us is proven\n
-	By Christ whom Thou didst sent us\n
-	To call us to Thy Kingdom\n
-	Though of old we never knew."
-
-"4.	LORD, inspire us in Thy court\n
-	To show forth Thy divine light;\n
-	That we, thro’ our faithfulnessn
-	May shine in Thy revealed truth.",
+    "1.	FATHER, Thy children we are;\nFeed us with Thy living bread;\nFor to Thee we leave our care;\nThou knowest our daily need.",
+    "Chorus: \nThine we are Father of life!\nChosen ones of Thy Kingdom;\nGracious LORD Father of life\nBless us Father: Thine we are.",
+    "2.	May Thou, with thy guardian care,\nUphold our thoughts evermore\nTo think of Thee O Father,\nTo be Thine, and Thine for’er",
+    "3.	Thy love to us is proven\nBy Christ whom Thou didst sent us\nTo call us to Thy Kingdom\nThough of old we never knew.",
+    "4.	LORD, inspire us in Thy court\nTo show forth Thy divine light;\nThat we, thro’ our faithfulnessnMay shine in Thy revealed truth.",
   ]),
 
   Hymn("NO 9", "GREAT is JEHOVAH GOD of hosts!", [
-    "1.	GREAT is JEHOVAH GOD of hosts!\n
-	Whose ways and works are won-der-ful\n
-	Un-search-a-ble His great-ness is!\n
-	He’s the LORD Im-mor-tal!"
-
-"Chorus:\n
-	Sing! Angels and men.\n
-	With cheer-ful voi-ces.\n
-	His name, al-ways praise\n
-	Singing in a-do-ra-tion."
-
-"2.	Great is Jehovah KING of kings\n
-	Who ruleth over all nations!\n
-	Before Him bow with thankful hearts;\n
-	Extol the KING of kings."
-
-"3	Great is the LORD “ANCIENT OF DAYS”!\n
-	None, O! none is like unto Him!\n
-	His bounteous mercies He gives us\n
-	Who bow and praise His name."
-
-"4.	Great is the LORD who cares for us\n
-	What else do we care when He’s nigh?\n
-	E’en let bleak winds of the foe rise,\n
-	God is our shield and peace!"
-
-"5.	Great is JEHOVAH for ever!\n
-	All pow’r to Him belong for’er!\n
-	His blessings, wisdom and favour\n
-	Endureth for ever!"
-"6.	When to His service we attend,\n
-	May His Spirit guide us all day\n
-	To learn His ways our paths to mend,\n
-	His is the saving way.",
+    "1.	GREAT is JEHOVAH GOD of hosts!\nWhose ways and works are won-der-ful\nUn-search-a-ble His great-ness is!\nHe’s the LORD Im-mor-tal!",
+    "Chorus:\nSing! Angels and men.\nWith cheer-ful voi-ces.\nHis name, al-ways praise\nSinging in a-do-ra-tion.",
+    "2.	Great is Jehovah KING of kings\nWho ruleth over all nations!\nBefore Him bow with thankful hearts;\nExtol the KING of kings.",
+    "3	Great is the LORD “ANCIENT OF DAYS”!\nNone, O! none is like unto Him!\nHis bounteous mercies He gives us\nWho bow and praise His name.",
+    "4.	Great is the LORD who cares for us\nWhat else do we care when He’s nigh?\nE’en let bleak winds of the foe rise,\nGod is our shield and peace!",
+    "5.	Great is JEHOVAH for ever!\nAll pow’r to Him belong for’er!\nHis blessings, wisdom and favour\nEndureth for ever!",
+    "6.	When to His service we attend,\nMay His Spirit guide us all day\nTo learn His ways our paths to mend,\nHis is the saving way.",
   ]),
 
   Hymn("NO 10", "OUR LORDS PRAYER", [
-    "1.	OUR Father who art in Heaven,\n
-	May rev’rence be Thy holy name.\n
-	On earth now has Thy Kingdom come,\n
-	Thy will be done as in heaven."
-
-"2.	Give us this day our daily bread,\n
-	And forgive us our trespasses,\n
-As we forgive them that grieve us;\n
-And leave us not in Satan’s snares."
-
-"3.	Deliver us from sinful lusts,\n
-	That in Thy Kingdom we may dwell\n
-	Freed and protected by Thy will,\n
-	Ever observant of Thy laws.",
+    "1.	OUR Father who art in Heaven,\nMay rev’rence be Thy holy name.\nOn earth now has Thy Kingdom come,\nThy will be done as in heaven.",
+    "2.	Give us this day our daily bread,\nAnd forgive us our trespasses,\nAs we forgive them that grieve us;\nAnd leave us not in Satan’s snares.",
+    "3.	Deliver us from sinful lusts,\nThat in Thy Kingdom we may dwell\nFreed and protected by Thy will,\nEver observant of Thy laws.",
   ]),
 
   Hymn("NO 11", "ETERNAL Excellency!", [
-    "1.	ETERNAL Excellency!\n
-	  Yea for Thy lovingkindness\n
-	  As we gather here this day\n
-	  To give true service to Thee,\n
-    LORD, as we’ve come before Thee,\n
-    Make our hearts to love Thy truth,\n
-    And keep our feet in Thy court\n
-    To be obedient Christians."
-
-"2.	King Eternal blessed LORD!\n
-	  Rain Thy mercies, LORD on us.\n
-	  We assemble here this day\n
-	  To give true service to Thee.\n
-	  O with faithful services,\n
-	  We bear Thy light to the world:\n
-	  That they may live in good hope\n
-	  Of the bless-ed promised land."
-
-"3.	The wicked shall not be there;\n
-	  But righteous ones everywhere.\n
-	  With triumphant songs of praise,\n
-	  Shall the earth be filled with joy.\n
-	  As governors we shall dwell\n
-	  In Thy dominion by grace \n
-	  In faithfulness we shall live\n
-	  On that bless-ed land of peace.",
+    "1.	ETERNAL Excellency!\nYea for Thy lovingkindness\nAs we gather here this day\nTo give true service to Thee,\nLORD, as we’ve come before Thee,\nMake our hearts to love Thy truth,\nAnd keep our feet in Thy court\nTo be obedient Christians.",
+    "2.	King Eternal blessed LORD!\nRain Thy mercies, LORD on us.\nWe assemble here this day\nTo give true service to Thee.\nO with faithful services,\nWe bear Thy light to the world:\nThat they may live in good hope\nOf the bless-ed promised land.",
+    "3.	The wicked shall not be there;\nBut righteous ones everywhere.\nWith triumphant songs of praise,\nShall the earth be filled with joy.\nAs governors we shall dwell\nIn Thy dominion by grace \nIn faithfulness we shall live\nOn that bless-ed land of peace.",
   ]),
 
   Hymn("NO 12", "AH! When heart is hea-vy la-den", [
-
-    "1.	AH! When heart is hea-vy la-den,\n
-	    Wea-ry and op-pressed,\n
-	    “Come to me”, saith One, and coming,\n
-		  Be at rest!”
-
-"2.	Is there di-a-dem, as Mon-arch,\n
-	  That his brow a-dorns?\n
-	    “Yes, a crown is ve-ry sure-ty,\n
-		   But of thorns!”"
-
-"3.	If thou find him, if thou follow,\n
-	  What’s thy portion here?\n
-	  ‘Many a sorrow, many a conflict,\n
-		   Many a tear.’"
-
-"4.	If thou still hold closely to him,\n
-	What hast thou at last?\n
-	‘Sorrow vanquished, labour ended,\n
-		   Jordan past.’"
-
-"5.	If thou ask him to receive thee\n
-	Will he say thee nay?\n
-	Not till earth and not till heaven\n
-		  Pass away.",
+    "1.	AH! When heart is hea-vy la-den,\nWea-ry and op-pressed,\n“Come to me”, saith One, and coming,\nBe at rest!”,
+    "2.	Is there di-a-dem, as Mon-arch,\nThat his brow a-dorns?\n“Yes, a crown is ve-ry sure-ty,\nBut of thorns!”",
+    "3.	If thou find him, if thou follow,\nWhat’s thy portion here?\n‘Many a sorrow, many a conflict,\nMany a tear.’",
+    "4.	If thou still hold closely to him,\nWhat hast thou at last?\n‘Sorrow vanquished, labour ended,\nJordan past.’",
+    "5.	If thou ask him to receive thee\nWill he say thee nay?\nNot till earth and not till heaven\nPass away.",
   ]),
 
   Hymn("NO 13", "ALL people that on earth do dwell", [
-    "1.	ALL people that on earth do dwell,\n
-	    Sing to the LORD with cheerful voice;\n
-	    Him serve with fear, His praise forth tell\n
-	    Come ye before Him and rejoice."
-
-    "2.	The Lord ye know is God indeed;\n
-    Without our aid He did us make:\n
-    We are His flock, He doth us feed,\n
-    And for His mercies ever endure "
-
-    "3.	O enter then His courts with praise,\n
-	  Approach with joy His courts unto;\n
-	  Praise, laud and bless His name always;\n
-	  For it is seemly so to do."
-
-    "4.	For why? The LORD our GOD is good,\n
-	    His mercy is for ever sure!\n
-	    His truth at all times firmly stood,\n
-	    And shall from age to age endure.",
+    "1.	ALL people that on earth do dwell,\nSing to the LORD with cheerful voice;\nHim serve with fear, His praise forth tell\nCome ye before Him and rejoice.",
+    "2.	The Lord ye know is God indeed;\nWithout our aid He did us make:\nWe are His flock, He doth us feed,\nAnd for His mercies ever endure ",
+    "3.	O enter then His courts with praise,\nApproach with joy His courts unto;\nPraise, laud and bless His name always;\nFor it is seemly so to do.",
+    "4.	For why? The LORD our GOD is good,\nHis mercy is for ever sure!\nHis truth at all times firmly stood,\nAnd shall from age to age endure.",
   ]),
 
   Hymn("NO 14", "A Little Flock, so calls He thee", [
@@ -410,91 +141,29 @@ And leave us not in Satan’s snares."
   ]),
 
   Hymn("NO 16", "GLORY and praises to our GOD", [
-    "1.	GLORY and praises to our GOD\nWho eternally reigns.\n
-    Wisdom and pow’r, justice and love,\n
-	    Within His throne abide.",
-
-    "2.	Words cannot say of my sweet thoughts\n
-	  In GOD and His Kingdom,\n
-	  How He called me His will to do,\n
-	  Which relieves one from sin."
-
-  "3.	What can a sinner like me bring\n
-    Or do to seek God’s grace? \n
-    It is by thorough repentance,\n
-    With faith and work in Christ."
-
-  "4.	Remember me, O GOD for good\n
-	In this dark sinful world!\n
-	LORD, in my daily task for bread,\n
-	Feed me conveniently.",
+    "1.	GLORY and praises to our GOD\nWho eternally reigns.\nWisdom and pow’r, justice and love,\nWithin His throne abide.",
+    "2.	Words cannot say of my sweet thoughts\nIn GOD and His Kingdom,\nHow He called me His will to do,\nWhich relieves one from sin.",
+    "3.	What can a sinner like me bring\nOr do to seek God’s grace? \nIt is by thorough repentance,\nWith faith and work in Christ.",
+    "4.	Remember me, O GOD for good\nIn this dark sinful world!\nLORD, in my daily task for bread,\nFeed me conveniently.",
   ]),
 
   Hymn("NO 17", "EXCEPT the LORD, buildeth the house", [
-    "1.	EXCEPT the LORD, buildeth the house\n
-	  They that buildeth labour in vain.\n
-    Except the LORD amend our ways,\n
-    Our lives are desp’rate and woeful."
-
-    "2.	Our GOD and KING ‘stablish our works,\n
-    Cleanse us from our infirmities.\n
-    Help us to serve Thee more and more\n
-    Thy love to gain for ever more"
-
-    "3.	Man by bread alone does not live,\n
-    But by the truth, the word of GOD-\n
-    The sure fountain of peace and life;\n
-    For all who seek Thy precious word."
-
-    "4.	Most holy and merciful GOD\n
-    Our gracious King and loving Saviour,\n
-    Renew our hearts to love Thee more,\n
-    So that by Thee we will prosper.",
+    "1.	EXCEPT the LORD, buildeth the house\nThey that buildeth labour in vain.\nExcept the LORD amend our ways,\nOur lives are desp’rate and woeful.",
+    "2.	Our GOD and KING ‘stablish our works,\nCleanse us from our infirmities.\nHelp us to serve Thee more and more\nThy love to gain for ever more",
+    "3.	Man by bread alone does not live,\nBut by the truth, the word of GOD-\nThe sure fountain of peace and life;\nFor all who seek Thy precious word.",
+    "4.	Most holy and merciful GOD\nOur gracious King and loving Saviour,\nRenew our hearts to love Thee more,\nSo that by Thee we will prosper.",
   ]),
+
   Hymn("NO 18", "FATHER from whom all blessings flow", [
-    "1.	FATHER from whom all blessings flow,\n
-	  O bless Thy people here on earth,\n
-	  Let Thy theocratic love abound,\n
-	  LORD, with Thy people evermore."
-
-  "2.	Father, from whom all wisdom flow,\n
-	  LORD, give her to each one of us,\n
-	  Who dwells faithfully in Thy mount,\n
-	  Declaring Thy gospel to all."
-
-    "3.	GOD of wisdom, pow’r and justice,\n
-	  May Thy love be in all we do;\n
-	  And may Thy precepts be our lamp\n
-	  To guide our steps to Thy Kingdom.",
+    "1.	FATHER from whom all blessings flow,\nO bless Thy people here on earth,\nLet Thy theocratic love abound,\nLORD, with Thy people evermore.",
+    "2.	Father, from whom all wisdom flow,\nLORD, give her to each one of us,\nWho dwells faithfully in Thy mount,\nDeclaring Thy gospel to all.",
+    "3.	GOD of wisdom, pow’r and justice,\nMay Thy love be in all we do;\nAnd may Thy precepts be our lamp\nTo guide our steps to Thy Kingdom.",
   ]),
 
   Hymn("NO 19", "GIVE me understanding", [
-    "1.	GIVE me understanding\n
-    O GODD our KING.\n
-    Thy way I have chosen\n
-    To thread therein,\n
-    LORD, I love Thy precepts.\n
-    I’ll—observe it always,\n
-    In—cline my heart ‘nto Thee,\n
-    That I may live."
-
-    "2.	Thy judgments have I laid\n
-    Before me LORD\n
-    Enlarge my heart O LORD\n
-    To keep Thy word.\n
-    LORD leave me not in shame;\n
-    Teach—me Thy precious way\n
-    In—cline my heart to love\n
-    Thy glorious name."
-
-    "3.	Teach me Thy way O LORD\n
-    Therein to thread,\n
-    For Thy judgments are good,\n
-    O gracious LORD!\n
-    Thy words are my delight.\n
-    They—are my councellors\n
-    To—seek Thy righteousness\n
-    O GOD of grace.",
+    "1.	GIVE me understanding\nO GODD our KING.\nThy way I have chosen\nTo thread therein,\nLORD, I love Thy precepts.\nI’ll—observe it always,\nIn—cline my heart ‘nto Thee,\nThat I may live.",
+    "2.	Thy judgments have I laid\nBefore me LORD\nEnlarge my heart O LORD\nTo keep Thy word.\nLORD leave me not in shame;\nTeach—me Thy precious way\nIn—cline my heart to love\nThy glorious name.",
+    "3.	Teach me Thy way O LORD\nTherein to thread,\nFor Thy judgments are good,\nO gracious LORD!\nThy words are my delight.\nThey—are my councellors\nTo—seek Thy righteousness\nO GOD of grace.",
   ]),
 
   Hymn("NO 20", "", [
