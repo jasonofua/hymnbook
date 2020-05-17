@@ -34,48 +34,21 @@ final List<Hymn> hymns = [
   ]),
 
   Hymn("NO 3", "ALMIGHTY, MOST HOLY,", [
-  "  1.	ALMIGHTY, MOST HOLY,\n
-	Is Thy name O LORD of Host!\n
-	To Thee we come with thanks\n
-	And Thy holy name to praise,\n
-	We thank Thee LORD, for using us\n
-	Thy name to proclaim abroad."
+  "  1.	ALMIGHTY, MOST HOLY,\nIs Thy name O LORD of Host!\nTo Thee we come with thanks\nAnd Thy holy name to praise,\nWe thank Thee LORD, for using us\nThy name to proclaim abroad.",
 
-"2.	All wisdom, all pow’rs\n
-	Unto Thee MOST HIGH belong\n
-	When we come to praise Thee,\n
-	What a blessing we have found;\n
-	And the faithful ones by Thy grace\n
-	Shall reap the good of the land."
+		"2.	All wisdom, all pow’rs\nUnto Thee MOST HIGH belong\nWhen we come to praise Thee,\nWhat a blessing we have found;\nAnd the faithful ones by Thy grace\nShall reap the good of the land.",
 
-"3.	Thou art justice and love!\n
-And all good things come from Thee,\n
-By love, mercy and truth,\n
-Thou hast brought us to Thy light\n
-But when we had not come to Thee.\n
-We were then without Thy light.",
+		"3.	Thou art justice and love!\nAnd all good things come from Thee,\nBy love, mercy and truth,\nThou hast brought us to Thy light\nBut when we had not come to Thee.\nWe were then without Thy light."
   ]),
 
   Hymn("NO 4", "ALL GLORY TO GOD BE GIVEN", [
-    "1.	ALL glory to GOD be given;
-	For so good His great love divine;
-	Trusting He’s almighty to save,
-	Pledge thyself always to His care."
+    "1.	ALL glory to GOD be given;For so good His great love divine;Trusting He’s almighty to save,Pledge thyself always to His care.",
 
-"Chorus:\n
-		All glory be given to the LORD:\n
-		All glory be given to the LORD\n
-		With thankful praises, for His Love Divine."
+		"Chorus:\nAll glory be given to the LORD:\nAll glory be given to the LORD\nAllWith thankful praises, for His Love Divine.",
 
-"2.	LORD, how valuable is Thy word,\n
-	Which in all what I do I need\n
-	By feeding on this precious word,\n
-	I will from sin and death be saved."
+		"2.	LORD, how valuable is Thy word,\nWhich in all what I do I need\nBy feeding on this precious word,\nI will from sin and death be saved.",
 
-"3.	Healing water-Thy word O LORD,\n
-	Maketh hearts of the sinners clean\n
-	Who from their evil ways return,\n
-To seek Thy divine grace O LORD."
+		"3.	Healing water-Thy word O LORD,\nMaketh hearts of the sinners clean\nWho from their evil ways return,\nTo seek Thy divine grace O LORD.",
 
 "4.	I sought, and now I’ve found the truth\n
 	Of my Lord who loves me dearly\n
