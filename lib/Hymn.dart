@@ -166,589 +166,159 @@ final List<Hymn> hymns = [
     "3.	Teach me Thy way O LORD\nTherein to thread,\nFor Thy judgments are good,\nO gracious LORD!\nThy words are my delight.\nThey—are my councellors\nTo—seek Thy righteousness\nO GOD of grace.",
   ]),
 
-  Hymn("NO 20", "", [
-
-    "1.	GOD our Father, we pledge to Thee
-    Our works and love of Thee;
-    As we have been chosen of Thee,
-    Help us LORD, ne-er to stray.
-
-2.	All we ac-qui-re by Thy name
-	O LORD in Thy Kingdom,
-	May they everlastingly be
-	Undefiled heritage.
-
-3.	Thy heritage we’ve got by Thee,
-	In earnest care may we
-	Use them for Thy glorious service;
-	With joy in Thee always.
-
-4.	Teach us LORD to become good ones,
-	In Thy truth, in action;
-That we may always bring forth fruits,
-Meet for our salvation.",
+  Hymn("NO 20", "GOD our Father, we pledge to Thee", [
+    "1.	GOD our Father, we pledge to Thee\nOur works and love of Thee;\nAs we have been chosen of Thee,\nHelp us LORD, ne-er to stray.",
+    "2.	All we ac-qui-re by Thy name\nO LORD in Thy Kingdom,\nMay they everlastingly be\nUndefiled heritage.",
+    "3.	Thy heritage we’ve got by Thee,\nIn earnest care may we\nUse them for Thy glorious service;\nWith joy in Thee always.",
+    "4.	Teach us LORD to become good ones,\nIn Thy truth, in action;\nThat we may always bring forth fruits,\nMeet for our salvation.",
   ]),
 
-  Hymn("NO 21", "", [
-
-    "1.	GOD moves in a mysterious way,\n
-    His wonders to perform;\n
-    He plants His footsteps in the sea,\n
-    And rides upon the storm."
-
-  "2.	Deep in unfathomable mines\n
-	Of never-failing skill,\n
-	He treasures up His bright designs,\n
-	And works His sov’reign will."
-
-  "3.	Ye fearful ones fresh courage take;\n
-	The clouds ye so much dread\n
-	Are big with mercy, and shall break \n
-	In blessings on your head."
-
-  "4.	Judge not the LORD by feeble sense\n
-	But trust Him for His grace;\n
-	Behind a frowning providence\n
-	He hides a smiling face."
-
-  "5.	His purpose will ripen fast,\n
-  Unfolding ev’ry hour;\n
-  The bud may have a bitter taste,\n
-  But sweet will be the flow’r."
-
-  "6.	Blind unbelief is sure to err\n
-	And scan His work in vain\n
-	God is His own interpreter,\n
-	And He will make it plain.",
+  Hymn("NO 21", "GOD moves in a mysterious way", [
+    "1.	GOD moves in a mysterious way,\nHis wonders to perform;\nHe plants His footsteps in the sea,\nAnd rides upon the storm.",
+    "2.	Deep in unfathomable mines\nOf never-failing skill,\nHe treasures up His bright designs,\nAnd works His sov’reign will.",
+    "3.	Ye fearful ones fresh courage take;\nThe clouds ye so much dread\nAre big with mercy, and shall break \nIn blessings on your head.",
+    "4.	Judge not the LORD by feeble sense\nBut trust Him for His grace;\nBehind a frowning providence\nHe hides a smiling face.",
+    "5.	His purpose will ripen fast,\nUnfolding ev’ry hour;\nThe bud may have a bitter taste,\nBut sweet will be the flow’r.",
+    "6.	Blind unbelief is sure to err\nAnd scan His work in vain\nGod is His own interpreter,\nAnd He will make it plain.",
   ]),
 
   Hymn("NO 22", "GOD of mercy, GOD of grace", [
-    "1.	GOD of mercy, GOD of grace.\n
-	  Show the brightness of Thy face;\n
-    Shine on us, JEHOVAH, shine;\n
-    Fill Thy Church with light divine;\n
-    And Thy saving health extend\n
-    Unto earth’s remotest end."
-
-    "2.	Let the people praise Thee, LORD;\n
-    Be by all that lives adored;\n
-    Let the nations shout and sing\n
-    Glory to JEHOVAH KING;\n
-    At Thy feet their tribute pay\n
-    And Thy holy will obey."\n
-
-    "3.	Let the people praise Thee, LORD;\n
-    Earth shall then her fruits afford;\n
-    God through Christ His blessings give,\n
-    Man to GOD devoted live;\n
-    All below, and all above.\n
-    One in joy and light and love.",
+    "1.	GOD of mercy, GOD of grace.\nShow the brightness of Thy face;\nShine on us, JEHOVAH, shine;\nFill Thy Church with light divine;\nAnd Thy saving health extend\nUnto earth’s remotest end.",
+    "2.	Let the people praise Thee, LORD;\nBe by all that lives adored;\nLet the nations shout and sing\nGlory to JEHOVAH KING;\nAt Thy feet their tribute pay\nAnd Thy holy will obey.",
+    "3.	Let the people praise Thee, LORD;\nEarth shall then her fruits afford;\nGod through Christ His blessings give,\nMan to GOD devoted live;\nAll below, and all above.\nOne in joy and light and love.",
   ]),
 
   Hymn("NO 23", "I know that my Redeemer lives", [
-
-    "1.	I know that my Redeemer lives;\n
-    What joy the blest assurance gives!\n
-    He lives, he lives, who once was dead;\n
-    He lives, my everlasting Head!"
-
-  "2.	He lives, to bless me with his love;\n
-	He lives, who bought me with his blood; \n
-	He lives, my hungry soul to feed;\n
-	He lives, my help in time of need."
-
-  "3".	He lives, and grants me daily strength;\n
-	Through him I soon shall conquer death;\n
-	Then all his glories I will declare,\n
-	That all the world his life may share.",
+    "1.	I know that my Redeemer lives;\nWhat joy the blest assurance gives!\nHe lives, he lives, who once was dead;\nHe lives, my everlasting Head!",
+    "2.	He lives, to bless me with his love;\nHe lives, who bought me with his blood; \nHe lives, my hungry soul to feed;\nHe lives, my help in time of need.",
+    "3".	He lives, and grants me daily strength;\nThrough him I soon shall conquer death;\nThen all his glories I will declare,\nThat all the world his life may share.",
   ]),
 
   Hymn("NO 24", "I love Thy will, O GOD!", [
-    "1.	I love Thy will, O GOD!\n
-      Thy blessed, perfect will,\n
-      In which this once rebellious heart\n
-      Lies satisfied and still."
-
-      "2.	I love thy will, O GOD!\n
-      It is my joy my rest;\n
-      It glories my common task,\n
-      It makes each trial blest."
-
-      "3.	I love thy will, O GOD!\n
-      The sunshine or the rain.\n
-      Some days are bright with praise, and some\n
-      Sweet with accepted pain."
-
-      "4.	I love thy will, O GOD!\n
-      O hear my earnest  plea,\n
-      That as thy will is done in heav’n,\n
-      It may be done in me.",
+    "1.	I love Thy will, O GOD!\nThy blessed, perfect will,\nIn which this once rebellious heart\nLies satisfied and still.",
+    "2.	I love thy will, O GOD!\nIt is my joy my rest;\nIt glories my common task,\nIt makes each trial blest.",
+    "3.	I love thy will, O GOD!\nThe sunshine or the rain.\nSome days are bright with praise, and some\nSweet with accepted pain.",
+    "4.	I love thy will, O GOD!\nO hear my earnest  plea,\nThat as thy will is done in heav’n,\nIt may be done in me.",
   ]),
 
-  Hymn("NO 25", "", [
-
-  "1.	JESUS, I my cross have taken,\n
-  All to leave and follow thee;\n
-  Weak and poor, despised, forsaken,\n
-  Thou from hence my all shalt be\n
-  Perish ev’ry fond ambition,\n
-  All I’ve sought, or hoped , or known \n
-  Yet, how rich is my condition!\n
-  GOD and Christ are still my own."
-
-  "2.	Let the world despise and leave me,\n
-  They have left my Saviour too;\n
-  Former friends are wont to leave me,\n
-  Thou art faithful thou art true, \n
-  And while thou shalt smile upon me,\n
-  GOD of wisdom, love and might,\n
-  Foes may hate, and friends may scorn me,\n
-  Show thy face and  all is bright."
-
-  "3.	Man may trouble and distress me,\n
-	This but drives me nearer  thee;\n
-	Life with trials hard  may press me\n
-	Soon my rest will sweeter be,\n
-	Oh! ‘tis not in grief to harm me\n
-	While thy love is left to me;\n
-	Oh! ‘twere not in joy to charm me,\n
-	Were that joy unmixed with thee."
-
-  "4	Go, then, earthly name and treasure;\n
-	Come, reproach, and scorn and pain;\n
-	In thy service pain is pleasure,\n
-	With thy favour loss is gain.\n
-	I have called Abba, Father;\n
-	I have set my heart on thee;\n
-	Storms may howl and clouds may gather \n
-	All must work for good to me.",
+  Hymn("NO 25", "JESUS, I my cross have taken", [
+  "1.	JESUS, I my cross have taken,\nAll to leave and follow thee;\nWeak and poor, despised, forsaken,\nThou from hence my all shalt be\nPerish ev’ry fond ambition,\nAll I’ve sought, or hoped , or known \nYet, how rich is my condition!\nGOD and Christ are still my own.",
+  "2.	Let the world despise and leave me,\nThey have left my Saviour too;\nFormer friends are wont to leave me,\nThou art faithful thou art true, \nAnd while thou shalt smile upon me,\nGOD of wisdom, love and might,\nFoes may hate, and friends may scorn me,\nShow thy face and  all is bright.",
+  "3.	Man may trouble and distress me,\nThis but drives me nearer  thee;\nLife with trials hard  may press me\nSoon my rest will sweeter be,\nOh! ‘tis not in grief to harm me\nWhile thy love is left to me;\nOh! ‘twere not in joy to charm me,\nWere that joy unmixed with thee.",
+  "4	Go, then, earthly name and treasure;\nCome, reproach, and scorn and pain;\nIn thy service pain is pleasure,\nWith thy favour loss is gain.\nI have called Abba, Father;\nI have set my heart on thee;\nStorms may howl and clouds may gather \nAll must work for good to me.",
   ]),
 
   Hymn("NO 26", "KEEP Thou my way O LORD", [
-
-  "1.	KEEP Thou my way O LORD;\n
-  Myself I can not hide;\n
-  Nor dare I trust my falt’ring steps\n
-  One moment from Thy side."
-
-  "2.	I can not live aright,\n
-  Save as I’m close to Thee;\n
-  My heart would fail without Thine aid;\n
-  Choose Thou my way for me."
-
-  "3.	For ev’ry joy of faith\n
-  And ev’ry high design-\n
-  For all of good my soul can know,\n
-  The glory, LORD, be Thine."
-
-  "4.	Free grace my pardon seals,\n
-  Through the atoning blood;\n
-  Free grace the full assurance brings\n
-  Of peace with Thee, my GOD"
-
-  5.	O speak, and I will hear;\n
-	Command and I obey:\n
-	My willing feet with joy shall haste\n
-	To run Thy righteous way.",
+  "1.	KEEP Thou my way O LORD;\nMyself I can not hide;\nNor dare I trust my falt’ring steps\nOne moment from Thy side.",
+  "2.	I can not live aright,\nSave as I’m close to Thee;\nMy heart would fail without Thine aid;\nChoose Thou my way for me.",
+  "3.	For ev’ry joy of faith\nAnd ev’ry high design-\nFor all of good my soul can know,\nThe glory, LORD, be Thine.",
+  "4.	Free grace my pardon seals,\nThrough the atoning blood;\nFree grace the full assurance brings\nOf peace with Thee, my GOD",
+  "5.	O speak, and I will hear;\nCommand and I obey:\nMy willing feet with joy shall haste\nTo run Thy righteous way.",
   ]),
 
   Hymn("NO 27", "LET us with a gladsome mind", [
-    "1.	LET us with a gladsome mind\n
-    Praise the LORD, for He is kind:"
-
-    "Refrain:\n
-    For HIS mercies aye en-dure.\n
-    E-ver faith-ful, e-ver sure"
-
-    "2.	Let us blaze His name a-broad\n
-    For of gods He is the GOD:"
-
-    "3.	All things living he doth feed;\n
-    His full hand supplies our need;"
-
-    "4.	He His remnant small doth bless\n
-    With the robe of righteousness;.",
+    "1.	LET us with a gladsome mind\nPraise the LORD, for He is kind:",
+    "Refrain:\nFor HIS mercies aye en-dure.\nE-ver faith-ful, e-ver sure",
+    "2.	Let us blaze His name a-broad\nFor of gods He is the GOD:",
+    "3.	All things living he doth feed;\nHis full hand supplies our need;"
+    "4.	He His remnant small doth bless\nWith the robe of righteousness;.",
   ]),
 
   Hymn("NO 28", "LIGHT of the world, shine our souls", [
-    "1.	LIGHT of the world, shine our souls;\n
-    Thy grace to us afford;\n
-    And while we meet to learn thy truth,\n
-    Be thou our teacher, Lord."
-
-    "2.	At once thou didst thy work expound\n
-    To those who walked with thee,\n
-    So teach us, Lord, to understand,\n
-    And its blissfulness see."
-
-    "3.	Its richness, sweetness, pow’r and depth,\n
-    Its holiness discern;\n
-    Its joyful news of saving grace\n
-    By blest experience learn."
-
-    "4.	Help us each other to assist;\n
-    Thy spirit now imparts;\n
-    Keep humble, but with love inspire,\n
-    To thee and thine, each heart"
-
-    "5.	Thus may thy word be dearer still;\n
-    And studied more each day;\n
-    And as it richly dwells within,\n
-    Thyself in it display.",
+    "1.	LIGHT of the world, shine our souls;\nThy grace to us afford;\nAnd while we meet to learn thy truth,\nBe thou our teacher, Lord.",
+    "2.	At once thou didst thy work expound\nTo those who walked with thee,\nSo teach us, Lord, to understand,\nAnd its blissfulness see.",
+    "3.	Its richness, sweetness, pow’r and depth,\nIts holiness discern;\nIts joyful news of saving grace\nBy blest experience learn.",
+    "4.	Help us each other to assist;\nThy spirit now imparts;\nKeep humble, but with love inspire,\nTo thee and thine, each heart",
+    "5.	Thus may thy word be dearer still;\nAnd studied more each day;\nAnd as it richly dwells within,\nThyself in it display.",
   ]),
 
   Hymn("NO 29", "MAN of sorrows what a name", [
-
-    "1.	“MAN of sorrows what a name\n
-  For the Son of GOD who came\n
-  Ruin-ed sinners to reclaim!\n
-    Hallelujah! What a Saviour!"
-
-  "2.	Bearing shame and scoffing rude,\n
-  In my place condemned he stood;\n
-  Sealed my pardon with his blood\n
-    Hallelujah! What a Saviour!"
-
-  "3.	Guilty, vile and helpless we;\n
-  Spotless Lamb of GOD was he.\n
-  “Full atonement” can it be ?\n
-    Hallelujah! What a Saviour!"
-
-    "4.	Lifted up was he to die,\n
-    “It is finished” was his cry.\n
-    Now in heav’n exalted high,\n
-      Hallelujah! What a Saviour!"
-
-    "5.	Now he comes, our glorious King,\n
-    All his ransomed home to bring,\n
-    Then a new song this we’ll sing:\n
-   Hallelujah! What a Saviour!.",
+    "1.	“MAN of sorrows what a name\nFor the Son of GOD who came\nRuin-ed sinners to reclaim!\nHallelujah! What a Saviour!",
+    "2.	Bearing shame and scoffing rude,\nIn my place condemned he stood;\nSealed my pardon with his blood\nHallelujah! What a Saviour!",
+    "3.	Guilty, vile and helpless we;\nSpotless Lamb of GOD was he.\n“Full atonement” can it be ?\nHallelujah! What a Saviour!",
+    "4.	Lifted up was he to die,\n“It is finished” was his cry.\nNow in heav’n exalted high,\nHallelujah! What a Saviour!",
+    "5.	Now he comes, our glorious King,\nAll his ransomed home to bring,\nThen a new song this we’ll sing:\nHallelujah! What a Saviour!.",
   ]),
 
   Hymn("NO 30", "MY faith looks up to thee", [
-    "1.	MY faith looks up to thee\n
-	Thou Lamb of Calvary.\n
-	Saviour divine:\n
-	Now hear me while I pray;\n
-  Take all my guilt away;\n
-  O let me ev’ry day\n
-	    Be wholly thine."
-
-  "2.	May thy rich grace impart \n
-  Strength to my fainting heart,\n
-  My zeal inspire;\n
-  As thou hast died for me,\n
-  O may my love to thee\n
-  Pure, warm and changeless be-\n
-        A living fire."
-
-  3	While life’s dark maze I tread,\n
-    And grief around me spread\n
-    Be thou my guide;\n
-    Bid darkness turn to day;\n
-    Wipe sorrows tears away:\n
-    Nor let me ever stray\n
-        From thee aside.",
+    "1.	MY faith looks up to thee\nThou Lamb of Calvary.\nSaviour divine:\nNow hear me while I pray;\nTake all my guilt away;\nO let me ev’ry day\nBe wholly thine.",
+    "2.	May thy rich grace impart \nStrength to my fainting heart,\nMy zeal inspire;\nAs thou hast died for me,\nO may my love to thee\nPure, warm and changeless be-\nA living fire.",
+    "3	While life’s dark maze I tread,\nAnd grief around me spread\nBe thou my guide;\nBid darkness turn to day;\nWipe sorrows tears away:\nNor let me ever stray\nFrom thee aside.",
   ]),
 
   Hymn("NO 31", "GOD, to Thee I renew my vows", [
-    "1 GOD, to Thee I renew my vows \n
-    With an unwav’ring faith in Thee;\n
-    To do Thy will with hope of life \n
-    Daily in Thy Tabernacle ."
-
-    "2.	GOD, I will keep Thy divine light \n
-    To guide my faulty steps to Thee:\n
-    Lest I wander away from Thee;\n
-    For peace have they who bear Thy light."
-
-    "3.	Rescue me, O gracious Father\n
-    From the dreadful snare of satan\n
-    Revive me GOD that I may leave\n
-      To do Thy will for ever more."
-
-    "4.	I pray Thee, JEHOVAH, my strength;\n
-      Strengthen the weak and faithless ones.\n
-      When duty calls may they arise\n
-      And render true noble service."
-
-    "5.	Brethren, arise and work with faith;\n
-      GOD’s work is meant for you and me.\n
-      And be Christians of service true,\n
-      For yonder bank, awaits your crown.",
+    "1 GOD, to Thee I renew my vows \nWith an unwav’ring faith in Thee;\nTo do Thy will with hope of life \nDaily in Thy Tabernacle .",
+    "2.	GOD, I will keep Thy divine light \nTo guide my faulty steps to Thee:\nLest I wander away from Thee;\nFor peace have they who bear Thy light.",
+    "3.	Rescue me, O gracious Father\nFrom the dreadful snare of satan\nRevive me GOD that I may leave\nTo do Thy will for ever more.",
+    "4.	I pray Thee, JEHOVAH, my strength;\nStrengthen the weak and faithless ones.\nWhen duty calls may they arise\nAnd render true noble service.",
+    "5.	Brethren, arise and work with faith;\nGOD’s work is meant for you and me.\nAnd be Christians of service true,\nFor yonder bank, awaits your crown.",
   ]),
 
    Hymn("NO 32", "MY times are in Thy hand", [
-
-    "1.	“MY times are in Thy hand;”\n
-    My GOD, I wish them there;\n
-    My life, my friends, my soul I leave\n
-    Entirely to Thy care."
-
-    2.	“My times are in Thy hand;”\n
-    Whatever they may be;\n
-    Pleasing or painful, dark or bright,\n
-    As best may seem to Thee."
-
-    3.	“My times are in Thy hand;”\n
-    Why should I doubt or fear?\n
-    My Father’s hand will never cause\n
-    His child a needless tear.",
+    "1.	“MY times are in Thy hand;”\nMy GOD, I wish them there;\nMy life, my friends, my soul I leave\nEntirely to Thy care.",
+    "2.	“My times are in Thy hand;”\nWhatever they may be;\nPleasing or painful, dark or bright,\nAs best may seem to Thee.",
+    "3.	“My times are in Thy hand;”\nWhy should I doubt or fear?\nMy Father’s hand will never cause\nHis child a needless tear.",
   ]),
 
    Hymn("NO 33", "OFT in danger, oft in woe", [
-    "1.	OFT in danger, oft in woe,\n
-    Onward, Christians onward go:\n
-    Fight the fight, maintain the strife\n
-    Strengthen’d with the bread of life."
-
-    "2.	Onward, Christians onward go:\n
-    Join the war and face the foe;\n
-    Will ye flee in dangers hour?\n
-    Know ye not your captain’s pow’r?"
-
-    "3.	Let your drooping hearts be glad;\n
-    March, in Christian armour clad\n
-    Fight nor think, the battle long,\n
-    Vict’ry soon shall be your song."
-
-    "4	Onward, then in battle move,\n
-    More than conquerors ye shall prove; \n
-    Though opposed by many a foe,\n
-    Christian solder Onward go.",
+    "1.	OFT in danger, oft in woe,\nOnward, Christians onward go:\nFight the fight, maintain the strife\nStrengthen’d with the bread of life.",
+    "2.	Onward, Christians onward go:\nJoin the war and face the foe;\n Will ye flee in dangers hour?\nKnow ye not your captain’s pow’r?",
+    "3.	Let your drooping hearts be glad;\nMarch, in Christian armour clad\nFight nor think, the battle long,\nVict’ry soon shall be your song.",
+    "4	Onward, then in battle move,\nMore than conquerors ye shall prove; \nThough opposed by many a foe,\nChristian solder Onward go.",
   ]),
 
    Hymn("NO 34", "PRAISE, my soul the king of heaven", [
-    "1.		PRAISE, my soul the king of heaven;\n
-		To his feet thy tribute bring;\n
-		Ransomed, healed, restored, forgiven,\n
-		Ever more his praise sing;\n
-				Hallelujah! Hallelujah!\n
-				Praise thy everlasting king."
- 
-    "2.	Praise him for his grace and favour;\n
-		To our father in distress\n
-		Praise him still the same as ever,\n
-		Slow to chide, and swift to bless\n
-				Hallelujah! Hallelujah!\n
-				Glorious in his faithfulness."
-
-    "3.	Father like he proves yet spare us,\n
-		Well our feeble frame he knows;\n
-		In his hand he gently bears us,\n
-		Rescue us from all our foes;\n
-				Hallelujah! Hallelujah!\n
-				How his plan, his wisdom shows.",
+    "1.		PRAISE, my soul the king of heaven;\nTo his feet thy tribute bring;\nRansomed, healed, restored, forgiven,\nEver more his praise sing;\nHallelujah! Hallelujah!\nPraise thy everlasting king.",
+    "2.	Praise him for his grace and favour;\nTo our father in distress\nPraise him still the same as ever,\nSlow to chide, and swift to bless\nHallelujah! Hallelujah!\nGlorious in his faithfulness.",
+    "3.	Father like he proves yet spare us,\nWell our feeble frame he knows;\nIn his hand he gently bears us,\nRescue us from all our foes;\nHallelujah! Hallelujah!\nHow his plan, his wisdom shows.",
   ]),
 
   Hymn("NO 35", "TAKE my life and may it be", [
-
-    "1.		TAKE my life and may it be,\n
-		Lord, acceptable to thee;\n
-		Take my hands, and let them move,\n
-		At the impulse of thy Love."  
-
-    "2.	Take my feet and let them be,\n
-		Swift for errands, Lord for thee\n
-		Take my voice and let it be,\n
-		Honor always to my King."
-
-    "3.		Take my lips and let them be,\n
- 		Moved with messages from thee;\n
-		Take my sliver and my gold;\n
-		Nothing Lord would I withhold."
-
-    "4.		Take my moment and my days,\n
-    Let them flow in constant praise;\n
-    Take my intellect and use		\n
-    Every power as thou shall choose"
-
-    "5.		Take my Love, my GOD, I pour,\n
-		At thy feet is treasure store;\n
-		Take myself I wish to be\n
-		Ever, only all for thee.",
+    "1.		TAKE my life and may it be,\nLord, acceptable to thee;\nTake my hands, and let them move,\nAt the impulse of thy Love.",
+    "2.	Take my feet and let them be,\nSwift for errands, Lord for thee\nTake my voice and let it be,\nHonor always to my King.",
+    "3.		Take my lips and let them be,\nMoved with messages from thee;\nTake my sliver and my gold;\nNothing Lord would I withhold.",
+    "4.		Take my moment and my days,\nLet them flow in constant praise;\nTake my intellect and use\nEvery power as thou shall choose",
+    "5.		Take my Love, my GOD, I pour,\nAt thy feet is treasure store;\nTake myself I wish to be\nEver, only all for thee.",
   ]),
 
    Hymn("NO 36", "There is an eye that never sleeps", [
-    "1.		There is an eye that never sleeps\n
-		Beneath the wing of night;\n
-		There is an ear that never shuts\n
-		When sinks the beams of light."
-
-    "2.		There is an arm that never tires\n
-    When human strength gives way;\n
-    There is love that never fails\n
-    When earthly loves decay."
-
-    "3.		O weary souls with cares oppressed,\n
-    Trust in His loving might\n
-    Whose eye is over all thy ways\n
-    Through all thy weary night;"
-
-    "4".		Whose ears is open to thy cry\n
-    Whose grace full and free;\n
-    Whose comfort is forever nigh,\n
-    Whatever thy sorrows be."
-
-    "5.		Draw near to Him in prayer and praise;\n
-    Rely on His sure word;\n
-    Acknowledge Him in thy ways,\n
-    Thy faithful, loving Lord.",
+    "1.		There is an eye that never sleeps\nBeneath the wing of night;\nThere is an ear that never shuts\nWhen sinks the beams of light.",
+    "2.		There is an arm that never tires\nWhen human strength gives way;\nThere is love that never fails\nWhen earthly loves decay.",
+    "3.		O weary souls with cares oppressed,\nTrust in His loving might\nWhose eye is over all thy ways\nThrough all thy weary night;",
+    "4".		Whose ears is open to thy cry\nWhose grace full and free;\nWhose comfort is forever nigh,\nWhatever thy sorrows be.",
+    "5.		Draw near to Him in prayer and praise;\nRely on His sure word;\nAcknowledge Him in thy ways,\nThy faithful, loving Lord.",
   ]),
 
    Hymn("NO 37", "THOUGH troubles assail", [
-    "1.	THOUGH troubles assail,\n
-    And dangers affright;\n
-    Though friends should all fail\n
-    And foes all unite,\n
-    Yet one thing secures us,\n
-    Whatever betide;\n
-    The promise assures us,\n
-    “The Lord will provide.”
-
-    "2.	The birds, without barn\n
-    Or storehouse, are fed;\n
-    From them let us learn\n
-    To trust for our bread;\n
-    His saints what is fitting\n
-    Shall ne’er be denied\n
-    So long as ‘tis written,\n
-    “The Lord will provide.”
-
-    "3.	When satan appears\n
-    To stop up our path\n
-    And fills us with fears\n
-    We’ll triumph by faith;\n
-    He cannot take from us,\n
-    Though oft he hast tried,\n
-    The heart-cheering promise,\n
-    “The Lord will provide.”"
-
-    "4.	He tells us we’re weak\n
-    Our hope is in vain; \n
-    The good that we seek\n
-    We ‘ne’er shall obtain;\n
-    But when such suggestions\n
-    Our graces have tried\n
-    This answers all questions,\n
-    “The Lord will provide.”"
-
-    "5.	No strength of our own,\n
-    Nor goodness we claim;\n
-    Our trust is all thrown;\n
-    On JESUS dear name;\n
-    In this, our strong tower,\n
-    For safety we hide; \n
-    The Lord is our power,\n
-    “The Lord will provide."",
+    "1.	THOUGH troubles assail,\nAnd dangers affright;\nThough friends should all fail\nAnd foes all unite,\nYet one thing secures us,\nWhatever betide;\nThe promise assures us,\n“The Lord will provide.”,
+    "2.	The birds, without barn\nOr storehouse, are fed;\nFrom them let us learn\nTo trust for our bread;\nHis saints what is fitting\nShall ne’er be denied\nSo long as ‘tis written,\n“The Lord will provide.”,
+    "3.	When satan appears\nTo stop up our path\nAnd fills us with fears\nWe’ll triumph by faith;\nHe cannot take from us,\nThough oft he hast tried,\nThe heart-cheering promise,\n“The Lord will provide.”",
+    "4.	He tells us we’re weak\nOur hope is in vain; \nThe good that we seek\nWe ‘ne’er shall obtain;\nBut when such suggestions\nOur graces have tried\nThis answers all questions,\n“The Lord will provide.”",
+    "5.	No strength of our own,\nNor goodness we claim;\nOur trust is all thrown;\nOn JESUS dear name;\nIn this, our strong tower,\nFor safety we hide; \nThe Lord is our power,\n“The Lord will provide."",
   ]),
 
    Hymn("NO 38", "WHERE two or three, with sweet accord", [
-    "1.	WHERE two or three, with sweet accord.\n
-      Meet in thy name, O blessed Lord,\n
-      Meet to recount thine acts of grace,\n
-      O how thy presence fills the place!"
-
-      "2.	There thou hast promised, Lord to be,\n
-      To bless the little comp-a-ny;\n
-      And while we offer pray’r and praise,\n
-      O may we learn more of thy ways"
-
-      "3.	O fill our hearts with heav’nly love,\n
-      And may we at its impulse move,\n
-      That all around may clearly see\n
-      That we have been, dear Lord, with thee.",
+    "1.	WHERE two or three, with sweet accord.\nMeet in thy name, O blessed Lord,\nMeet to recount thine acts of grace,\nO how thy presence fills the place!",
+    "2.	There thou hast promised, Lord to be,\nTo bless the little comp-a-ny;\nAnd while we offer pray’r and praise,\nO may we learn more of thy ways",
+    "3.	O fill our hearts with heav’nly love,\nAnd may we at its impulse move,\nThat all around may clearly see\nThat we have been, dear Lord, with thee.",
   ]),
 
    Hymn("NO 39", "Who is on the Lord side?", [
-      "1.	Who is on the Lord side?\n
-      Who will serve the King?\n
-      Who will witness for him, \n
-      Kingdom tidings bring?\n
-      Who will shun the world’s side?\n
-      Face it as his foe?\n
-      Who is on the Lord’s side?\n
-      Who will for him go? \n
-      By thy call to service,\n
-      By thy grace divine,\n
-      We are on the Lord’s side;\n
-      Saviour, we are thine."
-
-      "2.	Fierce may be the conflict,\n
-      Strong may be the foe.\n
-      But the King Christ Jesus\n
-      None can ever throw;\n
-      Round His standard ranging,\n
-      Vict’ry is secure,\n
-      For JEHOVAH’S power\n
-      Makes the triumph sure\n
-      Joyfully enlisting \n
-      By thy grace divine,\n
-      We are on the Lord’ side;\n
-      Saviour we are Thine."
-
-      "3.	Chosen to be solders\n
-      In an alien land.\n
-      Chosen called and faithful\n
-      For our Captain’s band,\n
-      In the service royal\n
-      Let us not grow cold;\n
-      Let us be right loyal\n
-      Noble, true and bold.\n
-      LORD JEHOVAH, keep us,\n
-      By Thy grace divine\n
-      Always on the LORD’s side,\n
-      Father, always Thine.",
+      "1.	Who is on the Lord side?\nWho will serve the King?\nWho will witness for him, \nKingdom tidings bring?\nWho will shun the world’s side?\nFace it as his foe?\nWho is on the Lord’s side?\nWho will for him go? \nBy thy call to service,\nBy thy grace divine,\nWe are on the Lord’s side;\nSaviour, we are thine.",
+      "2.	Fierce may be the conflict,\nStrong may be the foe.\nBut the King Christ Jesus\nNone can ever throw;\nRound His standard ranging,\nVict’ry is secure,\nFor JEHOVAH’S power\nMakes the triumph sure\nJoyfully enlisting \nBy thy grace divine,\nWe are on the Lord’ side;\nSaviour we are Thine.",
+      "3.	Chosen to be solders\nIn an alien land.\nChosen called and faithful\nFor our Captain’s band,\nIn the service royal\nLet us not grow cold;\nLet us be right loyal\nNoble, true and bold.\nLORD JEHOVAH, keep us,\nBy Thy grace divine\nAlways on the LORD’s side,\nFather, always Thine.",
   ]),
 
    Hymn("NO 40", "I hear the voice of Jesus say", [
-    "1.	I hear the voice of Jesus say,\n
-    “Come unto me and rest;\n
-    Thy load of care thou may’st lay down\n
-    And be no more distressed\n
-    I came to Jesus as I was,\n
-    Weary, and worn, and sad;\n
-    I found in him a resting –place,\n
-    And he hath made me glad,"
-
-    "2.	I hear the voice of Jesus say,\n
-    “Behold, I freely give\n
-    The living water; thirsty one,\n
-    Stoop down, and drink and live!\n
-    I came to Jesus and I drank\n
-    Of that life-giving stream;\n
-    My thirst was quenched, my soul revived,\n
-    And now I live in him."
-
-    "3.	I hear the voice of Jesus say,\n
-    “I am this dark world’s light\n
-    Look unto me, thy morn shall rise\n
-    And all thy day be bright!” \n
-    I looked and saw my Star of Hope,\n
-    My Sun of Righteousness,\n
-    O soon ‘twill rise and fill the earth.\n
-    And all the nations bless’d.",
+    "1.	I hear the voice of Jesus say,\n“Come unto me and rest;\nThy load of care thou may’st lay down\nAnd be no more distressed\nI came to Jesus as I was,\nWeary, and worn, and sad;\nI found in him a resting –place,\nAnd he hath made me glad,",
+    "2.	I hear the voice of Jesus say,\n“Behold, I freely give\nThe living water; thirsty one,\nStoop down, and drink and live!\nI came to Jesus and I drank\nOf that life-giving stream;\nMy thirst was quenched, my soul revived,\nAnd now I live in him.",
+    "3.	I hear the voice of Jesus say,\n“I am this dark world’s light\nLook unto me, thy morn shall rise\nAnd all thy day be bright!” \nI looked and saw my Star of Hope,\nMy Sun of Righteousness,\nO soon ‘twill rise and fill the earth.\nAnd all the nations bless’d.",
   ]),
    Hymn("NO 41", "Teach me O LORD, good thoughts of Thee", [
-    "1.	Teach me O LORD, good thoughts of Thee
-    Thy loving kindness too;
-    And may my heart remember Thee,
-    With understanding true."
-
-    "2.	Teach me to understand Thy will
-    Thy blessings to enjoy;
-    For Thy tabernacle love I,
-    To dwell and do the will.	"
-
-    "3.	To be wise in Thy law teach me
-    And in Thy light guide me;
-    That I will have thy glory true,
-    E’er shining in my life."
-
-    "4.	In resistance from satan’s snares,
-    Thy truth my anchor is.
-    Teach me to keep Thy laws O LORD  
-    To stray not from Thy word.",
+    "1.	Teach me O LORD, good thoughts of Thee\nThy loving kindness too;\nAnd may my heart remember Thee,\nWith understanding true.",
+    "2.	Teach me to understand Thy will\nThy blessings to enjoy;\nFor Thy tabernacle love I,\nTo dwell and do the will.	",
+    "3.	To be wise in Thy law teach me\nAnd in Thy light guide me;\nThat I will have thy glory true,\nE’er shining in my life.",
+    "4.	In resistance from satan’s snares,\nThy truth my anchor is.\nTeach me to keep Thy laws O LORD\n  To stray not from Thy word.",
   ]),
 
    Hymn("NO 42", "ALMIGHTY FATHER, strong to save", [
@@ -1127,32 +697,33 @@ Meet for our salvation.",
   Hymn("NO 93", "", [
     ".",
   ]),
-  Hymn("NO 31", "", [
+  Hymn("NO 94", "", [
     ".",
   ]),
-   Hymn("NO 31", "", [
+   Hymn("NO 95", "", [
     ".",
   ]),
-   Hymn("NO 31", "", [
+   Hymn("NO 96", "", [
     ".",
   ]),
-   Hymn("NO 31", "", [
+   Hymn("NO 97", "", [
     ".",
   ]),
-   Hymn("NO 31", "", [
+   Hymn("NO 98", "", [
     ".",
   ]),
-   Hymn("NO 31", "", [
+   Hymn("NO 99", "", [
     ".",
   ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
+   Hymn("NO 100", "", [
     ".",
   ]),
 
-   Hymn("NO 31", "", [
+   Hymn("NO 101", "", [
+    ".",
+  ]),
+
+   Hymn("NO 102", "", [
     ".",
   ]),
    Hymn("NO 31", "", [
