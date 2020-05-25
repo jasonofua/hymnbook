@@ -668,7 +668,7 @@ final List<Hymn> hymns = [
     "4.	All to Jesus I surrender,\nLord I give myself to Thee;\nFill me with Thy love and power\nLet Thy blessing fall on me.",
   ]),
 
-   Hymn("NO 87 part one", "SOLDIERS of Christ a-rise", [
+   Hymn("NO 87 part one", "87 SOLDIERS of Christ a-rise", [
     "1.	SOLDIERS of Christ a-rise,\nAnd put your a-mour on,\nStrong in the strength which GOD sup-plies\nThrough His e-ter-nal Son.",
     "2.	Strong in the LORD of Hosts,\nAnd His migh-ty pow’r\nWho in the strength of Je-sus trusts\nIs more than con-que-ror.",
     "3.	Stand in His great might\nWith all His strength endued\nAnd take, to arm you for the light,\nThe pa-no-ply of God.",
@@ -677,32 +677,32 @@ final List<Hymn> hymns = [
     "6.	From strength to strength go on,\nWres-tle and fight and pray;\nTread all the pow’rs of dark-ness down,\nAnd win the well-fought day.",
   ]),
 
-   Hymn("NO 87 part two", "SOLDIERS of Christ a-rise", [
+   Hymn("NO 87 part two", "87 SOLDIERS of Christ a-rise", [
     "1.	SOLDIERS of Christ a-\nAnd put your ar-mour on,\nStrong in the strength which GOD sup-plies\nThrough His e-ter-nal Son;\nStrong in the LORD of Hosts,\nAnd His migh-ty pow’r\nWho in the strength of Je-sus trusts,\nIs more than con-que-ror.",
     "2.	Stand then in His great might\nWith all His strength en-dued\nAnd take, to arm you for the fight,\nThe pa-no-ply of GOD;\n That hav-ing all things done\nAnd all your con-flicts past\nYou may ov’r-come through Christ a-lone\nAnd stand en-tire at last.",
     "3.	Leave no un-guard-ed place\nNo weak-ness of the soul;\nTake ev-‘ry vir-tue, ev-‘ry grace\nAnd for-ti-fy the whole;\nFrom strength to strength go on,\nWres-tle and fight and pray,\nTread all the powers of dark-ness down,\nAnd win the well-fought day.",
   ]),
 
-   Hymn("NO 88", "WALKING in sunlight, all of my journey", [
+   Hymn("NO 88", "88  WALKING in sunlight, all of my journey", [
     "1.	WALKING in sunlight, all of my journey;\nOver the mountains, thro’ the deep vale\n Jesus has said “I’ll never forsake thee,”\nPromise divine that never can fail.",
     "Refrain:\nHeavenly sunlight, heavenly sunlight,\nFlooding my soul with glory divine;\nHallelujah, I am rejoicing\nSinging his praises, Jesus is mine.",
     "2.	Shadows around me, shadows above me,\nNever conceal my Saviour and guide;\nHe is the light, in him is no darkness;\nEver I’m walking close to his side.",
     "3.	In the bright sunlight, ever rejoicing,\nPressing my way to things from above\nSinging his praises gladly I’m walking,\nWalking in sunlight, sunlight of love.",
   ]),
 
-   Hymn("NO 89", "WHAT a friend we have in Jesus", [
+   Hymn("NO 89", "89  WHAT a friend we have in Jesus", [
     "1.	WHAT a friend we have in Jesus,\nAll our sins and grief to bear!\nWhat a privilege to carry\nEverything to GOD in pray’r,\nO what peace we often forfeit\nO what needless pain we bear,\nAll because we do not carry\nEverything to GOD in pray’r.",
     "2.	Have we trails and temptations?\nIs there trouble anywhere?\nWe should never be discouraged,\nTake it to the Lord in pray’r,\nCan we find a friend so faithful?\nWho will all our sorrows share?\nJesus knows our every weakness,\n Take it to the Lord in pray’r",
     "3.	Are we weak and heavy-laden\nCumbered with a load of care?\nPrecious Saviour, still our refuge-\nTake it to the lord in pray’r,\nDo thy friends despise, forsake thee?\nTake it to the Lord in pray’r,\nIn His arm He’ll take and shield thee\nThou wilt find a solace there.",
   ]), 
 
-   Hymn("NO 90", "WHEN I survey the tree of shame", [
+   Hymn("NO 90", "90  WHEN I survey the tree of shame", [
     "1.	WHEN I survey the tree of shame\nOn which the Prince of glory died,\nMy richest gain I count but loss,\nAnd pour contempt on all my pride.",
     "2.	Forbid it, Lord, that I should boast\nSave in the death of Christ my Lord;\nAll the vain things that charm me most\nI sacrifice them to his blood.",
     "3.	See, from his head, his hand, his feet,\nSorrow and love flow mingled down;\nDid e’er such love and sorrow meet,\nOr thorns compose so rich a crown?",
     "4.	Where the whole realm of nature mine,\nThat were a present far too small;\nLove so amazing, so divine,\nDemands my soul, my life, my all.",
   ]),
-   Hymn("NO 91", "HOW sweet the name of Jesus sounds", [
+   Hymn("NO 91", "91  HOW sweet the name of Jesus sounds", [
     "1.	HOW sweet the name of Jesus sounds\nIn a believer’s ear\nIt soothes his sorrows heals his wounds\nAnd drives away his fear.",
     "2.	It makes the wounded spirit whole,\nAnd calms the troubled breast;\n“Tis manna to the hungry soul,\nAnd to the weary rest.",
     "3.	The name, the Rock on which I build,\nMy shield and hiding place,\nMy never failing treasury, filled\nWith boundless stores of grace.",
