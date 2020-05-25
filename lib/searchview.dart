@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_story_app_concept/Hymn.dart';
 import 'package:flutter_story_app_concept/details.dart';
 
+
 class ListPersonPage extends StatefulWidget {
   @override
   _ListPersonPageState createState() => _ListPersonPageState();

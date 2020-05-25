@@ -59,7 +59,7 @@ class _MyHomePageState extends State<HomePage> {
         children: <Widget>[
           Container(
             width: MediaQuery.of(context).size.width,
-            color:Colors.white,
+            color:Color(0xFF1b1e44),
             child: Padding(
               padding: const EdgeInsets.only(left: 75,right: 75),
               child: Align(
@@ -70,8 +70,7 @@ class _MyHomePageState extends State<HomePage> {
                         Image.asset("assets/logo.jpeg",height: 200.0,width: 200.0,),
                       ],
                     )
-
-
+                        
                 ),
               ),
             ) /* add child content here */,

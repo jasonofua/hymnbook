@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_story_app_concept/details.dart';
+import 'package:flutter_story_app_concept/favdetail.dart';
 import 'package:flutter_story_app_concept/searchview.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'customIcons.dart';
@@ -25,10 +26,19 @@ class _MyAppState extends State<Home> {
 
   getStringValuesSF() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
+    favList = new List();
     //Return String
     String list = prefs.getString('favList');
 
-    if(list != null){
+    if(list == null || list =="[]"){
+
+      setState(() {
+        favList = new List();
+      });
+
+
+    }else{
+
       List<dynamic> h = jsonDecode(list);
 
       for(int i =0;i<h.length;i++){
@@ -40,8 +50,7 @@ class _MyAppState extends State<Home> {
 
 
       }
-    }else{
-      favList = new List();
+
 
 
     }
@@ -364,8 +373,7 @@ getStringValuesSF();
                               behavior: HitTestBehavior.opaque,
                               onTap: (){
 
-                                Navigator.of(context).push(new MaterialPageRoute(builder: (context) => new Detailed(myObject:hymns[i]))).whenComplete(getStringValuesSF);
-
+                                Navigator.of(context).push(new MaterialPageRoute(builder: (context) => new FavDetailed(myObject:hymns[i],pos: i))).whenComplete(getStringValuesSF);
                               },
                               child: Container(
                                 decoration: BoxDecoration(color:  Color(0xFFff6e6e), boxShadow: [
@@ -418,10 +426,7 @@ getStringValuesSF();
                         onTap: (){
                           print(favList[0].hymnContent);
 
-                          Navigator.push(
-                              context,
-                              new MaterialPageRoute(
-                                  builder: (__) => new Detailed(myObject:hymns[0])));
+
                         },
                         child: Stack(
                           children: cardList,
@@ -441,7 +446,7 @@ getStringValuesSF();
                               print(favList[index].hymnContent);
 
 
-                              Navigator.of(context).push(new MaterialPageRoute(builder: (context) => new Detailed(myObject:hymns[index]))).whenComplete(getStringValuesSF);
+                              Navigator.of(context).push(new MaterialPageRoute(builder: (context) => new FavDetailed(myObject:hymns[index],pos: index))).whenComplete(getStringValuesSF);
 
                             },
                             child: Container());
@@ -459,146 +464,5 @@ getStringValuesSF();
 }
 
 
-//class CardScrollWidget extends StatefulWidget {
-//  double currentPage;
-//  CardScrollWidget(this.currentPage);
-//
-//
-//  @override
-//  _HomeScreenState createState() => new _HomeScreenState();
-//}
-//
-//class _HomeScreenState extends State<CardScrollWidget> {
-//
-//
-//  @override
-//  Widget build(BuildContext context) {
-//    return  new AspectRatio(
-//      aspectRatio: widgetAspectRatio,
-//      child: LayoutBuilder(builder: (context, contraints) {
-//        var width = contraints.maxWidth;
-//        var height = contraints.maxHeight;
-//
-//        var safeWidth = width - 2 * padding;
-//        var safeHeight = height - 2 * padding;
-//
-//        var heightOfPrimaryCard = safeHeight;
-//        var widthOfPrimaryCard = heightOfPrimaryCard * cardAspectRatio;
-//
-//        var primaryCardLeft = safeWidth - widthOfPrimaryCard;
-//        var horizontalInset = primaryCardLeft / 2;
-//
-//        List<Widget> cardList = new List();
-//
-//        for (var i = 0; i < hymns.length; i++) {
-//          var delta = i - widget.currentPage;
-//          bool isOnRight = delta > 0;
-//
-//          var start = padding +
-//              max(
-//                  primaryCardLeft -
-//                      horizontalInset * -delta * (isOnRight ? 15 : 1),
-//                  0.0);
-//
-//          var cardItem = Positioned.directional(
-//            top: padding + verticalInset * max(-delta, 0.0),
-//            bottom: padding + verticalInset * max(-delta, 0.0),
-//            start: start,
-//            textDirection: TextDirection.rtl,
-//            child: ClipRRect(
-//              borderRadius: BorderRadius.circular(16.0),
-//              child: GestureDetector(
-//                onTap: (){
-//                  Navigator.push(
-//                      context,
-//                      new MaterialPageRoute(
-//                          builder: (__) => new Detailed(myObject:hymns[i])));
-//                },
-//                child: Container(
-//                  decoration: BoxDecoration(color:  Color(0xFF2d3447) , boxShadow: [
-//                    BoxShadow(
-//                        color: Colors.black12,
-//                        offset: Offset(3.0, 6.0),
-//                        blurRadius: 10.0)
-//                  ]),
-//                  child: AspectRatio(
-//                    aspectRatio: cardAspectRatio,
-//                    child: Stack(
-//                      fit: StackFit.expand,
-//                      children: <Widget>[
-//                        Align(
-//                          alignment: Alignment.bottomLeft,
-//                          child: SingleChildScrollView(
-//                            child: Column(
-//                              mainAxisSize: MainAxisSize.min,
-//
-//                              crossAxisAlignment: CrossAxisAlignment.start,
-//                              children: <Widget>[
-//                                Padding(
-//                                  padding: EdgeInsets.symmetric(
-//                                      horizontal: 16.0, vertical: 8.0),
-//                                  child: Text(hymns[i].hymnTitle,
-//                                      style: TextStyle(
-//                                          color: Colors.white,
-//                                          fontSize: 25.0,
-//                                          fontFamily: "SF-Pro-Text-Regular")),
-//                                ),
-//                                SizedBox(
-//                                  height: 10.0,
-//                                ),
-//                                Padding(
-//                                  padding: const EdgeInsets.only(
-//                                      left: 12.0, bottom: 12.0),
-//                                  child: GestureDetector(
-//                                    onTap: (){
-//
-//                                    },
-//                                    child:  IconButton(
-//                                      icon: Icon(
-//                                        Icons.search,
-//                                        color: Colors.white,
-//                                        size: 30.0,
-//                                      ),
-//                                      onPressed: () {
-//                                        print(hymns[i].hymnContent);
-//
-//                                        Navigator.push(
-//                                            context,
-//                                            new MaterialPageRoute(
-//                                                builder: (__) => new Detailed(myObject:hymns[i])));
-//                                      },
-//                                    ),
-//                                  ),
-//                                )
-//                              ],
-//                            ),
-//                          ),
-//                        )
-//                      ],
-//                    ),
-//                  ),
-//                ),
-//              ),
-//            ),
-//          );
-//          cardList.add(cardItem);
-//        }
-//        return GestureDetector(
-//          onTap: (){
-//            print(hymns[0].hymnContent);
-//
-//            Navigator.push(
-//                context,
-//                new MaterialPageRoute(
-//                    builder: (__) => new Detailed(myObject:hymns[0])));
-//          },
-//          child: Stack(
-//            children: cardList,
-//          ),
-//        );
-//      }),
-//    );
-//  }
-//}
 
 
