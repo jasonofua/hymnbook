@@ -1391,7 +1391,7 @@ final List<Hymn> hymns = [
     "2.	Thanks we give, and adoration,\nFor the gospel’s joyful sound;\nMay the fruits of Thy Salvation\nIn our hearts and lives abound,\nMay Thy presence, may Thy presence,\nWith us evermore be found.",
   ]),
 
-   Hymn("NO 183", "", [
+   Hymn("NO 183", "183  LORD, may we go with Thy blessings", [
     "1.	LORD, may we go with Thy blessings,\nFrom this Thy holy assembly,\nPardon all our faults, that may be,\nAnd bless us LORD with gift of life.\n
     "Chorus:\nLORD, may Thy blessings be with us,\nAnd fill our hearts with love and peace\nLORD, may Thy precious gift of life,\nNow be our joy for ever more.",
    "2.	LORD, as we leave this gathering,\nAll to our different homes and works,\nMay we abide in truth always,\nAnd praising Thee at every hour.",
@@ -1399,693 +1399,197 @@ final List<Hymn> hymns = [
     "4	Hail JEHOVAH and Jesus Christ!\nHail them with joy and loving hearts!\nHail them, O Hail them as we go,\nBrethren, again till we will meet.",
   ]),
 
-   Hymn("NO 184", "", [
-    "GLORY to GOD in the highest;
-Glory to Jesus Christ our Lord;
-Glory and praises ever sing,
-Hail JEHOVAH and Christ the King!.",
+   Hymn("NO 184", "184  GLORY to GOD in the highest (Part one)", [
+    "GLORY to GOD in the highest;\nGlory to Jesus Christ our Lord;\nGlory and praises ever sing,\nHail JEHOVAH and Christ the King!.",
   ]),
 
-   Hymn("NO 184", "", [
-    "O! Praise GOD for His precious word;
-And thank Him for our daily bread!
-Which He graciously to us give,
-Who praise Him and to His Son cleave.",
+   Hymn("NO 184", "184  O! Praise GOD for His precious word(Part two)", [
+    "O! Praise GOD for His precious word;\nAnd thank Him for our daily bread!\nWhich He graciously to us give,\nWho praise Him and to His Son cleave.",
   ]),
 
-   Hymn("NO 185", "", [
-    "HAIL JEHOVAH and Christ!
-From whom all blessings flow;
-Give praise and thanks and faithfully grow,
-In wisdom of our Christ.",
+   Hymn("NO 185", "185  HAIL JEHOVAH and Christ! (Part one)", [
+    "HAIL JEHOVAH and Christ!\nFrom whom all blessings flow;\nGive praise and thanks and faithfully grow,\nIn wisdom of our Christ.",
   ]),
 
-   Hymn("NO 185", "", [
-    "LORD, dismiss us in peace,
-Now that we’ve heard the voice,
-And as we leave we will rejoice-
-“Thy truth our anchor is”.",
+   Hymn("NO 185", "185  LORD, dismiss us in peace,(Part two)", [
+    "LORD, dismiss us in peace,\nNow that we’ve heard the voice,\nAnd as we leave we will rejoice-\n“Thy truth our anchor is”.",
   ]),
 
-   Hymn("NO 186", "", [
-    "THE grace and love of Jesus Christ,
-And peace from GOD our LORD,
-Be with us as we now do leave,
-To our different abode,
-That we in truth abide.",
+   Hymn("NO 186", "186  THE grace and love of Jesus Christ", [
+    "THE grace and love of Jesus Christ,\nAnd peace from GOD our LORD,\nBe with us as we now do leave,\nTo our different abode,\nThat we in truth abide.",
   ]),
 
-   Hymn("NO 187", "", [
-    "1.	ARISE! Ye youths ye sons of light!
-Chase the foes, with strength in Christ,
-Gird Thy amour that’s the decree
-Till the godless people flee.
-
-Chorus:
-   Oh! Arise ye mighty nation!
-   And rejoice ye mighty nation,
-   For the victory is the LORD’S
-   Bearing forth the truth with gladness,
-   As the soldiers of Jesus!
-   As the soldiers of Jesus!
-   As the soldiers of Jesus,
-   Bearing forth the truth with gladness,
-   For the vict’ry is the LORD’S.
-
-2.	Wake! Arise! And spread the gospel,
-O’er the world till all is well!
-Shew forth the vict’ry of the LORD,
-Treading where our master trod.
-
-3.	Let’s trust in GOD and do the right;
-And speak the truth without fright,
-Speaking it with strength in the LORD,
-Hoping for His sure reward.",
+   Hymn("NO 187", "187  ARISE! Ye youths ye sons of light", [
+    "1.	ARISE! Ye youths ye sons of light!\nChase the foes, with strength in Christ,\nGird Thy amour that’s the decree\nTill the godless people flee.",
+    "Chorus:\nOh! Arise ye mighty nation!\nAnd rejoice ye mighty nation,\nFor the victory is the LORD’S\nBearing forth the truth with gladness,\nAs the soldiers of Jesus!\nAs the soldiers of Jesus!\nAs the soldiers of Jesus,\nBearing forth the truth with gladness,\nFor the vict’ry is the LORD’S.",
+    "2.	Wake! Arise! And spread the gospel,\nO’er the world till all is well!\nShew forth the vict’ry of the LORD,\nTreading where our master trod.",
+    "3.	Let’s trust in GOD and do the right;\nAnd speak the truth without fright,\nSpeaking it with strength in the LORD,\nHoping for His sure reward.",
   ]),
 
    Hymn("NO 188", "188  THERE is freedom for all", [
-    "1.	THERE is freedom for all\n
-In the kingdom of our GOD,\n
-O! Praise JEHOVAH our GOD and KING,
-For chosen Gideon Urhobo
-In the beauty of His Holiness.
-We thank Thee, LORD, we thank Thee LORD   
-For this good privilege,
-We praise Thee, LORD, our GOD and KING,
-For all our joy and peace.
-Oh! Onward we shall march with joy,
-For there is freedom for all;
-For in the name of Jesus Christ.
-We shall conquer as we go,
-There is victory
-In the blessed Kingdom of our GOD
-There	 is freedom!
-There is victory and there is freedom
-In the Kingdom of our LORD and KING!
-We thank Thee, LORD!
-We praise Thee JEHOVAH GOD,
-For our victory thro’ Thy holy name,
-There is freedom
-There is freedom
-There is victory
-There is victory
-There is joy and peace and rest
-In the blessed Kingdom of GOD-
-The desire of mankind.
-
-Chorus:
-   GOD’S Kingdom on earth has come,
-   Thy kingdom of peace and of joy and rest
-   We thank Thee, JEHOVAH GOD-
-   For choosing Gideon Urhobo
-   For the Kingdom of GOD is the hope of mankind
-   That brings victory and freedom to mankind
-     Hallelujah! Praise the LORD,
-     For victory over all our foes.
-We praise Thee, LORD, our GOD and KING,
-For all our joy and peace,
-We thank Thee, LORD, we thank Thee, LORD,
-For our victory over all our foes.",
+    "1.	THERE is freedom for all\nIn the kingdom of our GOD,\nO! Praise JEHOVAH our GOD and KING,\nFor chosen Gideon Urhobo\nIn the beauty of His Holiness.\nWe thank Thee, LORD, we thank Thee LORD\n   For this good privilege,\nWe praise Thee, LORD, our GOD and KING,\nFor all our joy and peace.\nOh! Onward we shall march with joy,\nFor there is freedom for all;\nFor in the name of Jesus Christ.\nWe shall conquer as we go,\nThere is victory\nIn the blessed Kingdom of our GOD\nThere	 is freedom!\nThere is victory and there is freedom\nIn the Kingdom of our LORD and KING!\nWe thank Thee, LORD!\nWe praise Thee JEHOVAH GOD,\nFor our victory thro’ Thy holy name,\nThere is freedom\nThere is freedom\nThere is victory\nThere is victory\nThere is joy and peace and rest\nIn the blessed Kingdom of GOD-\nThe desire of mankind.",
+    "Chorus:\nGOD’S Kingdom on earth has come,\nThy kingdom of peace and of joy and rest\nWe thank Thee, JEHOVAH GOD-\nFor choosing Gideon Urhobo\nFor the Kingdom of GOD is the hope of mankind\nThat brings victory and freedom to mankind\nHallelujah! Praise the LORD,\nFor victory over all our foes.\nWe praise Thee, LORD, our GOD and KING,\nFor all our joy and peace,\nWe thank Thee, LORD, we thank Thee, LORD,\nFor our victory over all our foes.",
   ]),
 
-   Hymn("NO 189", "", [
-    "1.	O LORD my GOD, when I’m in awesome wonder,
-Consider all the worlds Thy hands have made,
-I see the stars, I hear the rolling thunder,
-Thy pow’r throughout the universe displayed.
-Refrain:
-   Then sings my soul, my Saviour GOD, to Thee
-   How great Thou art, how great Thou art!
-   Then sings my soul, my Saviour GOD, to Thee,
-   How great Thou art, how great Thou art!
-
-2.	When through the woods and forest glades I wander
-And hear the birds sing sweetly in the trees,
-When I look down from lofty mountain grandeur
-And hear the brook and feel the gentle breeze.
-
-3.	And when I think, that GOD, His son not sparing,
-Sent Him to die, I scarce can take it in,
-That on the tree my burden gladly bearing,
-He bled and died to take away my sin.",
+   Hymn("NO 189", "189  O LORD my GOD, when I’m in awesome wonder", [
+    "1.	O LORD my GOD, when I’m in awesome wonder,\nConsider all the worlds Thy hands have made,\nI see the stars, I hear the rolling thunder,\nThy pow’r throughout the universe displayed.",
+    "Refrain:\nThen sings my soul, my Saviour GOD, to Thee\nHow great Thou art, how great Thou art!\nThen sings my soul, my Saviour GOD, to Thee,\nHow great Thou art, how great Thou art!",
+    "2.	When through the woods and forest glades I wander\nAnd hear the birds sing sweetly in the trees,\nWhen I look down from lofty mountain grandeur\nAnd hear the brook and feel the gentle breeze.",
+    "3.	And when I think, that GOD, His son not sparing,\nSent Him to die, I scarce can take it in,\nThat on the tree my burden gladly bearing,\nHe bled and died to take away my sin.",
   ]),
-   Hymn("NO 190", "", [
-    "1.	ALL ye nations, come let’s worship,
-JEHOVAH and Christ Jesus,
-In the Feast of Tabernacles;
-Which brings joy and peace to all.
 
-2.	Let us celebrate rejoicing,
-With one accord in the Lord,
-In this great Feast of Ingathering,
-To keep the precepts of GOD.
-
-3.	What shall we render O brethren;
-In the LORD’S great Feast of feasts,
-Let us do His will, willingly,
-Pay our vows and off’rings too.
-
-4.	We ask for Thy care, JEHOVAH,
-In Christ, the Tabernacle;
-Guild us each year to keep the Feast,
-This we pray in Jesus name.
-
-5.	Praise and thanks we give to Thee, LORD;
-For all mercies through Thy son,
-Give us the precious “rain” Master,
-Now and after this great Feast.
-.",
+   Hymn("NO 190", "190  ALL ye nations, come let’s worship", [
+    "1.	ALL ye nations, come let’s worship,\nJEHOVAH and Christ Jesus,\nIn the Feast of Tabernacles;\nWhich brings joy and peace to all.",
+    "2.	Let us celebrate rejoicing,\nWith one accord in the Lord,\nIn this great Feast of Ingathering,\nTo keep the precepts of GOD.",
+    "3.	What shall we render O brethren;\nIn the LORD’S great Feast of feasts,\nLet us do His will, willingly,\nPay our vows and off’rings too.",
+    "4.	We ask for Thy care, JEHOVAH,\nIn Christ, the Tabernacle;\nGuild us each year to keep the Feast,\nThis we pray in Jesus name.",
+    "5.	Praise and thanks we give to Thee, LORD;\nFor all mercies through Thy son,\nGive us the precious “rain” Master,\nNow and after this great Feast.",
   ]),
-   Hymn("NO 191", "", [
-    "1.	IN the Tabernacle of God,
-I’ll dwell in joy and peace;
-Praising JEHOVAH, LORD OF HOST,
-And His Son Jesus Christ.
 
-2.	O! the Tabernacle of God,
-Now dwells amongst our race,
-Rejoice, God’s children now on earth;
-In His Tabernacle.
-
-3.	As for me and my house we’ll serve,
-The LORD with all our hearts,
-To know Thy kindness by Thy grace,
-In THEE O LORD we trust.
-4.	Glory to JEHOVAH our God,
-Glory to Christ Jesus,
-Glory to his Anointed ones,
-Who reign for ever more.
-.",
+   Hymn("NO 191", "191  IN the Tabernacle of God", [
+    "1.	IN the Tabernacle of God,\nI’ll dwell in joy and peace;\nPraising JEHOVAH, LORD OF HOST,\nAnd His Son Jesus Christ.",
+    "2.	O! the Tabernacle of God,\nNow dwells amongst our race,\nRejoice, God’s children now on earth;\nIn His Tabernacle.",
+    "3.	As for me and my house we’ll serve,\nThe LORD with all our hearts,\nTo know Thy kindness by Thy grace,\nIn THEE O LORD we trust.",
+    "4.	Glory to JEHOVAH our God,\nGlory to Christ Jesus,\nGlory to his Anointed ones,\nWho reign for ever more.",
   ]), 
 
-   Hymn("NO 192", "", [
-    "1	WELCOME, brethren in Christ Jesus;
-To this feast of tabernacles,
-Ordained for all in this last days,
-By God for our blessing and peace.
-
-Refrain:
-   Praise, Thanks and honour, O MOST HIGH!
-   For keeping us safe in Thy care,
-   To celebrate the Feast of feasts,
-   Each year in joy and happiness.
-
-2.	Rejoice now brethren and be glad,
-Sharing each o-thers love in Christ,
-In this great Feast of GOD our LORD;
-Full of freedom and GOD’S blessings.
-
-
-3	We’ll fill Thy court with songs of praise,
-That’ll make our hearts re-joice in Thee,
-That we might have Thy precious “rain”,
-From year to year in hap-pi-ness.
-
-4.	Bre-thren in Christ! Are ye pre-pared,
-To have the prec-ious “rain” from God?
-Then pay all off’rings and your vows,
-Doin’ His work faith-fu-ly in truth.
-.",
-  ]),
-   Hymn("NO 193", "", [
-    "1.	PRAISE ye the LORD, Amen, praise ye the LORD!
-Praise the LORD of Hosts, “I AM”
-The Cre-a-tor of Jesus and mankind,
-Praise Him, praise Him, He’s the LORD.
-Refrain:
-   O! praise His name, my dear brethren in Christ;
-   In this great Feast of the LORD.
-   Let’s celebrate the Feast with one accord,
-   The Feast that brings joy and peace to all.
-
-2.	Behold! the Tabernacle of the LORD,
-Is our Saviour, Christ Jesus!
-Is now dwelling amongst our race on earth,
-To show us the way of life.
-
-3.	Come now and drink from GOD’s living water,
-Flowing from Jesus, the Christ!
-Taste and drink it and ye shall then be free,
-Free from grief, sorrow and death.
-.",
-  ]),
-   Hymn("NO 194", "", [
-    "1.	IN the Feast of Tabernacles of God,
-There are blessings from JEHOVAH and Christ,
-Come now, let’s celebrate in this great Feast,
-Singing, “Hosanna” in jubilation.
-
-Refrain:
-   Keep us O LORD, for in Thee we trust;
-   To Thee O LORD, our vows renew,
-   For Thy goodness and all Thy mercies,
-   We  give Thee thanks and pra-ises.
-
-2.	Oh! Ye nations and kindred of the earth;
-Sing, shout, rejoice for we’re in happy days;
-Let’s praise with holy thoughts of GOD’S Kingdom;
-Christ, the true and perfect Tabernacle.
-
-3.	We happy celebrants come before Thee;
-Accept our vows and our off’rings we bring
-Give us understanding of the great Word;
-For salvation belongeth unto Thee.
-
-4.	Happy brothers and sisters in the Lord,
-Are ye prepared to have the precious “rain”?
-If “yes” then give all your heart to the Lord,
-Fill His tabernacle with praise and thanks.
-.",
-  ]),
-  Hymn("NO 195", "", [
-    "1.	I am so glad that our Father in heav’n,
-Tells of His love in the book He has giv’n;
-Wonderful things in the Bible I see;
-This is the dearest, that Jesus loves me.
-
-Refrain:
-   I am so glad, that Jesus loves me
-   Jesus loves me, Jesus loves me
-   I am so glad, that Jesus loves me
-   Jesus loves even me.
-
-2.	Though I forget Him, and wander away,
-Still He doth love me whenever I stray;
-Back to His dear loving arms do I flee,
-When I remember that Jesus loves me.
-
-3.	O if there is only one song I can sing,
-When in His beauty I see the great King,
-This shall my song in eternity be,
-O what a wonder that Jesus loves me.
-
-4.	If one should ask of me; How can I tell,
-Glory to Jesus I know very well;
-God’s Holy Spirit with mine doth agree,
-Constantly witnessing, Jesus loves me.
-.",
-  ]),
-  Hymn("NO 196", "", [
-    "1.	JEHOVAH GOD of grace, we come before Thee,
-To celebrate the Feast of Christ Jesus;
-That brings deliverance and peace to God‘s people
-Ordained by Thee for all in this last days.
-
-Refrain:
-   Grant us peace, joy and hope,
-   In our Saviour, Jesus
-   The only true perfect Tabernacle,
-   Send us Thy precious “rain” through Thy Son Jesus
-   From year to year in peace and happiness
-
-2.	Help us O God of grace, now that we’ve known Thee,
-Guard thou our ways, our thoughts, our tongues and hearts,
-That we Thy kindness and mercies, Lord enjoy
-Each time we celebrate the Feast of Christ.
-
-3.	With thanks we do rejoice as happy Christians,
-With one accord in Christ praising Thee, Lord;
-To keep Thy laws, pay our vows and offerings
-In the LORD’S great Feast of Tabernacles.
-
-4.	How lovely are Thy Tabernacles O Lord;     
-Our heart longeth and yea even cleaveth,
-To praise Thee Lord and keep Thy testimonies,
-In perfect peace and love for ever more.
-.",
-  ]),
-   Hymn("NO 197", "", [
-    "1.	WHAT shall I render unto Thee my LORD, my GOD
-For Thy great benefits towards me your child  
-I will pay my tithes and all my vows to Thee
-And offer all my thanksgivings
-I will pay in the presence of my people
-Gathered in the courts
-The great house of the LORD
-I will keep Thy laws and serve Thee with my heart
-Pour on me Thy blessings Thou promised.
-.",
-  ]),
-   Hymn("NO 198", "", [
-    "1.	AMAZING grace how sweet sound
-That saved a wretch like me;
-I once was lost but now am found
-Was blind but now I see.
-
-2.	The Lord has promised good to me
-His word my hope secures
-He will my shield and portion be,
-As long as life endures.
-.",
-  ]),
-   Hymn("NO 199", "", [
-    "1.	“THO’ your sin be as scarlet,    ]
-They shall be as white as snow, ]  
-“Tho’ they shall be red like crimson,
-They shall be as wool
-“Tho’ your sins be as scarlet,
-“Tho’ your sins be as scarlet,
-They shall be as white as snow.
-They shall be as white as snow.             
-
-2	Hear the voice that entreats you: ]
-Oh return ye unto GOD,		    ]
-He is of great compassion,
-And of wondrous love
-Hear the voice that entreats you,
-Hear the voice that entreats you,
-OH return ye unto GOD
-OH return ye unto GOD.
-
-3	He’ll forgive your transgressions, ]
-And remember them no more,        ]
-Look unto Me, ye people”
-Saith the LORD your GOD
-He’ll forgive your transgressions,
-He’ll forgive your transgressions,
-And remember them no more.
-And remember them no more.      
-
-.",
-  ]),
-   Hymn("NO 200", "", [
-    "1	I will sing of my Re-deem-er,
-And His won-drous love to me,
-On the cruel tree He suf-fered,
-From the cures to set me free.
-Refrain:
-All:	   Sing, oh sing,..................of my Re-deem-er………………………………………..  
-Parts:	   Sing, oh sing, of my Redeemer! Sing, oh sing, of my Redeemer
-All:	   With His blood…………….He pur-chased me!…………………………………. 
-Parts:	   With His blood (He purchase me!) He purchased me! He
-                                                                                     purchased me!
-All:	   On the tree……………………He sealed my par-don,………………………...
-Parts:   On the tree He sealed my par-don, On the tree He sealed
-                                                                                       my par-don,
-All:	   Paid the debt……….……….and made me free………………………….……..
-Parts:	   Paid the debt, and made me free, and made me free (and
-                                                                                     made me free)
-
-2.	I will tell the wondrous story,
-How my lost estate He saved,
-With His boundless love and mercy,
-He the ransom freely gave.
-
-3.	I will praise my dear Re-deem-er,
-His triumphant pow’r I’ll tell;
-                   How the vic-to-ry He giv-eth
-                   O-ver sin, and death, and hell.
-
-4.	I will sing of my Redeemer,
-And His won-drous love for me;
-He from death to life hath brought me,
-His grace di-vine, full and free.
-.",
-  ]),
-   Hymn("NO 201", "", [
-    "1.	PASS me not, Oh gentle Saviour,
-Hear my humble cry,
-While on others Thou art calling
-Do not pass me by.
-
-Refrain:
-   Saviour, Saviour,
-   Hear my humble cry, 
-   While on others Thou art calling
-   Do not pass me by.
-
-2.	Hear me at Thy throne of mercy
-Send a sweet relief;
-While I bow in deep contrition,
-Help my unbelief.
-
-3.	Trusting in only Thy power,
-As I seek Thy face;
-Heal my wounded, broken spirit,
-Save me by Thy grace.
-
-4.	Thou Father of all my comfort,
-Savior of my life;
-Whom have I on earth beside Thee
-Whom in Heav’n but Thee.
-.",
-  ]),
-   Hymn("NO 202", "", [
-    "1.	FATHER in thy mercy,
-Hear our heart de-si-res,
-Keep us Lord, protect us
-From satan’s temptations.
- 
-2.	Let thy presence Father,
-Be our light and our guide;
-In our weakness, keep us,
-At thy side in safety.
-
-3.	In sorrow, in danger,
-In loneliness, in grief;
-Lord, in thy love look down,
-Comfort us in distress.
-
-4.	The joy of Salvation,
-Be our strength and our stay,
-May we love and worship,
-Daily, Lord in thy truth.
-
-5.	Father let thy teaching,
-Sanctify our lives now;
-Send the grace, peace and joy,
-That we may conquer strife.
-6.	ALMIGHTY JEHOVAH,
-Father of Christ Jesus
-Bless us, save and guide us,
-To reach the promised land.
-
-.",
-  ]),
-   Hymn("NO 203", "", [
-    "1.	WITH my Saviour ever near to guide me,
-I am safe whatever may betide me,
-From the storm and tempest, He will hide me,
-In the hollow of His hand.
-
-
-
-Refrain:
-All:	   In the hol-low……………………….of His hand………………………..
-Parts:   		    In the hollow      in the hol-low of His hand
-All:	   In the hol-low …………………....of His hand………………….…….
-Parts:			    In the hollow      in the hollow of His hand
-   I am safe whatever may be tide me,
-   In the hollow of His hand.
-
-2.	In His arms of love He doth enfold me,
-Words of peace His voice divine hath told me,
-I am safe for God Himself doth hold me,
-In the hollow of His hand.
-
-3.	He will guide my soul and leave me never,
-From His love no power on earth shall sever,
-And I know He’ll keep me now and ever,
-In the hollow of His hand.
-.",
+   Hymn("NO 192", "192  WELCOME, brethren in Christ Jesus", [
+    "1	WELCOME, brethren in Christ Jesus;\nTo this feast of tabernacles,\nOrdained for all in this last days,\nBy God for our blessing and peace.",
+    "Refrain:\nPraise, Thanks and honour, O MOST HIGH!\nFor keeping us safe in Thy care,\nTo celebrate the Feast of feasts,\nEach year in joy and happiness.",
+    "2.	Rejoice now brethren and be glad,\nSharing each o-thers love in Christ,\nIn this great Feast of GOD our LORD;\nFull of freedom and GOD’S blessings.",
+    "3	We’ll fill Thy court with songs of praise,\nThat’ll make our hearts re-joice in Thee,\nThat we might have Thy precious “rain”,\nFrom year to year in hap-pi-ness.",
+    "4.	Bre-thren in Christ! Are ye pre-pared,\nTo have the prec-ious “rain” from God?\nThen pay all off’rings and your vows,\nDoin’ His work faith-fu-ly in truth.",
   ]),
 
-   Hymn("NO 204", "", [
-    "1.	AFTER this I beheld a great multitude;
-No man could count of all nations
-Stood before the throne and before the great Lamb
-All in white robes and palms in their hands.
-
-
-Refrain:
-Al:	   Salvation………….unto our God…….…….
-Parts:                Salvation unto our God, to our God,
-All:	   Who sitteth upon the throne,
-All:	   Salvation unto our God and to our Lamb
-All:	   They all sang, praising God and the Lamb,
-
-2.	All the angels stood round about the Lord’s throne;
-With the elders and the four beasts,
-They all fall before the throne on their faces,
-To worship JEHOVAH and the Lamb.
-
-3.	All said, Amen, blessing, glory and wisdom,
-Thanksgiving honour, pow’r and might
-Be unto our God for ever and ever,
-Singing rejoicing, praising the Lord.
-4.	Lo! Who are these which are arrayed in white robes,
-From whence they came with these garments,
-These, all came out from the great tribulation,
-And have washed their robes and made them white.
-
-Refrain:
-   In the blood………………of the great Lamb………..……
-                               In the blood of the great Lamb, the great Lamb
-   He has cleansed and made them free
-   They shall serve Him day and night in His temple
-   And JEHOVAH GOD shall be with them.",
+   Hymn("NO 193", "193  PRAISE ye the LORD, Amen, praise ye the LORD!", [
+    "1.	PRAISE ye the LORD, Amen, praise ye the LORD!\nPraise the LORD of Hosts, “I AM”\nThe Cre-a-tor of Jesus and mankind,\nPraise Him, praise Him, He’s the LORD.",
+    "Refrain:\nO! praise His name, my dear brethren in Christ;\nIn this great Feast of the LORD.\nLet’s celebrate the Feast with one accord,\nThe Feast that brings joy and peace to all.",
+    "2.	Behold! the Tabernacle of the LORD,\nIs our Saviour, Christ Jesus!\nIs now dwelling amongst our race on earth,\nTo show us the way of life.",
+    "3.	Come now and drink from GOD’s living water,\nFlowing from Jesus, the Christ!\nTaste and drink it and ye shall then be free,\nFree from grief, sorrow and death.",
   ]),
-   Hymn("NO 205", "", [
-    "1.	REJOICE Saint Gideon Urhobo,
-In Zion, city of God,
-Yes! Rejoice, Oh thou man of God,
-That here on earth, your true light shines.
 
-Refrain:
-All:	   Yes rejoice….…….……..O servant of God
-Parts:		          Yes rejoice
-All:	   That your name…… is remembered
-Parts:		         That your name 
-All:	   Day and night by those who love you
-All:	   Just like those Saints who live above……….……
-Parts:				                          (live above)
-
-2.	Yes you’re like a star in God’s throne
-Clad in a robe pure and white,
-Wearing the victor’s crown of gold;
-Singing new anthems of Zion.
-
-3.	Thou upheld your Saviour’s honour
-Fighting on till life ended;
-Preaching the truth of the gospel
-As an Anointed man of God.
-
-4.	O ye Christian men and women,
-Glorify the Lord and raise,
-Hymns of adoration and praise,
-To honour Christ in His Saint true.
-.",
+   Hymn("NO 194", "194  IN the Feast of Tabernacles of God", [
+    "1.	IN the Feast of Tabernacles of God,\nThere are blessings from JEHOVAH and Christ,\nCome now, let’s celebrate in this great Feast,\nSinging, “Hosanna” in jubilation.",
+"Refrain:\nKeep us O LORD, for in Thee we trust;\nTo Thee O LORD, our vows renew,\nFor Thy goodness and all Thy mercies,\nWe  give Thee thanks and pra-ises.",
+"2.	Oh! Ye nations and kindred of the earth;\nSing, shout, rejoice for we’re in happy days;\nLet’s praise with holy thoughts of GOD’S Kingdom;\nChrist, the true and perfect Tabernacle.",
+"3.	We happy celebrants come before Thee;\nAccept our vows and our off’rings we bring\nGive us understanding of the great Word;\nFor salvation belongeth unto Thee.",
+"4.	Happy brothers and sisters in the Lord,\nAre ye prepared to have the precious “rain”?\nIf “yes” then give all your heart to the Lord,\nFill His tabernacle with praise and thanks.",
   ]),
-   Hymn("NO 206", "", [
-    "1.	JESUS my Shepherd I love Thee,
-I will follow Thee;
- 	Thou saved me Lord, from sin and death,
-On the tree.
 
-2.	There’s is no love like that of Jesus,
-Never, ever fades,
-It is precious, it is boundless;
-Pure and free.
-
-3.	Happy I am, happy I am,
-To be loved by Christ,
-I will ever follow my King;
-Jesus Christ.
-
-4.	I will sing of Christ and His love,
-‘Cause I know it’s true,
-He saves those that call and trust Him,
-In the truth.
-
-5.	If I’ll follow in truth and love,
-Nothing I will lack,
-Abundantly, He will provide,
-All my needs.
-
-6.	I follow Christ my Saviour,
-Follow every day,
-That I may gain my Salvation;
-On this earth.",
+  Hymn("NO 195", "195 I am so glad that our Father in heav’n", [
+    "1.	I am so glad that our Father in heav’n,\nTells of His love in the book He has giv’n;\nWonderful things in the Bible I see;\nThis is the dearest, that Jesus loves me.",
+    "Refrain:\nI am so glad, that Jesus loves me\nJesus loves me, Jesus loves me\nI am so glad, that Jesus loves me\nJesus loves even me.",
+    "2.	Though I forget Him, and wander away,\nStill He doth love me whenever I stray;\nBack to His dear loving arms do I flee,\nWhen I remember that Jesus loves me.",
+    "3.	O if there is only one song I can sing,\nWhen in His beauty I see the great King,\nThis shall my song in eternity be,\nO what a wonder that Jesus loves me.",
+    "4.	If one should ask of me; How can I tell,\nGlory to Jesus I know very well;\nGod’s Holy Spirit with mine doth agree,\nConstantly witnessing, Jesus loves me.",
   ]),
-   Hymn("NO 207", "", [
-    "1.	JESUS, joy of loving hearts,
-Be a friend to me each day,
-Take my hand and e’er keep me
-Close to Thee.
 
-2.	My Lord, I’m a little child,
-Weak and apt to stray from Thee,
-Watch and guide me, gentle Lamb
-Day by day.
-
-3.	Teach me how to grow in Thee,
-Daily upward into grace,
-  	Live Thyself within my heart, 
-   	This I pray.
-4.	Step by step, lead me onward,
-Into Thy Kingdom of joy,
-	Let me always serve Thee Lord,
-	In Thy truth.
-
-5.	Never leave nor forsake me,
-	Ever be my friend in deed,		
-	Guide me safely, I need Thee
-	Till the end.
-
-6.	Christ is my portion for e’er,
-	His glory I will pursue
-	In wisdom, strength, love and joy,
-	For ever.",
+  Hymn("NO 196", "196 JEHOVAH GOD of grace, we come before Thee", [
+    "1.	JEHOVAH GOD of grace, we come before Thee,\nTo celebrate the Feast of Christ Jesus;\nThat brings deliverance and peace to God‘s people\nOrdained by Thee for all in this last days.",
+    "Refrain:\nGrant us peace, joy and hope,\nIn our Saviour, Jesus\nThe only true perfect Tabernacle,\nSend us Thy precious “rain” through Thy Son Jesus\nFrom year to year in peace and happiness",
+    "2.	Help us O God of grace, now that we’ve known Thee,\nGuard thou our ways, our thoughts, our tongues and hearts,\nThat we Thy kindness and mercies, Lord enjoy\nEach time we celebrate the Feast of Christ."
+    "3.	With thanks we do rejoice as happy Christians,\nWith one accord in Christ praising Thee, Lord;\nTo keep Thy laws, pay our vows and offerings\nIn the LORD’S great Feast of Tabernacles.",
+    "4.	How lovely are Thy Tabernacles O Lord;\n  Our heart longeth and yea even cleaveth,\nTo praise Thee Lord and keep Thy testimonies,\nIn perfect peace and love for ever more.",
   ]),
-   Hymn("NO 208", "", [
-    "1.	JE-HO-VAH, God Al-migh-ty,
-	Crea-tor of heav’n and earth,
-	Our soul re-joice and praise Thee, LORD;
-	Fa-ther of all man-kind,
-	Who is like un-to Thee, LORD?
-	Most Ho-ly and Rev-erend,
-	All the good gifts around us;
-	Are sent by Thee O LORD.
-Refrain:
-	   We’ll sing of Thy good-ness,
-	   O LORD from day to day,
-	   We thank Thee, LORD, O thank Thee, LORD;
-	   For all….Thy love.
 
-2.	JE-HO-VAH God we’ve found Thee,
-	Make us your sheep for-’er,
-	Cleanse us and make our faith more strong;
-	To stay with Thee in truth,
-	Glo-ry to Christ our Sa-viour,
-	Who died to save our souls,
-	To bring us near-er to Thee,
-	For safe-ty and re-fuge.
-
-3.	FA-THER of jus-tice and love,
-	To Thee we come with thanks
-	Thy word has brought us to Thy light,
-	What a blessing we’ve found,
-	Help us to reap Thy goodness;
-	All good things come from Thee
-	We pledge all our lives to Thy care,
-	Perfect are all Thy ways.
-
-4.	O GOD of love and mer-cy,
-	JE-HO-VAH, Great I AM.
-	All might and majesty belong;
-	To Thee “Ancient of days”
-	Cre-a-tor of Christ Jesus,
-	Who made all things to bear,
-	Give us triumph over sin,
-	To reach the blissful shore.
-.",
+   Hymn("NO 197", "197  WHAT shall I render unto Thee my LORD, my GOD", [
+    "1.	WHAT shall I render unto Thee my LORD, my GOD\nFor Thy great benefits towards me your child\n  I will pay my tithes and all my vows to Thee\nAnd offer all my thanksgivings\nI will pay in the presence of my people\nGathered in the courts\nThe great house of the LORD\nI will keep Thy laws and serve Thee with my heart\nPour on me Thy blessings Thou promised.",
   ]),
-   Hymn("NO 209", "", [
-    "1.	REVIVE me now O Lord,
-	That I no longer roam
-	But cling to Thee and do Thy will,
-	In Thy Mount for ever.
 
-2.	Revive me now O Lord,
-	Let my soul thirst for Thee
-	Pardon my guilt and make me pure,
-	To serve Thee and be blessed.
-
-3.	Revive me now O Lord
-	And do my soul redeem
-	From satan’s darts and all his works
-	I beseech Thee, O Lord.
-
-4.	Revive me now O Lord	
-	That I walk close to Thee
-	And hate satan and all his works
-	And worship only Thee.
-
-5.	Revive me now O Lord
-	Give me refreshing show’rs
-	The glory shall be all Thine own
-	The blessings, Lord be mine.",
+   Hymn("NO 198", "198  AMAZING grace how sweet sound", [
+    "1.	AMAZING grace how sweet sound\nThat saved a wretch like me;\nI once was lost but now am found\nWas blind but now I see.",
+    "2.	The Lord has promised good to me\nHis word my hope secures\nHe will my shield and portion be,\nAs long as life endures.",
   ]),
+
+   Hymn("NO 199", "199  “THO’ your sin be as scarlet", [
+    "1.	“THO’ your sin be as scarlet,\nThey shall be as white as snow,\n “Tho’ they shall be red like crimson,\nThey shall be as wool\n“Tho’ your sins be as scarlet,\n“Tho’ your sins be as scarlet,\nThey shall be as white as snow.\nThey shall be as white as snow.",             
+    "2	Hear the voice that entreats you:\nOh return ye unto GOD,\nHe is of great compassion,\nAnd of wondrous love\nHear the voice that entreats you,\nHear the voice that entreats you,\nOH return ye unto GOD\nOH return ye unto GOD.",
+    "3	He’ll forgive your transgressions,\nAnd remember them no more,\nLook unto Me, ye people”\nSaith the LORD your GOD\nHe’ll forgive your transgressions,\nHe’ll forgive your transgressions,\nAnd remember them no more.\nAnd remember them no more.",
+  ]),
+
+   Hymn("NO 200", "200  I will sing of my Re-deem-er", [
+    "1	I will sing of my Re-deem-er,\nAnd His won-drous love to me,\nOn the cruel tree He suf-fered,\nFrom the cures to set me free.",
+    "Refrain:\nAll:	   Sing, oh sing,..................of my Re-deem-er………………………………………\nParts:	   Sing, oh sing, of my Redeemer! Sing, oh sing, of my Redeemer\nAll:	   With His blood…………….He pur-chased me!…………………………………\nParts:	   With His blood (He purchase me!) He purchased me! He purchased me!\nAll:	   On the tree……………………He sealed my par-don,………………………...\nParts:   On the tree He sealed my par-don, On the tree He sealed my par-don,\nAll:	   Paid the debt……….……….and made me free………………………….……..Parts:	   Paid the debt, and made me free, and made me free (and made me free)",
+    "2.	I will tell the wondrous story,\nHow my lost estate He saved,\nWith His boundless love and mercy,\nHe the ransom freely gave.",
+    "3.	I will praise my dear Re-deem-er,\nHis triumphant pow’r I’ll tell;\nHow the vic-to-ry He giv-eth\nO-ver sin, and death, and hell.",
+    "4.	I will sing of my Redeemer,\nAnd His won-drous love for me;\nHe from death to life hath brought me,\nHis grace di-vine, full and free.",
+  ]),
+
+   Hymn("NO 201", "201  PASS me not, Oh gentle Saviour", [
+    "1.	PASS me not, Oh gentle Saviour,\nHear my humble cry,\nWhile on others Thou art calling\nDo not pass me by.",
+    "Refrain:\nSaviour, Saviour,\nHear my humble cry, \nWhile on others Thou art calling\nDo not pass me by.",
+    "2.	Hear me at Thy throne of mercy\nSend a sweet relief;\nWhile I bow in deep contrition,\nHelp my unbelief.",
+    "3.	Trusting in only Thy power,\nAs I seek Thy face;\nHeal my wounded, broken spirit,\nSave me by Thy grace.",
+    "4.	Thou Father of all my comfort,\nSavior of my life;\nWhom have I on earth beside Thee\nWhom in Heav’n but Thee.",
+  ]),
+
+   Hymn("NO 202", "202  FATHER in thy mercy", [
+    "1.	FATHER in thy mercy,\nHear our heart de-si-res,\nKeep us Lord, protect us\nFrom satan’s temptations.",
+    "2.	Let thy presence Father,\nBe our light and our guide;\nIn our weakness, keep us,\nAt thy side in safety.",
+    "3.	In sorrow, in danger,\nIn loneliness, in grief;\nLord, in thy love look down,\nComfort us in distress.",
+    "4.	The joy of Salvation,\nBe our strength and our stay,\nMay we love and worship,\nDaily, Lord in thy truth.",
+    "5.	Father let thy teaching,\nSanctify our lives now;\nSend the grace, peace and joy,\nThat we may conquer strife.",
+    "6.	ALMIGHTY JEHOVAH,\nFather of Christ Jesus\nBless us, save and guide us,\nTo reach the promised land.",
+  ]),
+
+   Hymn("NO 203", "203  WITH my Saviour ever near to guide me", [
+    "1.	WITH my Saviour ever near to guide me,\nI am safe whatever may betide me,\nFrom the storm and tempest, He will hide me,\nIn the hollow of His hand.",
+    "Refrain:\nAll:	   In the hol-low……………………….of His hand………………………\nParts:   		    In the hollow      in the hol-low of His hand\nAll:	   In the hol-low …………………....of His hand………………….…….\nParts:			    In the hollow      in the hollow of His hand\nI am safe whatever may be tide me,\nIn the hollow of His hand.",
+    "2.	In His arms of love He doth enfold me,\nWords of peace His voice divine hath told me,\nI am safe for God Himself doth hold me,\nIn the hollow of His hand.",
+    "3.	He will guide my soul and leave me never,\nFrom His love no power on earth shall sever,\nAnd I know He’ll keep me now and ever,\nIn the hollow of His hand.",
+  ]),
+
+   Hymn("NO 204", "204  AFTER this I beheld a great multitude", [
+    "1.	AFTER this I beheld a great multitude;\nNo man could count of all nations\nStood before the throne and before the great Lamb\nAll in white robes and palms in their hands.",
+    "Refrain:\nAl:	   Salvation………….unto our God…….…….\nParts:                Salvation unto our God, to our God,\nAll:	   Who sitteth upon the throne,\nAll:	   Salvation unto our God and to our Lamb\nAll:	   They all sang, praising God and the Lamb,",
+    "2.	All the angels stood round about the Lord’s throne;\nWith the elders and the four beasts,\nThey all fall before the throne on their faces,\nTo worship JEHOVAH and the Lamb.",
+    "3.	All said, Amen, blessing, glory and wisdom,\nThanksgiving honour, pow’r and might\nBe unto our God for ever and ever,\nSinging rejoicing, praising the Lord.",
+    "4.	Lo! Who are these which are arrayed in white robes,\nFrom whence they came with these garments,\nThese, all came out from the great tribulation,\nAnd have washed their robes and made them white.",
+    "Refrain:\nIn the blood………………of the great Lamb………..……\nIn the blood of the great Lamb, the great Lamb\nHe has cleansed and made them free\nThey shall serve Him day and night in His temple\nAnd JEHOVAH GOD shall be with them.",
+  ]),
+
+   Hymn("NO 205", "205  REJOICE Saint Gideon Urhobo", [
+    "1.	REJOICE Saint Gideon Urhobo,\nIn Zion, city of God,\nYes! Rejoice, Oh thou man of God,\nThat here on earth, your true light shines.",
+    "Refrain:\nAll:	   Yes rejoice….…….……..O servant of God\nParts:		         Yes rejoice\nAll:	   That your name…… is remembered\nParts:		        That your name \nAll:	   Day and night by those who love you\nAll:	   Just like those Saints who live above……\nParts:				    (live above)",
+    "2.	Yes you’re like a star in God’s throne\nClad in a robe pure and white,\nWearing the victor’s crown of gold;\nSinging new anthems of Zion.",
+    "3.	Thou upheld your Saviour’s honour\nFighting on till life ended;\nPreaching the truth of the gospel\nAs an Anointed man of God.",
+    "4.	O ye Christian men and women,\nGlorify the Lord and raise,\nHymns of adoration and praise,\nTo honour Christ in His Saint true.",
+  ]),
+
+   Hymn("NO 206", "206  JESUS my Shepherd I love Thee,", [
+    "1.	JESUS my Shepherd I love Thee,\nI will follow Thee;\nThou saved me Lord, from sin and death,\nOn the tree.",
+    "2.	There’s is no love like that of Jesus,\nNever, ever fades,\nIt is precious, it is boundless;\nPure and free.",
+    "3.	Happy I am, happy I am,\nTo be loved by Christ,\nI will ever follow my King;\nJesus Christ.",
+    "4.	I will sing of Christ and His love,\n‘Cause I know it’s true,\nHe saves those that call and trust Him,\nIn the truth.",
+    "5.	If I’ll follow in truth and love,\nNothing I will lack,\nAbundantly, He will provide,\nAll my needs.",
+    "6.	I follow Christ my Saviour,\nFollow every day,\nThat I may gain my Salvation;\nOn this earth.",
+  ]),
+
+   Hymn("NO 207", "207  JESUS, joy of loving hearts", [
+    "1.	JESUS, joy of loving hearts,\nBe a friend to me each day,\nTake my hand and e’er keep me\nClose to Thee.",
+    "2.	My Lord, I’m a little child,\nWeak and apt to stray from Thee,\nWatch and guide me, gentle Lamb\nDay by day.",
+    "3.	Teach me how to grow in Thee,\nDaily upward into grace,\nLive Thyself within my heart, \nThis I pray.",
+    "4.	Step by step, lead me onward,\nInto Thy Kingdom of joy,\nLet me always serve Thee Lord,\nIn Thy truth.",
+    "5.	Never leave nor forsake me,\nEver be my friend in deed,\n		Guide me safely, I need Thee\nTill the end.",
+    "6.	Christ is my portion for e’er,\nHis glory I will pursue\nIn wisdom, strength, love and joy,\nFor ever.",
+  ]),
+
+   Hymn("NO 208", "208  JE-HO-VAH, God Al-migh-ty", [
+    "1.	JE-HO-VAH, God Al-migh-ty,\nCrea-tor of heav’n and earth,\nOur soul re-joice and praise Thee, LORD;\nFa-ther of all man-kind,\nWho is like un-to Thee, LORD?\nMost Ho-ly and Rev-erend,\nAll the good gifts around us;\nAre sent by Thee O LORD.",
+    "Refrain:\nWe’ll sing of Thy good-ness,\nO LORD from day to day,\nWe thank Thee, LORD, O thank Thee, LORD;\nFor all….Thy love.",
+    "2.	JE-HO-VAH God we’ve found Thee,\nMake us your sheep for-’er,\nCleanse us and make our faith more strong;\nTo stay with Thee in truth,\nGlo-ry to Christ our Sa-viour,\nWho died to save our souls,\nTo bring us near-er to Thee,\nFor safe-ty and re-fuge.",
+    "3.	FA-THER of jus-tice and love,\nTo Thee we come with thanks\nThy word has brought us to Thy light,\nWhat a blessing we’ve found,\nHelp us to reap Thy goodness;\nAll good things come from Thee\nWe pledge all our lives to Thy care,\nPerfect are all Thy ways.",
+    "4.	O GOD of love and mer-cy,\nJE-HO-VAH, Great I AM.\nAll might and majesty belong;\nTo Thee “Ancient of days”\nCre-a-tor of Christ Jesus,\nWho made all things to bear,\nGive us triumph over sin,\nTo reach the blissful shore.",
+  ]),
+
+   Hymn("NO 209", "209  REVIVE me now O Lord", [
+    "1.	REVIVE me now O Lord,\nThat I no longer roam\nBut cling to Thee and do Thy will,\nIn Thy Mount for ever.",
+    "2.	Revive me now O Lord,\nLet my soul thirst for Thee\nPardon my guilt and make me pure,\nTo serve Thee and be blessed.",
+    "3.	Revive me now O Lord\nAnd do my soul redeem\nFrom satan’s darts and all his works\nI beseech Thee, O Lord.",
+    "4.	Revive me now O Lord\n	That I walk close to Thee\nAnd hate satan and all his works\nAnd worship only Thee.",
+    "5.	Revive me now O Lord\nGive me refreshing show’rs\nThe glory shall be all Thine own\nThe blessings, Lord be mine.",
+  ]),
+
    Hymn("NO 210", "", [
     "I thank Thee, AL-MIGH-TY as I pay my tithe now,
 	Give me faith to con-ti-nue, that I may not rob Thee,
