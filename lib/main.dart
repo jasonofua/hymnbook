@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_story_app_concept/details.dart';
 import 'package:flutter_story_app_concept/searchview.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'customIcons.dart';
 import 'package:flutter_story_app_concept/Hymn.dart';
 
@@ -26,12 +27,37 @@ class _MyAppState extends State<MyApp> {
   var currentPageFav = hymns.length - 1.0;
   List<Hymn> favList = new List();
 
+  getStringValuesSF() async {
+    SharedPreferences prefs = await SharedPreferences.getInstance();
+    //Return String
+    String list = prefs.getString('favList');
+
+    if(list != null){
+      List<dynamic> h = jsonDecode(list);
+
+      for(int i =0;i<h.length;i++){
+        Hymn hm = new Hymn(h[i]["hymnNumber"], h[i]["hymnTitle"],h[i]["hymnContent"].cast<String>());
+        setState(() {
+
+          favList.add(hm);
+        });
+
+
+      }
+    }else{
+      favList = new List();
+
+
+    }
+
+
+  }
 
 
   @override
   void initState() {
     // TODO: implement initState
-
+getStringValuesSF();
     super.initState();
 
   }
@@ -168,10 +194,9 @@ class _MyAppState extends State<MyApp> {
                             child: GestureDetector(
                                 behavior: HitTestBehavior.opaque,
                               onTap: (){
-                                Navigator.push(
-                                    context,
-                                    new MaterialPageRoute(
-                                        builder: (__) => new Detailed(myObject:hymns[i])));
+
+                                Navigator.of(context).push(new MaterialPageRoute(builder: (context) => new Detailed(myObject:hymns[i]))).whenComplete(getStringValuesSF);
+
                               },
                               child: Container(
                                 decoration: BoxDecoration(color:  Colors.blueAccent[200],boxShadow: [
@@ -205,27 +230,7 @@ class _MyAppState extends State<MyApp> {
                                               SizedBox(
                                                 height: 10.0,
                                               ),
-                                              Padding(
-                                                padding: const EdgeInsets.only(
-                                                    left: 12.0, bottom: 12.0),
-                                                child: GestureDetector(
-                                                  onTap: (){
 
-                                                  },
-                                                  child:  IconButton(
-                                                    icon: Icon(
-                                                      Icons.favorite_border,
-                                                      color: Colors.white,
-                                                      size: 30.0,
-                                                    ),
-                                                    onPressed: () {
-                                                      favList.add(hymns[i]);
-                                                      var s = json.encode(favList);
-                                                      print(s);
-                                                      }
-                                                  ),
-                                                ),
-                                              )
                                             ],
                                           ),
                                         ),
@@ -265,11 +270,8 @@ class _MyAppState extends State<MyApp> {
                             behavior: HitTestBehavior.opaque,
                             onTap: (){
                               print(hymns[index].hymnContent);
+                              Navigator.of(context).push(new MaterialPageRoute(builder: (context) => new Detailed(myObject:hymns[index]))).whenComplete(getStringValuesSF);
 
-                              Navigator.push(
-                                  context,
-                                  new MaterialPageRoute(
-                                      builder: (__) => new Detailed(myObject:hymns[index])));
                             },
                             child: Container());
                       },
@@ -365,10 +367,9 @@ class _MyAppState extends State<MyApp> {
                             child: GestureDetector(
                               behavior: HitTestBehavior.opaque,
                               onTap: (){
-                                Navigator.push(
-                                    context,
-                                    new MaterialPageRoute(
-                                        builder: (__) => new Detailed(myObject:hymns[i])));
+
+                                Navigator.of(context).push(new MaterialPageRoute(builder: (context) => new Detailed(myObject:hymns[i]))).whenComplete(getStringValuesSF);
+
                               },
                               child: Container(
                                 decoration: BoxDecoration(color:  Color(0xFFff6e6e), boxShadow: [
@@ -402,30 +403,7 @@ class _MyAppState extends State<MyApp> {
                                               SizedBox(
                                                 height: 10.0,
                                               ),
-                                              Padding(
-                                                padding: const EdgeInsets.only(
-                                                    left: 12.0, bottom: 12.0),
-                                                child: GestureDetector(
-                                                  onTap: (){
 
-                                                  },
-                                                  child:  IconButton(
-                                                    icon: Icon(
-                                                      Icons.favorite_border,
-                                                      color: Colors.white,
-                                                      size: 30.0,
-                                                    ),
-                                                    onPressed: () {
-                                                      print(favList[i].hymnContent);
-
-                                                      Navigator.push(
-                                                          context,
-                                                          new MaterialPageRoute(
-                                                              builder: (__) => new Detailed(myObject:hymns[i])));
-                                                    },
-                                                  ),
-                                                ),
-                                              )
                                             ],
                                           ),
                                         ),
@@ -442,7 +420,7 @@ class _MyAppState extends State<MyApp> {
                       return GestureDetector(
                         behavior: HitTestBehavior.opaque,
                         onTap: (){
-                          print(hymns[0].hymnContent);
+                          print(favList[0].hymnContent);
 
                           Navigator.push(
                               context,
@@ -457,19 +435,18 @@ class _MyAppState extends State<MyApp> {
                   ),
                   Positioned.fill(
                     child: PageView.builder(
-                      itemCount: hymns.length,
+                      itemCount: favList.length,
                       controller: controller2,
                       reverse: true,
                       itemBuilder: (context, index) {
                         return GestureDetector(
                             behavior: HitTestBehavior.opaque,
                             onTap: (){
-                              print(hymns[index].hymnContent);
+                              print(favList[index].hymnContent);
 
-                              Navigator.push(
-                                  context,
-                                  new MaterialPageRoute(
-                                      builder: (__) => new Detailed(myObject:hymns[index])));
+
+                              Navigator.of(context).push(new MaterialPageRoute(builder: (context) => new Detailed(myObject:hymns[index]))).whenComplete(getStringValuesSF);
+
                             },
                             child: Container());
                       },
