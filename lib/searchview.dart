@@ -80,6 +80,7 @@ class _ListPersonPageState extends State<ListPersonPage> {
     );
 
     ListTile personListTile(Hymn person) => ListTile(
+
       onTap: (){
         Navigator.push(
             context,
@@ -89,16 +90,16 @@ class _ListPersonPageState extends State<ListPersonPage> {
           title: Text(
             person.hymnTitle,
             style:
-                TextStyle(color: Colors.black45, fontWeight: FontWeight.bold),
+                TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
           ),
         );
 
-    Card personCard(Hymn person) => Card(
-          child: Container(
-            decoration: BoxDecoration(color: Colors.grey[300]),
+    Container personCard(Hymn person) =>  Container(
+            decoration: BoxDecoration(
+              color: Color(0xFFff6e6e),
+              borderRadius: BorderRadius.circular(20.0),),
             child: personListTile(person),
-          ),
-        );
+          );
 
     if ((filter.isNotEmpty)) {
       List<Hymn> tmpList = new List<Hymn>();
@@ -119,12 +120,16 @@ class _ListPersonPageState extends State<ListPersonPage> {
         shrinkWrap: true,
         itemCount: hymns == null ? 0 : _filteredList.length,
         itemBuilder: (BuildContext context, int index) {
-          return personCard(_filteredList[index]);
+          return Padding(
+            padding: const EdgeInsets.only(left: 15,right: 15,top: 10),
+            child: personCard(_filteredList[index]),
+          );
         },
       ),
     );
 
     return Scaffold(
+      backgroundColor: Color(0xFF1b1e44),
       appBar: appTopAppBar,
       body: appBody,
     );

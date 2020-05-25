@@ -101,7 +101,7 @@ class _HomeScreenState extends State<Detailed> {
                         Container(
                           color: Colors.white,
                           padding: EdgeInsets.fromLTRB(0, 0, 0, 0),
-                        height: 300,
+                        height: 200,
                         width: double.maxFinite,
                         child:  Padding(
                           padding: EdgeInsets.only(left: 7,top: 0,right: 7,bottom: 0),
