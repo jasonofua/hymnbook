@@ -6,16 +6,18 @@ import 'package:flutter_story_app_concept/Hymn.dart';
 import 'package:flutter_story_app_concept/Hymn.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-class Detailed extends StatefulWidget {
+class FavDetailed extends StatefulWidget {
   Hymn myObject;
-  Detailed({
-    this.myObject
+  int pos;
+  FavDetailed({
+    this.myObject,
+    this.pos
   });
   @override
   _HomeScreenState createState() => new _HomeScreenState();
 }
 
-class _HomeScreenState extends State<Detailed> {
+class _HomeScreenState extends State<FavDetailed> {
   List<Hymn> favList = new List();
   final GlobalKey<ScaffoldState> _scaffoldKey = new GlobalKey<ScaffoldState>();
 
@@ -70,7 +72,7 @@ class _HomeScreenState extends State<Detailed> {
 
         child: IconButton(
             icon: Icon(
-              Icons.favorite_border,
+              Icons.favorite,
               color: Colors.white,
               size: 30.0,
             ),
@@ -78,12 +80,16 @@ class _HomeScreenState extends State<Detailed> {
         ),
 
         onPressed: (){
-          favList.add(widget.myObject);
+
+          favList.removeAt(widget.pos);
+         // favList.add(widget.myObject);
           String jsonTags = jsonEncode(favList);
          // print(jsonTags.toString());
           addStringToSF(jsonTags);
 
-          _scaffoldKey.currentState.showSnackBar(new SnackBar(content: new Text("Added to favourite")));
+          _scaffoldKey.currentState.showSnackBar(new SnackBar(content: new Text("Removed from favourite")));
+
+        //  Navigator.pop(context);
 
 
 
