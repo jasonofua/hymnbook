@@ -1444,7 +1444,7 @@ final List<Hymn> hymns = [
 
   Hymn("NO 200", "200  I will sing of my Re-deem-er", [
     "1	I will sing of my Re-deem-er,\nAnd His won-drous love to me,\nOn the cruel tree He suf-fered,\nFrom the cures to set me free.",
-    "Refrain:\nAll:	   Sing, oh sing,..................of my Re-deem-er………………………………………\nParts:	   Sing, oh sing, of my Redeemer! Sing, oh sing, of my Redeemer\nAll:	   With His blood…………….He pur-chased me!…………………………………\nParts:	   With His blood (He purchase me!) He purchased me! He purchased me!\nAll:	   On the tree……………………He sealed my par-don,………………………...\nParts:   On the tree He sealed my par-don, On the tree He sealed my par-don,\nAll:	   Paid the debt……….……….and made me free………………………….……..Parts:	   Paid the debt, and made me free, and made me free (and made me free)",
+    "Refrain:\nAll:	 Sing, oh sing,...of my Re-deem-er…………\nParts:	Sing, oh sing, of my Redeemer! Sing, oh sing, of my Redeemer\nAll:	With His blood……He pur-chased me!………\nParts:   With His blood (He purchase me!) He purchased me! He purchased me!\nAll:	   On the tree………He sealed my par-don,…………\nParts: On the tree He sealed my par-don, On the tree He sealed my par-don,\nAll:	   Paid the debt………and made me free……………Parts:	Paid the debt, and made me free, and made me free (and made me free)",
     "2.	I will tell the wondrous story,\nHow my lost estate He saved,\nWith His boundless love and mercy,\nHe the ransom freely gave.",
     "3.	I will praise my dear Re-deem-er,\nHis triumphant pow’r I’ll tell;\nHow the vic-to-ry He giv-eth\nO-ver sin, and death, and hell.",
     "4.	I will sing of my Redeemer,\nAnd His won-drous love for me;\nHe from death to life hath brought me,\nHis grace di-vine, full and free.",
