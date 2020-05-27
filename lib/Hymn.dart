@@ -231,7 +231,7 @@ final List<Hymn> hymns = [
     "Refrain:\nFor HIS mercies aye en-dure.\nE-ver faith-ful, e-ver sure",
     "2.	Let us blaze His name a-broad\nFor of gods He is the GOD:",
     "3.	All things living he doth feed;\nHis full hand supplies our need;"
-        "4.	He His remnant small doth bless\nWith the robe of righteousness;.",
+    "4.	He His remnant small doth bless\nWith the robe of righteousness;.",
   ]),
 
   Hymn("NO 28", "28 LIGHT of the world, shine our souls", [
@@ -2466,7 +2466,7 @@ final List<Hymn> hymns = [
     "11.	Forty long years was I grieved with this gene/ra.tion/and/said: It is the people that do err in their heart: ",
     "12	And they have/not/known/my/ways. Unto whom I sware/in/my/wrath: that they should not/en/ter/in.to/my/rest.",
   ]),
-   Hymn("NO 327", "PSALM 121", [
+   Hymn("", "PSALM 121", [
     "1.		I will lift up mine eyes/unto.the hills: from/whence/cometh/my help.",
     "2.		My help cometh/from/the/LORD: which/made/hea/ven/and/earth.",
     "3.	  He will not suffer thy foot/to/be/mo.ved: He that keepeth/thee/will/not/slumber.",
@@ -2476,7 +2476,7 @@ final List<Hymn> hymns = [
     "7.		The LORD shall preserve/thee/from/evil: He/shall/pre/serve/thy/soul.",
     "8.	The LORD shall preserve thy going out, and thy/co/ming/in: from this time forth and/e.ven/for/e/ver/more.",
   ]),
-   Hymn("NO 31", "TE DUEM", [
+   Hymn("", "TE DUEM", [
     "1.	Praise/ye/the/Lord: JE/HO/VAH/GOD/our/KING
     "2.	Praise His Begotten Son Je/sus/Christ: Me/dia/tor/of mankind",
     "3.	JEHOVAH is a/great-/God: And a great/KING a/bove/all/gods.",
@@ -2520,7 +2520,7 @@ final List<Hymn> hymns = [
     18.	And to do/all/these/things: blessed be Thou LORD GOD/for/e/ver/and/ever.",
   ]),
 
-   Hymn("NO 31", "CHANT(May be used for Freedom Day)", [
+   Hymn("", "CHANT(May be used for Freedom Day)", [
     "1.	CHRIST the Begotten Son/of/the/LORD.Re/dee/mer/of/sin/ners.",
     "2.	Thy royal birth/bring/eth/peace: and/free/dom/to/man/kind.",
     "3.	Thou art a LIGHT/to/lighten/the/gen/tiles: and the glory/of/Thy/peo/ple/Israel.",
