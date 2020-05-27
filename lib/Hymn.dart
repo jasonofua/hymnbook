@@ -1699,1347 +1699,1172 @@ final List<Hymn> hymns = [
    Hymn("NO 233", "233  HELP me, O God, the God of my Salvation", [
     "1.	HELP me, O God, the God of my Salvation,\nI have no hope, no refuge but in Thee,\nHelp me to make this perfect consecration\nIn life or death, Thine ever more to be.",
     "Chorus:\nHelp me, O God of grace;\nHelp me, O God of grace;\nI have no hope, no refuge but in Thee\nHelp me to make this perfect consecration\nIn life or death, Thine ever more to be.",
-
-2.	Help me, O God, to keep my pledge unbroken,
-	Guard Thou my ways, my thoughts, my tongue and heart,
-	Help me to trust the word which Thou has spoken,
-	That from Thy paths my feet may ne’er depart.
-
-3.	Help me, O God, when down, temptations press me;
-	Oh! Lift me up to the shame of my foes,
-	Help me, O God, when anxious cares distress me,
-	To look on Thee for calmness and bright hope.
-
-4.	Help me, O God, for Thy strength to sustain me,
-	Thine, thine the pow’r by which alone I live,
-	Help me each day to bear the yoke with meekness
-	Until I shall receive the promised prize.
-.",
-  ]),
-   Hymn("NO 234", "", [
-    "1.	LORD Jesus, I have promised 
-	To serve Thee to the end,
-	Be Thou for ever near me,
-	My Master and my Friend,
-	I shall not fear the battle,
-	Since Thou art by my side
-	Nor wonder from the path-way
-	Since Thou will be my guide.
-
-2.	Lord Jesus Thou had promised,
-	To all who followThee
-	That where Thou art in glory,
-	They shall also rejoice
-	Give me grace to follow Thee,
-	My Master and my Friend;
-	As I’ve promised to abide,
-	In your Holy Mountain.
-
-
-3.	Lord, let me feel Thee near me,
-	In all my works for Thee;
-	Shield my soul from sin and death;
-	Though foes may be near me
-	Be around and protect me;
-	My life I con-se-crate-
-	To Thee for e’er and e’er more;
-	So, let it be. A-men.",
-  ]),
-   Hymn("NO 235", "", [
-    "1.	YES! I will not wander, gracious Lord from Thee,
-	I will follow wholly, with true loyalty;
-	Every sin I’ll forsake; from my in-most heart;
-	All thoughts I’ve surrendered, to Thy grand control.
-
-Refrain:
-	   I will follow Jesus, follow all the day;
-	   Walking in His foot-step, closely all the way.
-
-2	Teach me by Thy Spirit, Your Holy gospel,
-How best I can serve you, and obey Thee, Lord;
-Thy light is my wisdom, Thy blood my treasure,
-Thy word is all my trust, my hope and my life.
-		
-3	To Thy most Holy Hill, I have giv’n myself,
-Oh! Fill me now, LORD, with; Thy infinite love
-To proclaim your gospel, all the world around,
-Salvation full and free, through Christ our Saviour.",
-  ]),
-   Hymn("NO 236", "", [
-    "1	I bind unto myself today,
-	The strong names of the Higher Pow’rs
-	JEHOVAH, Father of mankind;
-	And Jesus Christ, the Redeemer,
-	I bind this day to me fore’r
-	Christ the Pow’r and Wisdom of God
-	Who suffered on Mount Cal-vary,
-	To die just for my salvation.
-
-2.	I bind unto myself today,
-The pow’r of God to hold and lead;
-	His eye to watch, His might to stay;
-	His ear to hearken to my needs;
-	The wisdom of my God to teach,
-	His hand to guide, His shield to ward;
-	Spirit of God to give my speech,
-	His heav’nly hosts to be my guard.
-
-3	JEHOVAH, my GOD be with me,
-	Jesus Christ, my Lord be with me,
-	All my talents, gifts and graces,
-	Into Thy blessed hands I lay;
-	Let me declare Thy wondrous works;
-	Round the world with Thy pow’r and love
-	Till I receive the promised prize,
-	In your great Kingdom on this earth.
-
-4	Enlarge, inflame and fill my heart;
-	With boundless charity divine;
-	Send your spirit to direct me;
-	To live e’er and e’er in the light,
-	Great Father, bless my humble vow,
-	As Thy work makes my heart rejoice,
-	I’ll lift my hands, I’ll raise my voice,
-	To worship Thee till my rest comes.",
+    "2.	Help me, O God, to keep my pledge unbroken,\nGuard Thou my ways, my thoughts, my tongue and heart,\nHelp me to trust the word which Thou has spoken,\nThat from Thy paths my feet may ne’er depart.",
+    "3.	Help me, O God, when down, temptations press me;\nOh! Lift me up to the shame of my foes,\nHelp me, O God, when anxious cares distress me,\nTo look on Thee for calmness and bright hope.",
+    "4.	Help me, O God, for Thy strength to sustain me,\nThine, thine the pow’r by which alone I live,\nHelp me each day to bear the yoke with meekness\nUntil I shall receive the promised prize.",
   ]),
 
-   Hymn("NO 237", "", [
-    "1	I’M trust-ing Thee Lord, Christ Jesus,
-	Son of JE-HO-VAH GOD
-	Trust-ing Thee for full sal-va-tion,
-	Great and free,
-	And free, and free
-	So great, free and pure.
-
-2	I’m trust-ing Thee Lord for par-don,
-	I bow be-fore Thy feet
-	For Thy grace and ten-der mer-cies
-	Trust-ing now
-	In Thee, in Thee,
-	Trust-ing now in Thee.
-
-3	I’m trust-ing Thee Lord for cleans-ing
-	Me from my sins to live
-	Trust-ing Thee to make me pur-er,
-By Thy word,
-	Pur-er, pure-r
-	Pur-er by Thy word.
-
-4	I’m trust-ing Thee Lord, for Thy pow-’r,
-	That can nev-er fail me
-	Words which Thou Thy-self shalt give me
-	Must pre-vail,
-	Pre-vail, pre-vail
-	The words must pre-vail.
-
-5	I’m trust-ing Thee Lord, to guide me
-	From satan’s ev-il darts
-	Protect me and sup-ply my needs
-	Lord dai-ly
-	Dai-ly, dai-ly
-	Dai-ly, Lord, I pray.",
+   Hymn("NO 234", "234  LORD Jesus, I have promised", [
+    "1.	LORD Jesus, I have promised \nTo serve Thee to the end,\nBe Thou for ever near me,\nMy Master and my Friend,\nI shall not fear the battle,\nSince Thou art by my side\nNor wonder from the path-way\nSince Thou will be my guide.",
+    "2.	Lord Jesus Thou had promised,\nTo all who followThee\nThat where Thou art in glory,\nThey shall also rejoice\nGive me grace to follow Thee,\nMy Master and my Friend;\nAs I’ve promised to abide,\nIn your Holy Mountain.",
+    "3.	Lord, let me feel Thee near me,\nIn all my works for Thee;\nShield my soul from sin and death;\nThough foes may be near me\nBe around and protect me;\nMy life I con-se-crate-\nTo Thee for e’er and e’er more;\nSo, let it be. A-men.",
   ]),
-   Hymn("NO 238", "", [
-    "1	JE-HO-VAH the Cre-a-tor of hea-ven and earth 
-	Thou art great, im-mor-tal and in-vi-si-ble;
-Most bless-ed, most glo-rious, The AN-CIENT OF DAYS,
-	Al-mi-gh-ty vic-to-rious, Thy great name we praise.
 
-2	Thou giv-est out life to all, both great and small;
-	To man-kind, Thy in-fi-nite at-tri-butes gave
-	To blos-som and flou-rish as leaves on the tree,
-	But sa-tan, the de-vil came and in-ter-fer ‘ed.
-
-3	Though man fell from Thy grace; but nought change-th Thee,
-	Be-fore Thy throne O LORD, our sins we con-fess,
-	Thy par-don, grace and love to us LORD ex-tend,
-	For this LORD; Thou sent Christ to re-deem our souls.
-
-4	Great Fa-ther of glo-ry, Fa-ther of man-kind,
-	With glad-ness we’ll wor-ship and give Thee pra-ises
-	Help us LORD to serve Thee and Christ  for-ever
-	In glo-ry, hon-our and peace in Thine  King-dom.",
+   Hymn("NO 235", "235  YES! I will not wander, gracious Lord from Thee,", [
+    "1.	YES! I will not wander, gracious Lord from Thee,\nI will follow wholly, with true loyalty;\nEvery sin I’ll forsake; from my in-most heart;\nAll thoughts I’ve surrendered, to Thy grand control.",
+    "Refrain:\nI will follow Jesus, follow all the day;\nWalking in His foot-step, closely all the way.",
+    "2	Teach me by Thy Spirit, Your Holy gospel,\nHow best I can serve you, and obey Thee, Lord;\nThy light is my wisdom, Thy blood my treasure,\nThy word is all my trust, my hope and my life.",
+		"3	To Thy most Holy Hill, I have giv’n myself,\nOh! Fill me now, LORD, with; Thy infinite love\nTo proclaim your gospel, all the world around,\nSalvation full and free, through Christ our Saviour.",
   ]),
-   Hymn("NO 239", "", [
-    "1	ALL hail the power of Jesus Name
-	All nations of the earth
-	To Him all majesty ascribe
-	Oh! Praise Him!
-	Praise Him! Praise Him!
-	Praise Him, Lord of all.
 
-2	At Jesus Name all knees shall bow
-	Of things heav’n and earth,
-	That all may know that Christ is King,
-	Of glory
-	Glory, glory,
-	He’s King of glory.
+   Hymn("NO 236", "236  I bind unto myself today", [
+    "1	I bind unto myself today,\nThe strong names of the Higher Pow’rs\nJEHOVAH, Father of mankind;\nAnd Jesus Christ, the Redeemer,\nI bind this day to me fore’r\nChrist the Pow’r and Wisdom of God\nWho suffered on Mount Cal-vary,\nTo die just for my salvation.",
+    "2.	I bind unto myself today,\nThe pow’r of God to hold and lead;\nHis eye to watch, His might to stay;\nHis ear to hearken to my needs;\nThe wisdom of my God to teach,\nHis hand to guide, His shield to ward;\nSpirit of God to give my speech,\nHis heav’nly hosts to be my guard.",
+    "3	JEHOVAH, my GOD be with me,\nJesus Christ, my Lord be with me,\nAll my talents, gifts and graces,\nInto Thy blessed hands I lay;\nLet me declare Thy wondrous works;\nRound the world with Thy pow’r and love\nTill I receive the promised prize,\nIn your great Kingdom on this earth.",
+    "4	Enlarge, inflame and fill my heart;\nWith boundless charity divine;\nSend your spirit to direct me;\nTo live e’er and e’er in the light,\nGreat Father, bless my humble vow,\nAs Thy work makes my heart rejoice,\nI’ll lift my hands, I’ll raise my voice,\nTo worship Thee till my rest comes.",
+  ]),
 
-3	Christ is the Way, the Truth and life,
-	He’s come to reign in peace,
-	Repent from sin and follow,
-	The Savior,
-	Savior, Savior
-	Repent He has come.
+   Hymn("NO 237", "237  I’M trust-ing Thee Lord, Christ Jesus", [
+    "1	I’M trust-ing Thee Lord, Christ Jesus,\nSon of JE-HO-VAH GOD\nTrust-ing Thee for full sal-va-tion,\nGreat and free,\nAnd free, and free\nSo great, free and pure.",
+    "2	I’m trust-ing Thee Lord for par-don,\nI bow be-fore Thy feet\nFor Thy grace and ten-der mer-cies\nTrust-ing now\nIn Thee, in Thee,\nTrust-ing now in Thee.",
+    "3	I’m trust-ing Thee Lord for cleans-ing\nMe from my sins to live\nTrust-ing Thee to make me pur-er,\nBy Thy word,\nPur-er, pure-r\nPur-er by Thy word.",
+    "4	I’m trust-ing Thee Lord, for Thy pow-’r,\nThat can nev-er fail me\nWords which Thou Thy-self shalt give me\nMust pre-vail,\nPre-vail, pre-vail\nThe words must pre-vail.",
+    "5	I’m trust-ing Thee Lord, to guide me\nFrom satan’s ev-il darts\nProtect me and sup-ply my needs\nLord dai-ly\nDai-ly, dai-ly\nDai-ly, Lord, I pray.",
+  ]),
+   Hymn("NO 238", "238  JE-HO-VAH the Cre-a-tor of hea-ven and earth ", [
+    "1	JE-HO-VAH the Cre-a-tor of hea-ven and earth \nThou art great, im-mor-tal and in-vi-si-ble;\nMost bless-ed, most glo-rious, The AN-CIENT OF DAYS,\nAl-mi-gh-ty vic-to-rious, Thy great name we praise.",
+    "2	Thou giv-est out life to all, both great and small;\nTo man-kind, Thy in-fi-nite at-tri-butes gave\nTo blos-som and flou-rish as leaves on the tree,\nBut sa-tan, the de-vil came and in-ter-fer ‘ed.",
+    "3	Though man fell from Thy grace; but nought change-th Thee,\nBe-fore Thy throne O LORD, our sins we con-fess,\nThy par-don, grace and love to us LORD ex-tend,\nFor this LORD; Thou sent Christ to re-deem our souls.",
+    "4	Great Fa-ther of glo-ry, Fa-ther of man-kind,\nWith glad-ness we’ll wor-ship and give Thee pra-ises\nHelp us LORD to serve Thee and Christ  for-ever\nIn glo-ry, hon-our and peace in Thine  King-dom.",
+  ]),
 
-4	Oh let all hearts rejoice fore’er,
-	He’s come in pow’r to reign,
-	To loose those in satan’s bondage,
-	To free life,
-	Free life, free life,
-	From satan’s bondage.
-
-5	Lord, free us with the word of truth
-	Let it find place within
-	Bless thou the truth in us dear Lord
-	That we’ll gain,
-	We’ll gain, we’ll gain,
-	Gain Thy salvation.
-
-6	Good gifts are all from Thee, O Lord,
-	Fill us with love divine,
-	Restore our hope, increase our faith,
-	To serve Thee, 
-	Serve Thee, serve Thee
-	In joy and in peace.",
+   Hymn("NO 239", "239  ALL hail the power of Jesus Name", [
+    "1	ALL hail the power of Jesus Name\nAll nations of the earth\nTo Him all majesty ascribe\nOh! Praise Him!\nPraise Him! Praise Him!\nPraise Him, Lord of all.",
+    "2	At Jesus Name all knees shall bow\nOf things heav’n and earth,\nThat all may know that Christ is King,\nOf glory\nGlory, glory,\nHe’s King of glory.",
+    "3	Christ is the Way, the Truth and life,\nHe’s come to reign in peace,\nRepent from sin and follow,\nThe Savior,\nSavior, Savior\nRepent He has come.",
+    "4	Oh let all hearts rejoice fore’er,\nHe’s come in pow’r to reign,\nTo loose those in satan’s bondage,\nTo free life,\nFree life, free life,\nFrom satan’s bondage.",
+    "5	Lord, free us with the word of truth\nLet it find place within\nBless thou the truth in us dear Lord\nThat we’ll gain,\nWe’ll gain, we’ll gain,\nGain Thy salvation.",
+    "6	Good gifts are all from Thee, O Lord,\nFill us with love divine,\nRestore our hope, increase our faith,\nTo serve Thee, \nServe Thee, serve Thee\nIn joy and in peace.",
   ]), 
 
-   Hymn("NO 240", "", [
-    "1	PRAISE the LORD, all child-ren of God
-	Praise Him in truth and in love,	 
-	Praise Him with thy hands and voices,
-	For so good His love di-vine.
-
-Refrain:
-	   Let us praise Him, all ye peo-ple
-	   Great and per-fect are His ways
-	   All God’s child-ren, praise ye the LORD,
-	   Con-fess-ing all His good-ness.
-
-2	With count-less gifts on us bes-towed;
-	We thank Thee for love divine
-	Joyfully, LORD we adore Thee
-	God of glory, God of love.
-3	We Thine child-ren look up to Thee,
-	Centre of unbroken love
-	Teach us how to love each other,
-	Through Christ our Master and Friend.
-
-4	Mag-ni-fy the LORD, ye peo-ple,
-	Come, exalt His glorious Name,
-	When in distress to Him we’ll call,
-	He’ll rescue and save our souls.
-
-5	We shall sing, LORD, and march on-ward
-	Till we reach the Golden shore 
-	Give us LORD, eternal gladness
-	Lift us to Thy joy divine.",
-  ]),
-   Hymn("NO 241", "", [
-    "1	SOWING in the morning, sowing seeds of kindness,
-	Sowing in the noon tide, and the dew-y eve:
-	Waiting for the harvest, and the time of reaping
-	We shall come rejoicing, bringing in the sheaves!
-
-Refrain:
-	   Bringing in the sheaves! Bringing in the sheaves!
-	   We shall come rejoicing, bringing in the sheaves!
-	   Bringing in the sheaves! Bringing in the sheaves!
-	   We shall come rejoicing, bringing in the sheaves!
-
-2	Sowing in the sunshine, sowing in the shadows,
-	Fearing neither clouds, nor winter’s chilling breeze;
-	By and by the harvest, and the labour ended,
-	We shall come rejoicing, bringing in the sheaves!
-
-3	Go then ever, weeping, sowing for the Master,
-	Tho’ the loss sustained our spirits often grieve,
-	When our weeping is over, He’ll bid us welcome,
-	We shall come rejoicing, bringing in the sheaves!.",
+   Hymn("NO 240", "240  PRAISE the LORD, all child-ren of God", [
+    "1	PRAISE the LORD, all child-ren of God\nPraise Him in truth and in love,\nPraise Him with thy hands and voices,\nFor so good His love di-vine.",
+    "Refrain:\nLet us praise Him, all ye peo-ple\nGreat and per-fect are His ways\nAll God’s child-ren, praise ye the LORD,\nCon-fess-ing all His good-ness.",
+    "2	With count-less gifts on us bes-towed;\nWe thank Thee for love divine\nJoyfully, LORD we adore Thee\nGod of glory, God of love.",
+    "3	We Thine child-ren look up to Thee,\nCentre of unbroken love\nTeach us how to love each other,\nThrough Christ our Master and Friend.",
+    "4	Mag-ni-fy the LORD, ye peo-ple,\nCome, exalt His glorious Name,\nWhen in distress to Him we’ll call,\nHe’ll rescue and save our souls.",
+    "5	We shall sing, LORD, and march on-ward\nTill we reach the Golden shore \nGive us LORD, eternal gladness\nLift us to Thy joy divine.",
   ]),
 
-   Hymn("NO 242", "", [
-    "1.	THERE’S a guest who’s at the door-Let……………… Him, in
-	                                                        Let the Savior in 2x
-	He has been there oft before-       Let…..………... Him in,
-	                                                       Let the Savior in 2x
-	Let Him in, else He is gone, let Him in, the Holy One,
-	Jesus Christ the Father’s Son,        Let……..……. Him,
-	                                                        Let the Savior in 2x.
-
-2	Open now to Him your heart, Let………..… Him, in,
-	                                                Let the Savior in,-2x
-	If you wait He will depart, Let……….... Him, in,
-	                                                Let the Savior in, -2x,
-	Let Him in, He is your Friend, He your soul will sure defend
-	He will keep you till the end, Let……….Him, in…..
-	                                                 Let the Savior in,- 2x.
-
-3	Hear you now His loving voice, Let……….Him, in
-	                                                 Let the Savior in, -2x
-	Now, O now make Him your choice, Let……...Him, in
-	                                                 Let the Savior in, -2x
-	He is standing at the door, joy to you He will restore,
-	And His Name you will adore, Let…….…Him, in
-	                                        Let the Savior in, -2x.
-
-4	Now admit the heav’nly King, Let…..…..Him in
-	                                          Let the Savior in, -2x
-	Into your heart O! Dear friend, Let……….Him, 
-	                                          Let the Savior in, -2x
-	He will speak your sins forgiv’n, and when earth ties all riv’n
-	He’ll make you home here on earth, Let…….…Him, in
-	                                          Let the Savior in, -2x.",
+   Hymn("NO 241", "241  SOWING in the morning, sowing seeds of kindness", [
+    "1	SOWING in the morning, sowing seeds of kindness,\nSowing in the noon tide, and the dew-y eve:\nWaiting for the harvest, and the time of reaping\nWe shall come rejoicing, bringing in the sheaves!",
+    "Refrain:\nBringing in the sheaves! Bringing in the sheaves!\nWe shall come rejoicing, bringing in the sheaves!\nBringing in the sheaves! Bringing in the sheaves!\nWe shall come rejoicing, bringing in the sheaves!",
+    "2	Sowing in the sunshine, sowing in the shadows,\nFearing neither clouds, nor winter’s chilling breeze;\nBy and by the harvest, and the labour ended,\nWe shall come rejoicing, bringing in the sheaves!",
+    "3	Go then ever, weeping, sowing for the Master,\nTho’ the loss sustained our spirits often grieve,\nWhen our weeping is over, He’ll bid us welcome,\nWe shall come rejoicing, bringing in the sheaves!.",
   ]),
 
-  Hymn("NO 243", "", [
-    "1	 JE-SUS my Sa-viour, to Beth-le-hem came,
-	Born in a man-ger to sor-row and shame;
-	Oh, it was won-der-ful blest be His name!
-	Seeking for me, for me!
-
-Refrain:
-All:	   Seeking for me! For me……….seeking for me! For me……
-Parts:	   Seeking for me!       Seeking for me!      Seeking for me!
-	   Seeking for me!
-All:	   Oh! it was won-der-ful blest be His name!
-All:	   Seeking for me, for me!
-
-2	Je-sus, my Sa-viour, on Cal-va-ry’s tree,
-	Paid the great prize, and my soul He set free;
-	Oh! It was won-der-ful, how could it be?
-	Dy-ing for me, for me!
-
-Refrain:
-All:	   Dying for me! For me………….dying for me! For me……
-Parts:	   Dy-ing for me!  Dy-ing for me!  Dy-ing for me!  Dy-ing for me!
-All:	   Oh, it was wonderful, how could it be?-
-All:	   Dying for me, for me!
-
-3	Jesus, my Sa-viour, the same as of old,
-	While I was wan-d’ring a-far from the fold,
-	Gent-ly and long did He plead with my soul,
-	Call-ing for me, for me!
-
-Refrain:
-All:	   Call-ing for me! For me…….…. Call-ing for me! For me,
-Parts:	   Call-ing for me! Call-ing for me! Call-ing for me! Call-ing for me!
-
-All:	   Gently and long did He plead for my soul,
-All:	   Call-ing for me! For me!.",
+   Hymn("NO 242", "242  THERE’S a guest who’s at the door-Let Him, in", [
+    "1.	THERE’S a guest who’s at the door-Let……………… Him, in\nLet the Savior in 2x\nHe has been there oft before- Let…..………... Him in,\nLet the Savior in 2x\nLet Him in, else He is gone, let Him in, the Holy One,\nJesus Christ the Father’s Son, Let……..……. Him,\nLet the Savior in 2x.",
+    "2	Open now to Him your heart, Let………Him, in,\nLet the Savior in,-2x\nIf you wait He will depart, Let……….... Him, in,\nLet the Savior in, -2x,\nLet Him in, He is your Friend, He your soul will sure defend\nHe will keep you till the end, Let……….Him, in…..\nLet the Savior in,- 2x.",
+    "3	Hear you now His loving voice, Let……….Him, in\nLet the Savior in, -2x\nNow, O now make Him your choice, Let……...Him, in\nLet the Savior in, -2x\nHe is standing at the door, joy to you He will restore,\nAnd His Name you will adore, Let…….…Him, in\nLet the Savior in, -2x.",
+    "4	Now admit the heav’nly King, Let…..…..Him in\nLet the Savior in, -2x\nInto your heart O! Dear friend, Let……….Him, \nLet the Savior in, -2x\nHe will speak your sins forgiv’n, and when earth ties all riv’n\nHe’ll make you home here on earth, Let…….…Him, in\nLet the Savior in, -2x.",
   ]),
 
-   Hymn("NO 244", "", [
-    "1	WEARY wand’rer, stop and listen
-	Happy news we bring to thee;
-	Jesus has prepared a banquet,
-	Come, and welcome thou shall be.
-
-Refrain:
-	   Make no longer vain excuses,
-	   Jesus calls and calls thee now;
-	   Come, for ev’rything is ready,
-	   Weary soul, why waitest thou.
-2	Are thy sins a heavy burden?
-	Come to God, confess them now?
-	He is willing to forgive thee;
-	Ask, receive, why waitest thou.
-
-3	On the loving arm of Jesus,
-	Wouldst thou lean, and trust Him now?
-	Let him cleanse thee at the fountain;
-	Come at once! Why waitest thou?
-
-4	See the beauteous wedding garment;
-In His hands he holds it now;
-	Haste, oh haste, thee to the banquet;
-	Enter in, why waitest thou?
-
-.",
-  ]),
-   Hymn("NO 245", " (Part one)", [
-    "1	LORD, who at Cana’s wedding feast,
-	Didst as a Guest appear,
-	Thou dearer far than earthly guest,
-	Vouchsafe Thy presence here
-	For only Thou indeed dost prove,
-	The marriage vow to be,
-	Proclaiming it a type of love,
-	Between the Church and Thee.
-
-2	This holy vow that man can make
-	The golden thread in life,
-	The bond that none may dare to break,
-	That bindeth man and wife,
-	Which, blest by Thee, whate’er betides,
-	No evil shall destroy,
-	Thro’ care worm days each care divides,
-	And doubles ev’ry joy.
-
-3	On those who now before Thee come,
-	O Lord Thy blessings pour,
-	That each may wake the others zeal,
-	To love Thee more and more,
-	Oh, grant them here in peace to live,
-	In purity and love,
-	In this world, receiving blessings,
-	Of everlasting life.
-.",
-  ]),
-   Hymn("NO 245", "(Part two)", [
-    "1	LORD, who at Cana’s wedding feast,
-	Didst as a Guest ap-pear,
-	Thou dear-er far than earthly guest,
-	Vouch-safe Thy pre-sence here.
-
-2	For Ho-ly Thou in-deed dost prove,
-	The marriage vow to be,
-	Pro-claim-ing it a type of love,
-	Between the Church and Thee.
-
-3	This ho-ly vow that man can make,
-	The gold-en thread in life,
-	The bond that none may dare to break,
-	That bindeth man and wife.
-
-4	Which, blest by Thee, whate’er be-tides,
-	No evil shall des-troy,
-	Thro’ care worn days each care di-vides,
-	And dou-bles ev’ry joy.
-
-5	On those who now before Thee come,
-	O Lord Thy blessings pour,
-	That each may wake the others zeal,
-	To love Thee more and more
-
-6	Oh, grant them here in peace to live,
-	In purity and love,
-	In this world, receiving blessings,
-	Of everlasting life..",
-  ]),
-   Hymn("NO 246", " (Part one)", [
-    "1	THE voice that roared o’er E-den,
-	That ear-liest wedd-ing day,
-	Be pre-sent O JE-HO-VAH,
-	To join these Your child-ren
-	As Thou givest Eve to Adam	
-	A help meet at his side	                      
-	As Thou didst bind two na-tures,
-	In Thine e-ternal bands.
-
-2	Be pre-sent O God of gods,
-	To bless them and guide them
-	As Thou for Christ, the Bride-groom, 
-	This Thy couple dost seal
-	Oh, make Your face shine on them,
-	Let no ill pow’r find place-
-	As they dwell in peace O LORD
-	Tread-ing Your path always.
-.",
-  ]),
-   Hymn("NO 246", "(Part two)", [
-    "1	THE voice that roared over E-den
-	That ear-liest wedd-ing day,
-	Be pre-sent O JE-HO-VAH
-	To join these Your child-ren.
-
-2	As Thou gav’st Eve to Adam,
-	A help meet at his side,
-	As Thou didst bind two na-tures,
-	In Thine e-ter-nal bands.
-
-3	Be pre-sent O God of gods,
-	To bless them and guide them,
-	As Thou for Christ, the Bride-groom,
-	This Thy cou-ple do’st seal.
-
-4	Oh! Make Your face shine on them
-	Let no ill pow’r find place-
-	As they dwell in peace, O LORD,
-	Tread-ing Your path al-ways.",
-  ]),
-   Hymn("NO 247", "", [
-    "1	O Fa-ther, all cre-a-ting,
-	Whose wis-dom, love and pow’r,
-	First bound two lives to-ge-ther,
-	In E-den’s pri-mal hour,
-	To-day to these Thy child-ren,
-	Thine ear-liest gifts re-new
-	A home by Thee made hap-py
-	A love by Thee kept true.
-
-2	O Sa-viour, Guest most boun-teous
-	Of old in Ga-li-lee,
-	Vouch-safe to-day Thy pre-sence
-	With these who call on Thee,
-	Their store of earth-ly glad-ness
-	Kept free from sin and strife,
-	And teach them, in the test-ing
-	To know the gift is thine.
-
-3	O, breathe on them from a-bove,
-	Your Ho-ly Spi-rit Lord;
-	So mighty in Thy pureness,
-	So tender in Thy love,
-	Accept these hands in union,
-	Their hearts in trust and love,
-	Their lives may own Thy guidance,
-	Their hearts be ruled by Thee.
-
-4	Except Thou build it, Father,
-	The house is built in vain,
-	Except Thou Saviour, bless it;
-	All joy will turn to pain,
-	But naught can break the marriage,
-	Of hearts in Thee made one;
-	And love Thy Spirit hallows,
-	Is end-less love begun.",
-  ]),
-   Hymn("NO 248", "", [
-    "1	O perfect love, all human thoughts transcending,
-	Lowly we come in pray’r before Thy throne
-	That theirs may be love which knows no ending
-	Whom Thou for ever more dost join in one.
-
-2	O perfect life, be Thou their full assurance,
-	Of tender charity and steadfast faith,
-	Of patient hope and quiet, brave endurance,
-	With child-like trust that fears no pain nor death.
-
-3	Grant them the joy which brighten earthly sorrow,
-	Grant them the peace which calms all earthly strife,
-	And to life’s day the glorious unknown morrow,
-	That dawns upon eternal love and life.",
-  ]),
-   Hymn("NO 249", "", [
-    "1	PRAISE Him! Praise Him! Je-sus, our bless-ed Re-deem-er!
-	Sing O earth His won-der-ful love pro-claim!
-	Hail Him! Hail Him! Our Sa-viour and King of glo-ry;
-	Strength and hon-our give to His Ho-ly name!
-	Like a shep-herd, Je-sus will guard His child-ren,
-	In His arm He car-ries them all day long.
-
-Refrain:
-	   Praise him! Praise him! Tell of His ex-cel-lent great-ness
-	   Praise him! Praise him! E-ver in joy-ful songs!
-
-2	Praise Him! Praise Him! Jesus our bless-ed Re-deem-er!
-	For our sins He suf-fered, and bled and died;
-	He’s our Rock, and our hope of e-ter-nal sal-vation,
-	Hail Him! Hail Him! Je-sus rose from the dead
-	Sound His prai-ses, Je-sus who bore our sor-rows
-	Love un-bound-ed won-der-ful deep and strong.
-
-3	Praise Him! Praise Him! Je-sus our bless-ed Re-deem-er!
-	Heav’nly por-tals loud with ho-san-nas sing
-	Je-sus Sa-viour reign-eth for e-ver and e-ver
-	Hail Him! Hail Him! Pro-phet and Priest and King
-	Je-sus rules now, o-ver the world vic-to-rious
-	Pow’r and glo-ry un-to the Lord be-long.",
-  ]),
-   Hymn("NO 250", "", [
-    "1.	COME to the Saviour, make no delay
-	His true Gospel has shown the way.
-	Here in our midst He’s standing today
-	Tenderly saying “Come!”
-Refrain:
-	   Come, O come for pardon and mercies
-	   When from sin all hearts are pure and free,
-	   Come never delay, receive Him now
-	   His grace is pure and free.
-
-2.	All ye God’s children, hear now His voice!
-	Let ev’ry heart leap-forth and rejoice;
-	And let us freely make Him our choice,
-	Do not delay, but come.
-3.	Christ Jesus, the King is now with us;
-	Oh heed His blest com-mand and submit,
-	Hear His accents that tenderly say,
-	“Wont you, my children, Come?”.",
+  Hymn("NO 243", "243 JE-SUS my Sa-viour, to Beth-le-hem came", [
+    "1	 JE-SUS my Sa-viour, to Beth-le-hem came,\nBorn in a man-ger to sor-row and shame;\nOh, it was won-der-ful blest be His name!\nSeeking for me, for me!",
+    "Refrain:\nAll:	   Seeking for me! For me……….seeking for me! For me……\nParts:	   Seeking for me!       Seeking for me!      Seeking for me!\nSeeking for me!\nAll:	   Oh! it was won-der-ful blest be His name!\nAll:	   Seeking for me, for me!",
+    "2	Je-sus, my Sa-viour, on Cal-va-ry’s tree,\nPaid the great prize, and my soul He set free;\nOh! It was won-der-ful, how could it be?\nDy-ing for me, for me!",
+    "Refrain:\nAll:	   Dying for me! For me………….dying for me! For me……\nParts:	   Dy-ing for me!  Dy-ing for me!  Dy-ing for me!  Dy-ing for me!\nAll:	   Oh, it was wonderful, how could it be?-\nAll:	   Dying for me, for me!",
+    "3	Jesus, my Sa-viour, the same as of old,\nWhile I was wan-d’ring a-far from the fold,\nGent-ly and long did He plead with my soul,\nCall-ing for me, for me!",
+    "Refrain:\nAll:	   Call-ing for me! For me…….…. Call-ing for me! For me,\nParts:	   Call-ing for me! Call-ing for me! Call-ing for me! Call-ing for me!\nAll:	   Gently and long did He plead for my soul,\nAll:	   Call-ing for me! For me!.",
   ]),
 
-   Hymn("NO 251", "", [
-    "1.	KING of kings, I’m Thine
-	What a bles-sed hope!
-	Trust-ing in Thy gra-cious words
-	Me to save from ill ways
-	KING of kings O LORD of lords!
-	I am Thine for e-ver more.
-
-Refrain:
-	   I am Thine, O my LORD
-	   My gra-cious KING JEHO-VAH of Hosts
-	   I am Thine my LORD
-	   Trust-ing in Thy Name “I AM”
-	   Thine my LORD my KING my Cre-a-tor.
-
-2.	When Thy truth I heard,
-	I then leaped with joy;
-	That I now Thy pre-sence see
-	For peace and last-ing life
-	In-to Thy King-dom I flee
-	Know-ing Thee for ‘ternal life.
-
-3.	Thy KING-DOM O LORD,
-	Reign-eth over all
-	Thy at-tend-ing bless-ings fill
-	My heart with joy and peace
-	I am Thine, O LORD of hosts!
-	LORD, guide me till life I gain.",
+   Hymn("NO 244", "244  WEARY wand’rer, stop and listen", [
+    "1	WEARY wand’rer, stop and listen\nHappy news we bring to thee;\nJesus has prepared a banquet,\nCome, and welcome thou shall be.",
+    "Refrain:\nMake no longer vain excuses,\nJesus calls and calls thee now;\nCome, for ev’rything is ready,\nWeary soul, why waitest thou.",
+    "2	Are thy sins a heavy burden?\nCome to God, confess them now?\nHe is willing to forgive thee;\nAsk, receive, why waitest thou.",
+    "3	On the loving arm of Jesus,\nWouldst thou lean, and trust Him now?\nLet him cleanse thee at the fountain;\nCome at once! Why waitest thou?",
+    "4	See the beauteous wedding garment;\nIn His hands he holds it now;\nHaste, oh haste, thee to the banquet;\nEnter in, why waitest thou?",
   ]),
 
-   Hymn("NO 252", "", [
-    "1.	THEY that wait upon the LORD
-	They that wait, they that wait;
-	They that wait upon the LORD, shall renew, shall renew their strength.
-Chant:
-	   They shall mount up with wings as the eagles
-	   They shall mount up with wings and not be weary.
-
-A Tempo:
-	   And they shall not and they shall not and not be weary and not be weary
-	   And they shall not faint, they shall not faint,
-	   They that wait upon the Lord
-	   They that wait, they that wait,
-	   They that wait upon the Lord, shall renew, shall renew their strength.",
-  ]),
-   Hymn("NO 253", "", [
-    "1.	O Blessed City of great joy
-	The new Jerusalem
-	How beautiful are Thou with peace
-	Great City! From above.
-
-2.	Arise and shine, Thy light has come
-	O City of our God
-	Glorify now the Prince of Peace
-	Christ our Saviour, and King.
-
-3	Oh! Sing ye favoured ones on earth
-	The goodness of the Lord
-	Who died to save us from our sins
-	To stay in His city.
-
-4.	Praise Him! Praise Him! For ever more
-	In this perfect City
-	Ye redeemed from the evil world
-	By our Lord’s mighty grace.",
+   Hymn("NO 245", "245  LORD, who at Cana’s wedding feast(Part one)", [
+    "1	LORD, who at Cana’s wedding feast,\nDidst as a Guest appear,\nThou dearer far than earthly guest,\nVouchsafe Thy presence here\nFor only Thou indeed dost prove,\nThe marriage vow to be,\nProclaiming it a type of love,\nBetween the Church and Thee.",
+    "2	This holy vow that man can make\nThe golden thread in life,\nThe bond that none may dare to break,\nThat bindeth man and wife,\nWhich, blest by Thee, whate’er betides,\nNo evil shall destroy,\nThro’ care worm days each care divides,\nAnd doubles ev’ry joy.",
+    "3	On those who now before Thee come,\nO Lord Thy blessings pour,\nThat each may wake the others zeal,\nTo love Thee more and more,\nOh, grant them here in peace to live,\nIn purity and love,\nIn this world, receiving blessings,\nOf everlasting life.",
   ]),
 
-   Hymn("NO 254", "", [
-    "1.	I’LL praise the Lord, for all His mercies on me,
-	He gives me strength, wisdom and pow’r each day,
-	He leads, protects and guides me in His goodness
-	I’ll praise Him for His grace so rich and free.
-
-Refrain:
-	   I will not cease to praise Thee, my LORD,
-	   And declare Thy mercies to the world around,
-
-2.	I’ll praise Jesus, though the world may shun His love
-	I can’t reject such friend, so kind and good
-	Who keeps me safe, strong to enjoy His favours
-	I’ll praise Him for His grace so rich and free
-
-3.	I’ll praise the Lord, JEHOVAH, GOD ALMIGHTY
-	Who crea-ted Christ through whom He made all things,
-	Whom He sent down to die for me on the tree,
-	For my Salvation on Mount Calvary.",
+   Hymn("NO 245", "245  LORD, who at Cana’s wedding feast(Part two)", [
+    "1	LORD, who at Cana’s wedding feast,\nDidst as a Guest ap-pear,\nThou dear-er far than earthly guest,\nVouch-safe Thy pre-sence here.",
+    "2	For Ho-ly Thou in-deed dost prove,\nThe marriage vow to be,\nPro-claim-ing it a type of love,\nBetween the Church and Thee.",
+    "3	This ho-ly vow that man can make,\nThe gold-en thread in life,\nThe bond that none may dare to break,\nThat bindeth man and wife.",
+    "4	Which, blest by Thee, whate’er be-tides,\nNo evil shall des-troy,\nThro’ care worn days each care di-vides,\nAnd dou-bles ev’ry joy.",
+    "5	On those who now before Thee come,\nO Lord Thy blessings pour,\nThat each may wake the others zeal,\nTo love Thee more and more",
+    "6	Oh, grant them here in peace to live,\nIn purity and love,\nIn this world, receiving blessings,\nOf everlasting life.",
   ]),
 
-   Hymn("NO 255", "", [
-    "1.	THRO’ the love of God our Saviour,
-	All will be well
-	Free and changless in His favour
-	All must be well
-	Precious is the blood that heal’d us;
-	Perfect is the grace that seal’d us
-	Strong the hand stretch’d forth to shield us
-	All must be well.
-
-2.	Though we pass through tribulations,
-	All will be well,
-	Ours is such a full Salvation,
-	All must be well
-	Happy still in God’s confiding	;
-	Fruitful if in Christ abiding
-	Holy, through the Spirit guiding;
-	All must be well.
-
-3.	We expect a bright tomorrow;
-	All will be well
-	Faith can sing through days of sorrows,
-	All must be well
-	On our Father’s love relying,
-	Jesus ev’ry need supplying
-	Or in living or in dying,
-	All must be well.",
-  ]),
-   Hymn("NO 256", "", [
-    "1.	THERE’S a city full of glory,
-	New paradise
-	Mortal eyes hath yet never seen
-	For faithful ones,
-	Filled with radiance brighter than sun,
-	Street of gold and streams of crystal,
-	Jesus reigns exalted Master,
-	In this City.
-
-2.	All the ransomed, shall dwell therein,
-	Eternally. 
-	Sweet music shall fill all the souls,
-	Through endless days,
-	Crowns of glory, palms of vict’ry
-	Harps of gold triumphant anthems;
-	Hosannas and praises forever,
-	In this great Land.
-
-3.	Won’t you like this God’s own City
-	Here on this earth?
-	Jesus earnestly invites us,
-	To repentance
-	Let’s now draw nearer and closer,
-	He will guide and cleanse all our sins
-	He’s now calling for you and me,
-	To dwell with Him.
-
-4.	I will draw nearer and closer
-	To Thee my Lord
-	The sight of Thy many blessings,
-	I see by faith
-	Make this faith so strong and steady,
-	Give me grace to uphold my works;
-	That Thy face will shine on me Lord,
-	For ever more.",
-  ]),
-  Hymn("NO 257", "", [
-    "1.	HAIL JEHOVAH and Jesus Christ!
-Hail them in truth, in love and joy
-	Behold the LORD’S Tabernacle,
-	The Joy of all our race on earth.
-	Oh! What shall we bring to our Lord,
-	To do His will with hope of life
-	With an unwav’ring faith in Thee
-	Help us O LORD that this may be.
-
-Refrain:
-	   Great is the LORD who cares for us
-	   Guide us O LORD, by Thy true word
-	   Uphold our thoughts for ever more; 
-   That we may live and praise Your Name.
-
-2.	HAIL JEHOVAH and Jesus Christ!
-	Hail them in truth for ever more!
-	Rejoice in God’s Tabernacle
-	The hope of all mankind on earth.
-	Re-joice, re-joice, sing ho-san-na
-	Bearing the truth inJesus Christ
-	The Tabernacle of the LORD,
-	Hail them, Hail Them in one ac-cord.
-
-
-3.	Christ is our SHEPHERD this we know,
-Sing praises of Him who was slain
-The hour has come for us to raise
-The glorious gospel of Jesus;
-Let’s spread afar the Kingdom news
-That those who hear may rejoice—
-O come, O come ye weary ones
-Taste of the Living Water free.",
-  ]),
-   Hymn("NO 258", "", [
-    "1	WE praise Thee, LORD for this house
-	Built at Thine own command
-	To all Thy willing children
-	That thou hast used O LORD,
-	Their strength and sacrifices
-	Are nothing without Thee,
-	May you increase and bless them
-	That Thy peace they’ll all see.
-
-2.	As we gather to adore
-	And hearts in worship blend;
-	May truth reveal it’s power
-	And fervent pray’rs ascend,
-	O come, and by Thy presence
-	Make this new house Thine own
-	That the young, old be strengthened
-	And all men learn Thy way.
-
-3.	O Thou whose hand has brought us
-	Unto this joyful day,
-	Accept our glad thanksgiving,
-	And listen as we pray
-	Our yearning hearts Thou knowest,
-	We wait before Thy throne
-	With one accord to offer
-	And bless Thy Holy Name.",
-  ]),
-   Hymn("NO 259", "", [
-    "1.	THOU, whose un-measured temple stands,
-	Build over heav’n and earth
-	Accept this house human hands
-	Have raised, O GOD, to Thee.
-
-2.	May the love of Thy Son Jesus,
-	And Thy blessings O LORD,
-	Be with all those who’ll worship here
-	Always in Jesus Name.
-
-3.	May they who err be guided here
-	To find the better way
-	May those who are grieved and in fear
-	Be strengthened as they pray.
-
-
-4.	May faith grow firm, Thy love grow warm
-	And pure devotion rise
-	While all supplications made here
-	Thou Lord hear and attend.",
-  ]),
-   Hymn("NO 260", "", [
-    "1.	BE with us gracious LORD, today,
-	This house we dedicate to Thee,
-	O hear Thy servants as we pray,
-	And let Thine ear attentive be!
-
-2.	Within this house let holy peace,
-	Joy, love and truth be always found;
-	May burdened hearts find sweet release
-	And souls with richest grace endued.
-
-3.	When the gospel sound is heard, here
-	And fervent supplications made,
-	May hearts be quickened, move and stirred,
-	That souls be kindled into joy.
-
-
-4.	Here, may dead souls be made to live,
-	Long parted friends restored to love,
-	And to the humble, O LORD, give
-	Pardon and peace instead of fear.
-
-5.	Make this new house Thine own, O LORD;
-	That Thy presence be felt always,
-	Be it, indeed, the house of God,
-	And that in truth the gate of life.",
+   Hymn("NO 246", "246  THE voice that roared o’er E-den(Part one)", [
+    "1	THE voice that roared o’er E-den,\nThat ear-liest wedd-ing day,\nBe pre-sent O JE-HO-VAH,\nTo join these Your child-ren\nAs Thou givest Eve to Adam\nA help meet at his side\n	As Thou didst bind two na-tures,\nIn Thine e-ternal bands.",
+    "2	Be pre-sent O God of gods,\nTo bless them and guide them\nAs Thou for Christ, the Bride-groom, \nThis Thy couple dost seal\nOh, make Your face shine on them,\nLet no ill pow’r find place-\nAs they dwell in peace O LORD\nTread-ing Your path always.",
   ]),
 
-   Hymn("NO 261", "", [
-    "1.	O living Christ, Chief Corner Stone
-	Of our Lord’s great temple
-	As we dedicate this new house,
-	Vouchsafe Thy presence here
-	That this house for Thine sake, O Lord,
-	Be pleased to bless, we pray,
-	In grateful service would we now,
-	Use this house for praises.
- 
-2.	Except the LORD buildeth the house,
-	Builders labour in vain,
-	We thank Thee LORD for using us;
-	To raise this house to Thee,
-	May those who thirst and seek for truth
-	Come and be set free, here
-	Grant us O LORD, Thy grace and peace,
-	As we serve doin’ Your will.
-
-3.	All praise and prayers made here,
-	Be heard by Thee, O LORD,
-	May Thy teachings we shall learn here,
-	Guide us to salvation,
-	As we humbly adore Thee, LORD,
-	And Thy Son Christ Jesus,
-	May praises, glory and honour
-	Be now and ever more.",
+   Hymn("NO 246", "246  THE voice that roared over E-den(Part two)", [
+    "1	THE voice that roared over E-den\nThat ear-liest wedd-ing day,\nBe pre-sent O JE-HO-VAH\nTo join these Your child-ren.",
+    "2	As Thou gav’st Eve to Adam,\nA help meet at his side,\nAs Thou didst bind two na-tures,\nIn Thine e-ter-nal bands.",
+    "3	Be pre-sent O God of gods,\nTo bless them and guide them,\nAs Thou for Christ, the Bride-groom,\nThis Thy cou-ple do’st seal.",
+    "4	Oh! Make Your face shine on them\nLet no ill pow’r find place-\nAs they dwell in peace, O LORD,\nTread-ing Your path al-ways.",
   ]),
 
-   Hymn("NO 262", "", [
-    "1.	WE Christian children gather here,	
-	Vow to be good and obedient,
-	Always to Thee and our parents,
-	That our days on earth be prolonged.
-
-2.	As we keep and obey, Thy will,
-	Let nothing push us from Thy way,
-	O LORD of Hosts, may we abide
-	As good children of faith in Thee.
-
-3.	Give us wisdom, knowledge and power,
-	As we grow Lord, to know Thee more,
-	Help us always and ne’er leave us 
-	Till we inherit Thy Kingdom.",
-  ]),
-   Hymn("NO 263", "", [
-    "1.	GOD of all creation,
-	Whose name is JEHOVAH;
-	Help us your humble ones always;
-	To be good, kind and true.
-
-2.	O Father of mankind
-	Give Thine children knowledge
-	To know Thy true Son, Christ Jesus,
-	The Redeemer and King.",
-  ]),
-   Hymn("NO 264", "", [
-    "1.	JE-SUS friend of lit-tle child-ren,
-Be a friend to me
-Take my hand and e-ver keep me,
-Close to Thee.
-
-2.	Je-sus I am a lit-tle child,
-Weak and apt to stray
-Watch and guide me gentle Sa-viour.
-Day by day.
-
-3.	Teach me how to grow in good-ness
-Upward in-to grace,
-Wis-er, strong-er and lov-ing to serve,
-In Thy truth.
-
-4.	Ne-ver leave me, nor for-sake me
-E-ver be my friend,
-For I need Thee through my jour-ney,
-To the end.",
+   Hymn("NO 247", "247  O Fa-ther, all cre-a-ting", [
+    "1	O Fa-ther, all cre-a-ting,\nWhose wis-dom, love and pow’r,\nFirst bound two lives to-ge-ther,\nIn E-den’s pri-mal hour,\nTo-day to these Thy child-ren,\nThine ear-liest gifts re-new\nA home by Thee made hap-py\nA love by Thee kept true.",
+    "2	O Sa-viour, Guest most boun-teous\nOf old in Ga-li-lee,\nVouch-safe to-day Thy pre-sence\nWith these who call on Thee,\nTheir store of earth-ly glad-ness\nKept free from sin and strife,\nAnd teach them, in the test-ing\nTo know the gift is thine.",
+    "3	O, breathe on them from a-bove,\nYour Ho-ly Spi-rit Lord;\nSo mighty in Thy pureness,\nSo tender in Thy love,\nAccept these hands in union,\nTheir hearts in trust and love,\nTheir lives may own Thy guidance,\nTheir hearts be ruled by Thee.",
+    "4	Except Thou build it, Father,\nThe house is built in vain,\nExcept Thou Saviour, bless it;\nAll joy will turn to pain,\nBut naught can break the marriage,\nOf hearts in Thee made one;\nAnd love Thy Spirit hallows,\nIs end-less love begun.",
   ]),
 
-   Hymn("NO 265", "", [
-    "1.	JEHOVAH GOD, bless us your humble ones,
-Help us O LORD, to learn and keep Thy way,
-In truth and love to Thee, Father we pray, 
-Guide us humble ones into Thy Kingdom.
-
-2.	We’ll fear no foe with Thee at hand to save;
-Who like Thee Lord our guide and hope can be?
-Thro’ cloud and sunshine LORD abide with us
-Guide us humble ones into Thy Kingdom
-
-3.	Grant us Thy peace in Thy Holy Mountain.
-Guide Thou our lips from sin; our hearts from lies
-Guard Thou our lips from sin; our darkness to light
-From harm and danger, keep Thy children free.
-
-4.	Help and guide us, LORD, to follow Thy path
-Let us never stray from Your precious way;
-Till we journey through this perilous world,
-Amen, may it be so in Jesus name.",
-  ]),
-   Hymn("NO 266", "", [
-    "1.	O Lamb of God teach us Thy steps,
-To follow daily in Thy grace,
-Learning to keep and do Thy will
-As humble ones in Thee, Lord.
-
-
-2.	Bless and keep us O Mighty Father
-To be good, kind and obedient
-Always to Thee and our parents,
-As humble ones in Thee, Lord.",
-  ]),
-   Hymn("NO 267", "", [
-    "1.	HEAR my cry, O gentle Saviour,
-When I call on Thee
-Give ear to my supplications;
-For in Thee I trust.
-
-Chorus
-   Saviour, Saviour, hear my humble cry,
-   Let Thy mercy and Thy kindness
-   Be on me always.
-
-2.	Have mercy and hear me, Father;
-As I call, always
-Make Thy face to shine upon me
-For Thy mercies sake.
-
-3.	Cleanse me, O LORD from my errors,
-And my secret faults;
-Keep me back to stay far from sin
-That my heart ’ll be pure
-4.	Teach me Thy ways, O dear Father,
-Lead me in Thy path;
-Let me never be ashamed, LORD,
-Be my strength and shield.
-
-5.	Let me rejoice in Thy kindness,
-Praising Thee always;
-Thou heard me when I was troubled,
-Great is Thy goodness.",
-  ]),
-   Hymn("NO 268", "", [
-    "1	CHRIST Jesus died on Mount Calv’ry
-To save my soul and set me free;
-I consecrate my life to Thee,
-
-Chorus:
-   My life to Thee,
-   My life to Thee,
-   My gracious King.
-
-2.	I lift my voice to praise Thee, Lord,
-O Lamb of God, my Redeemer,
-Let me ever be faithful Lord.
-
-Chorus:
-   Be faithful Lord,
-   Be faithful Lord,
-   My gracious King.
-
-3.	I believe Thee, O Lamb of God
-That Thou didst die that I may live,
-From now henceforth, I’ll trust in Thee. 
-
-Chorus:
-   I’ll trust in Thee,
-   I’ll trust in Thee,
-   My gracious King.
-
-4.	I’ll trust in Thee and live for Thee,
-My gracious, king and Redeemer
-I am so glad for Thy mercies.
-Chorus:
-   I am so--- glad 
-   I am so glad
-   For Thy mercies.",
+   Hymn("NO 248", "248  O perfect love, all human thoughts transcending", [
+    "1	O perfect love, all human thoughts transcending,\nLowly we come in pray’r before Thy throne\nThat theirs may be love which knows no ending\nWhom Thou for ever more dost join in one.",
+    "2	O perfect life, be Thou their full assurance,\nOf tender charity and steadfast faith,\nOf patient hope and quiet, brave endurance,\nWith child-like trust that fears no pain nor death.",
+    "3	Grant them the joy which brighten earthly sorrow,\nGrant them the peace which calms all earthly strife,\nAnd to life’s day the glorious unknown morrow,\nThat dawns upon eternal love and life.",
   ]),
 
-   Hymn("NO 269", "", [
-    "1.	AS a wondering bird,
-Far ‘way from it’s nest;
-I wandered once away from my Lord,
-Now my Lord’s loving word,
-Of truth bids me come,
-To His kingdom of peace and of rest.
-
-
-Chorus:
-   Welcome to me, loving words of Christ,
-   Glad some welcome, welcome from my Lord,
-   Oh! Now like a child on His love I do rest
-   Find a refuge in His loving word.
-
-2.	Now I’m glad in the truth,
-Safe in His great pow’r
-Of my Lord in His kingdom on earth;
-In my heart there is joy,
-For He cares for me,
-Saving me by His great precious word.
-
-3.	Now in Jesus I trust,
-I fear not the foes,
-Though around me may be wicked foes,
-My Rock and Defense,
-Singing of the great joy in my heart.",
-  ]),
-   Hymn("NO 270", "", [
-    "1.	GOD of pity, God of grace,
-When we humbly seek Thy face,
-Lo! From heaven, Thy mercy seat;
-Hear, forgive and save.
-
-
-2.	When we in Thy Temple meet,
-Spread our needs before Thy feet,
-Pleading at Thy mercy seat;
-Look from heaven and save.
-
-3.	When Thy love our hearts shall fill,
-And we long to do Thy will,
-Turning to Thy Holy word,
-LORD, accept and save.
-
-4.	Should we wander from Thy fold,
-And our love to Thee grow cold,
-With a pitying eye behold,
-LORD, forgive and save.
-5. 	Should father of death oppress,
-Earthly care and want distress,
-May our souls Thy peace possess;
-Most High hear and save.
-
-6.	And whate’er our cry may be,
-When we lift our hearts to Thee,
-From our burden, set us free;
-God, forgive and save.",
+   Hymn("NO 249", "PRAISE Him! Praise Him! Je-sus, our bless-ed Re-deem-er!", [
+    "1	PRAISE Him! Praise Him! Je-sus, our bless-ed Re-deem-er!\nSing O earth His won-der-ful love pro-claim!\nHail Him! Hail Him! Our Sa-viour and King of glo-ry;\nStrength and hon-our give to His Ho-ly name!\nLike a shep-herd, Je-sus will guard His child-ren,\nIn His arm He car-ries them all day long.",
+    "Refrain:\nPraise him! Praise him! Tell of His ex-cel-lent great-ness\nPraise him! Praise him! E-ver in joy-ful songs!",
+    "2	Praise Him! Praise Him! Jesus our bless-ed Re-deem-er!\nFor our sins He suf-fered, and bled and died;\nHe’s our Rock, and our hope of e-ter-nal sal-vation,\nHail Him! Hail Him! Je-sus rose from the dead\nSound His prai-ses, Je-sus who bore our sor-rows\nLove un-bound-ed won-der-ful deep and strong.",
+    "3	Praise Him! Praise Him! Je-sus our bless-ed Re-deem-er!\nHeav’nly por-tals loud with ho-san-nas sing\nJe-sus Sa-viour reign-eth for e-ver and e-ver\nHail Him! Hail Him! Pro-phet and Priest and King\nJe-sus rules now, o-ver the world vic-to-rious\nPow’r and glo-ry un-to the Lord be-long.",
   ]),
 
-   Hymn("NO 271", "", [
-    "1.	NEW Jerusalem, a land of promise,
-Kingdom of God, full of love and justice,
-Wonderful land, full of beauties around;
-Land of wisdom and joy.
-
-Chorus:
-   Wonderful land of joy…………
-   Wonderful land of joy…
-   Wonderful land, full of beauties around
-   Land of wisdom and joy.
-
-2.	Ever shining home, promise land of God
- 	I love Thee, my glorious land of freedom,
-Made for the ‘Israel’ of JEHOVAH GOD,
-Land of wisdom and peace.
-
-Chorus:
-   Glorious land of freedom………..
-   Glorious land of freedom……..
-   Made for the ‘Israel’ of Jehovah God
-   Land of wisdom and peace.
-
-3.	My heart is full of gladness everyday
-Seeking to know the New Jerusalem
-I shall never turn back from Thee O God
-But to love Thee always.
-
-
-
-Chorus:
-   Seeking to know this land……...Seeking to know this land.….
-   I shall never turn back from Thee O God
-   But to love Thee always.",
-  ]),
-   Hymn("NO 272", "", [
-    "1.	TODAY, JEHOVAH bids me come,
-To receive His pardon and mercy;
-Through His Son Jesus
-He brought down to die;
-And ransom me from sin and death.
-
-Refrain:
-   Yes I know only the blood of Jesus
-   That can wash my sins away
-   Though my sins, my sins may be as scarlet
-   He’ll make them as white as snow.
-
-2.	He speaks and I hear His sweet voice, 
-To repentance and eternal life;
-O GOD! To Thee, I must return and live,
-For no ‘ther hope or joy I have.
-
-3.	I give my heart all to Thee, LORD,
-To Thine open arms for Salvation,
-To live without fear thro’ eternity
-In Thy glorious kingdom on earth.",
+   Hymn("NO 250", "250  COME to the Saviour, make no delay", [
+    "1.	COME to the Saviour, make no delay\nHis true Gospel has shown the way.\nHere in our midst He’s standing today\nTenderly saying “Come!”.",
+    "Refrain:\nCome, O come for pardon and mercies\nWhen from sin all hearts are pure and free,\nCome never delay, receive Him now\nHis grace is pure and free.",
+    "2.	All ye God’s children, hear now His voice!\nLet ev’ry heart leap-forth and rejoice;\nAnd let us freely make Him our choice,\nDo not delay, but come.",
+    "3.	Christ Jesus, the King is now with us;\nOh heed His blest com-mand and submit,\nHear His accents that tenderly say,\n“Wont you, my children, Come?”.",
   ]),
 
-   Hymn("NO 273", "", [
-    "1.	PRAISE to the Lord, my Redeemer, Son of Jehovah God,
-O my soul, praise him, for He is thy health and Salvation;
-Come, ye who hear, Brothers and Sisters, draw near,
-Praise Him in glad adoration.
-
-2.	 Praise to the Lord, who o’er all things so wondrously reigneth; 
-Shelter Thee under His wings, yea, so gently sustaineth;
-Hast Thou not seen? All that is needful hath been
-Granted in what had been ordained.
-3.	Praise to the Lord, who doth prosper thy work and defend thee.
-Surely His goodness and mercy here daily attend thee
-Ponder anew, what the Almighty can do
-He who with love doth befriend thee.
-
-4.	Praise to the Lord, O let all that is in me adore Him,
- 	All that hath life and breath come now with praises before Him
- 	Let the Amen, sound from His people again;
-Again and again, adore Him.",
+   Hymn("NO 251", "251  KING of kings, I’m Thine", [
+    "1.	KING of kings, I’m Thine\nWhat a bles-sed hope!\nTrust-ing in Thy gra-cious words\nMe to save from ill ways\nKING of kings O LORD of lords!\nI am Thine for e-ver more.",
+    "Refrain:\nI am Thine, O my LORD\nMy gra-cious KING JEHO-VAH of Hosts\nI am Thine my LORD\nTrust-ing in Thy Name “I AM”\nThine my LORD my KING my Cre-a-tor.",
+    "2.	When Thy truth I heard,\nI then leaped with joy;\nThat I now Thy pre-sence see\nFor peace and last-ing life\nIn-to Thy King-dom I flee\nKnow-ing Thee for ‘ternal life.",
+    "3.	Thy KING-DOM O LORD,\nReign-eth over all\nThy at-tend-ing bless-ings fill\nMy heart with joy and peace\nI am Thine, O LORD of hosts!\nLORD, guide me till life I gain.",
   ]),
 
-   Hymn("NO 274", "", [
-    "1.	PRAISE the LORD, His glories show-
-A-men, praise ye the LORD
-All ye favoured ones below
-Praise ye the LORD, A-men
-Praise Him, praise Him ever more-
-A-men praise ye the LORD
-All that hear and share His love-
-Praise ye the LORD, A-men.
-
-2.	Praise the LORD His mercies trace-
-A-men, praise ye the LORD,
-Praise His providence and grace-
-Praise ye the LORD, A-men
-All that He for men hath done-
-Praise ye the LORD A-men
-All He sends us through His Son
-A-men praise ye the LORD.
-
-3.	Strings and voices, hands and hearts-
-Praise ye the LORD A-men
-In His great praise bear your part-
-A-men praise ye the LORD
-All that breathe, your LORD adore-
-Praise ye the LORD A-men
-Praise Him, praise Him ever more-
-A-men praise ye the LORD.
-
-4.	All ye people here on earth-
-Praise ye the LORD A-men
-Tell His wonders, sing His worth-
-A-men praise ye the LORD
-Age to age, and shore to shore-
-A-men praise ye the LORD
-Praise Him, praise Him ever more
-A-men praise ye the LORD.",
+   Hymn("NO 252", "252  THEY that wait upon the LORD", [
+    "1.	THEY that wait upon the LORD\nThey that wait, they that wait;\nThey that wait upon the LORD, shall renew, shall renew their strength.",
+    "Chant:\nThey shall mount up with wings as the eagles\nThey shall mount up with wings and not be weary.",
+    "A Tempo:\nAnd they shall not and they shall not and not be weary and not be weary\nAnd they shall not faint, they shall not faint,\nThey that wait upon the Lord\nThey that wait, they that wait,\nThey that wait upon the Lord, shall renew, shall renew their strength.",
   ]),
 
-   Hymn("NO 275", "", [
-    ".",
-  ]),
-   Hymn("NO 276", "", [
-    ".",
-  ]),
-   Hymn("NO 277", "", [
-    ".",
-  ]),
-   Hymn("NO 278", "", [
-    ".",
-  ]),
-   Hymn("NO 279", "", [
-    ".",
-  ]),
-   Hymn("NO 280", "", [
-    ".",
-  ]),
-   Hymn("NO 281", "", [
-    ".",
-  ]),
-   Hymn("NO 282", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
+   Hymn("NO 253", "253  O Blessed City of great joy", [
+    "1.	O Blessed City of great joy\nThe new Jerusalem\nHow beautiful are Thou with peace\nGreat City! From above.",
+    "2.	Arise and shine, Thy light has come\nO City of our God\nGlorify now the Prince of Peace\nChrist our Saviour, and King.",
+    "3	Oh! Sing ye favoured ones on earth\nThe goodness of the Lord\nWho died to save us from our sins\nTo stay in His city.",
+    "4.	Praise Him! Praise Him! For ever more\nIn this perfect City\nYe redeemed from the evil world\nBy our Lord’s mighty grace.",
   ]),
 
-   Hymn("NO 31", "", [
-    ".",
+   Hymn("NO 254", "254  I’LL praise the Lord, for all His mercies on me", [
+    "1.	I’LL praise the Lord, for all His mercies on me,\nHe gives me strength, wisdom and pow’r each day,\nHe leads, protects and guides me in His goodness\nI’ll praise Him for His grace so rich and free.",
+    "Refrain:\nI will not cease to praise Thee, my LORD,\nAnd declare Thy mercies to the world around,",
+    "2.	I’ll praise Jesus, though the world may shun His love\nI can’t reject such friend, so kind and good\nWho keeps me safe, strong to enjoy His favours\nI’ll praise Him for His grace so rich and free",
+    "3.	I’ll praise the Lord, JEHOVAH, GOD ALMIGHTY\nWho crea-ted Christ through whom He made all things,\nWhom He sent down to die for me on the tree,\nFor my Salvation on Mount Calvary.",
   ]),
-   Hymn("NO 31", "", [
-    ".",
+
+   Hymn("NO 255", "255  THRO’ the love of God our Saviour", [
+    "1.	THRO’ the love of God our Saviour,\nAll will be well\nFree and changless in His favour\nAll must be well\nPrecious is the blood that heal’d us;\nPerfect is the grace that seal’d us\nStrong the hand stretch’d forth to shield us\nAll must be well.",
+    "2.	Though we pass through tribulations,\nAll will be well,\nOurs is such a full Salvation,\nAll must be well\nHappy still in God’s confiding;\nFruitful if in Christ abiding\nHoly, through the Spirit guiding;\nAll must be well.",
+    "3.	We expect a bright tomorrow;\nAll will be well\nFaith can sing through days of sorrows,\nAll must be well\nOn our Father’s love relying,\nJesus ev’ry need supplying\nOr in living or in dying,\nAll must be well.",
   ]),
-   Hymn("NO 31", "", [
-    ".",
+
+   Hymn("NO 256", "256  THERE’S a city full of glory", [
+    "1.	THERE’S a city full of glory,\nNew paradise\nMortal eyes hath yet never seen\nFor faithful ones,\nFilled with radiance brighter than sun,\nStreet of gold and streams of crystal,\nJesus reigns exalted Master,\nIn this City.",
+    "2.	All the ransomed, shall dwell therein,\nEternally.\nSweet music shall fill all the souls,\nThrough endless days,\nCrowns of glory, palms of vict’ry\nHarps of gold triumphant anthems;\nHosannas and praises forever,\nIn this great Land.",
+    "3.	Won’t you like this God’s own City\nHere on this earth?\nJesus earnestly invites us,\nTo repentance\nLet’s now draw nearer and closer,\nHe will guide and cleanse all our sins\nHe’s now calling for you and me,\nTo dwell with Him.",
+    "4.	I will draw nearer and closer\nTo Thee my Lord\nThe sight of Thy many blessings,\nI see by faith\nMake this faith so strong and steady,\nGive me grace to uphold my works;\nThat Thy face will shine on me Lord,\nFor ever more.",
+  ]),
+
+  Hymn("NO 257", "257 HAIL JEHOVAH and Jesus Christ!", [
+    "1.	HAIL JEHOVAH and Jesus Christ!\nHail them in truth, in love and joy\nBehold the LORD’S Tabernacle,\nThe Joy of all our race on earth.\nOh! What shall we bring to our Lord,\nTo do His will with hope of life\nWith an unwav’ring faith in Thee\nHelp us O LORD that this may be.",
+    "Refrain:\nGreat is the LORD who cares for us\nGuide us O LORD, by Thy true word\nUphold our thoughts for ever more; \nThat we may live and praise Your Name.",
+    "2.	HAIL JEHOVAH and Jesus Christ!\nHail them in truth for ever more!\nRejoice in God’s Tabernacle\nThe hope of all mankind on earth.\nRe-joice, re-joice, sing ho-san-na\nBearing the truth inJesus Christ\nThe Tabernacle of the LORD,\nHail them, Hail Them in one ac-cord.",
+    "3.	Christ is our SHEPHERD this we know,\nSing praises of Him who was slain\nThe hour has come for us to raise\nThe glorious gospel of Jesus;\nLet’s spread afar the Kingdom news\nThat those who hear may rejoice—\nO come, O come ye weary ones\nTaste of the Living Water free.",
+  ]),
+
+   Hymn("NO 258", "258  WE praise Thee, LORD for this house", [
+    "1	WE praise Thee, LORD for this house\nBuilt at Thine own command\nTo all Thy willing children\nThat thou hast used O LORD,\nTheir strength and sacrifices\nAre nothing without Thee,\nMay you increase and bless them\nThat Thy peace they’ll all see.",
+    "2.	As we gather to adore\nAnd hearts in worship blend;\nMay truth reveal it’s power\nAnd fervent pray’rs ascend,\nO come, and by Thy presence\nMake this new house Thine own\nThat the young, old be strengthened\nAnd all men learn Thy way.",
+    "3.	O Thou whose hand has brought us\nUnto this joyful day,\nAccept our glad thanksgiving,\nAnd listen as we pray\nOur yearning hearts Thou knowest,\nWe wait before Thy throne\nWith one accord to offer\nAnd bless Thy Holy Name.",
+  ]),
+  
+   Hymn("NO 259", "259  THOU, whose un-measured temple stands", [
+    "1.	THOU, whose un-measured temple stands,\nBuild over heav’n and earth\nAccept this house human hands\nHave raised, O GOD, to Thee.",
+    "2.	May the love of Thy Son Jesus,\nAnd Thy blessings O LORD,\nBe with all those who’ll worship here\nAlways in Jesus Name.",
+    "3.	May they who err be guided here\nTo find the better way\nMay those who are grieved and in fear\nBe strengthened as they pray.",
+    "4.	May faith grow firm, Thy love grow warm\nAnd pure devotion rise\nWhile all supplications made here\nThou Lord hear and attend.",
+  ]),
+   Hymn("NO 260", "260  BE with us gracious LORD, today", [
+    "1.	BE with us gracious LORD, today,\nThis house we dedicate to Thee,\nO hear Thy servants as we pray,\nAnd let Thine ear attentive be!",
+    "2.	Within this house let holy peace,\nJoy, love and truth be always found;\nMay burdened hearts find sweet release\nAnd souls with richest grace endued.",
+    "3.	When the gospel sound is heard, here\nAnd fervent supplications made,\nMay hearts be quickened, move and stirred,\nThat souls be kindled into joy.",
+    "4.	Here, may dead souls be made to live,\nLong parted friends restored to love,\nAnd to the humble, O LORD, give\nPardon and peace instead of fear.",
+    "5.	Make this new house Thine own, O LORD;\nThat Thy presence be felt always,\nBe it, indeed, the house of God,\nAnd that in truth the gate of life.",
+  ]),
+
+   Hymn("NO 261", "281  O living Christ, Chief Corner Stone", [
+    "1.	O living Christ, Chief Corner Stone\nOf our Lord’s great temple\nAs we dedicate this new house,\nVouchsafe Thy presence here\nThat this house for Thine sake, O Lord,\nBe pleased to bless, we pray,\nIn grateful service would we now,\nUse this house for praises.",
+    "2.	Except the LORD buildeth the house,\nBuilders labour in vain,\nWe thank Thee LORD for using us;\nTo raise this house to Thee,\nMay those who thirst and seek for truth\nCome and be set free, here\nGrant us O LORD, Thy grace and peace,\nAs we serve doin’ Your will.",
+    "3.	All praise and prayers made here,\nBe heard by Thee, O LORD,\nMay Thy teachings we shall learn here,\nGuide us to salvation,\nAs we humbly adore Thee, LORD,\nAnd Thy Son Christ Jesus,\nMay praises, glory and honour\nBe now and ever more.",
+  ]),
+
+   Hymn("NO 262", "262  WE Christian children gather here", [
+    "1.	WE Christian children gather here,\nVow to be good and obedient,\nAlways to Thee and our parents,\nThat our days on earth be prolonged.",
+    "2.	As we keep and obey, Thy will,\nLet nothing push us from Thy way,\nO LORD of Hosts, may we abide\nAs good children of faith in Thee.",
+    "3.	Give us wisdom, knowledge and power,\nAs we grow Lord, to know Thee more,\nHelp us always and ne’er leave us \nTill we inherit Thy Kingdom.",
+  ]),
+
+   Hymn("NO 263", "263  GOD of all creation", [
+    "1.	GOD of all creation,\nWhose name is JEHOVAH;\nHelp us your humble ones always;\nTo be good, kind and true.",
+    "2.	O Father of mankind\nGive Thine children knowledge\nTo know Thy true Son, Christ Jesus,\nThe Redeemer and King.",
+  ]),
+
+   Hymn("NO 264", "264  JE-SUS friend of lit-tle child-ren", [
+    "1.	JE-SUS friend of lit-tle child-ren,\nBe a friend to me\nTake my hand and e-ver keep me,\nClose to Thee.",
+    "2.	Je-sus I am a lit-tle child,\nWeak and apt to stray\nWatch and guide me gentle Sa-viour.\nDay by day.",
+    "3.	Teach me how to grow in good-ness\nUpward in-to grace,\nWis-er, strong-er and lov-ing to serve,\nIn Thy truth.",
+    "4.	Ne-ver leave me, nor for-sake me\nE-ver be my friend,\nFor I need Thee through my jour-ney,\nTo the end.",
+  ]),
+
+   Hymn("NO 265", "265  JEHOVAH GOD, bless us your humble ones", [
+    "1.	JEHOVAH GOD, bless us your humble ones,\nHelp us O LORD, to learn and keep Thy way,\nIn truth and love to Thee, Father we pray,\nGuide us humble ones into Thy Kingdom.",
+    "2.	We’ll fear no foe with Thee at hand to save;\nWho like Thee Lord our guide and hope can be?\nThro’ cloud and sunshine LORD abide with us\nGuide us humble ones into Thy Kingdom.",
+    "3.	Grant us Thy peace in Thy Holy Mountain.\nGuide Thou our lips from sin; our hearts from lies\nGuard Thou our lips from sin; our darkness to light\nFrom harm and danger, keep Thy children free.",
+    "4.	Help and guide us, LORD, to follow Thy path\nLet us never stray from Your precious way;\nTill we journey through this perilous world,\nAmen, may it be so in Jesus name.",
+  ]),
+
+   Hymn("NO 266", "266  O Lamb of God teach us Thy steps", [
+    "1.	O Lamb of God teach us Thy steps,\nTo follow daily in Thy grace,\nLearning to keep and do Thy will\nAs humble ones in Thee, Lord.",
+    "2.	Bless and keep us O Mighty Father\nTo be good, kind and obedient\nAlways to Thee and our parents,\nAs humble ones in Thee, Lord.",
+  ]),
+
+   Hymn("NO 267", "267  HEAR my cry, O gentle Saviour", [
+    "1.	HEAR my cry, O gentle Saviour,\nWhen I call on Thee\nGive ear to my supplications;\nFor in Thee I trust.",
+    "Chorus\nSaviour, Saviour, hear my humble cry,\nLet Thy mercy and Thy kindness\nBe on me always.",
+    "2.	Have mercy and hear me, Father;\nAs I call, always\nMake Thy face to shine upon me\nFor Thy mercies sake.",
+    "3.	Cleanse me, O LORD from my errors,\nAnd my secret faults;\nKeep me back to stay far from sin\nThat my heart ’ll be pure",
+    "4.	Teach me Thy ways, O dear Father,\nLead me in Thy path;\nLet me never be ashamed, LORD,\nBe my strength and shield.",
+    "5.	Let me rejoice in Thy kindness,\nPraising Thee always;\nThou heard me when I was troubled,\nGreat is Thy goodness.",
+  ]),
+
+   Hymn("NO 268", "268  CHRIST Jesus died on Mount Calv’ry", [
+    "1	CHRIST Jesus died on Mount Calv’ry\nTo save my soul and set me free;\nI consecrate my life to Thee,",
+    "Chorus:\nMy life to Thee,\nMy life to Thee,\nMy gracious King."
+    "2.	I lift my voice to praise Thee, Lord,\nO Lamb of God, my Redeemer,\nLet me ever be faithful Lord.",
+    "Chorus:\nBe faithful Lord,\nBe faithful Lord,\nMy gracious King.",
+    "3.	I believe Thee, O Lamb of God\nThat Thou didst die that I may live,\nFrom now henceforth, I’ll trust in Thee.",
+    "Chorus:\nI’ll trust in Thee,\nI’ll trust in Thee,\nMy gracious King.",
+    "4.	I’ll trust in Thee and live for Thee,\nMy gracious, king and Redeemer\nI am so glad for Thy mercies.",
+    "Chorus:\nI am so--- glad \nI am so glad\nFor Thy mercies.",
+  ]),
+
+   Hymn("NO 269", "269  AS a wondering bird", [
+    "1.	AS a wondering bird,\nFar ‘way from it’s nest;\nI wandered once away from my Lord,\nNow my Lord’s loving word,\nOf truth bids me come,\nTo His kingdom of peace and of rest.",
+    "Chorus:\nWelcome to me, loving words of Christ,\nGlad some welcome, welcome from my Lord,\nOh! Now like a child on His love I do rest\nFind a refuge in His loving word.",
+    "2.	Now I’m glad in the truth,\nSafe in His great pow’r\nOf my Lord in His kingdom on earth;\nIn my heart there is joy,\nFor He cares for me,\nSaving me by His great precious word.",
+    "3.	Now in Jesus I trust,\nI fear not the foes,\nThough around me may be wicked foes,\nMy Rock and Defense,\nSinging of the great joy in my heart.",
+  ]),
+
+   Hymn("NO 270", "270  GOD of pity, God of grace", [
+    "1.	GOD of pity, God of grace,\nWhen we humbly seek Thy face,\nLo! From heaven, Thy mercy seat;\nHear, forgive and save.",
+    "2.	When we in Thy Temple meet,\nSpread our needs before Thy feet,\nPleading at Thy mercy seat;\nLook from heaven and save.",
+    "3.	When Thy love our hearts shall fill,\nAnd we long to do Thy will,\nTurning to Thy Holy word,\nLORD, accept and save.",
+    "4.	Should we wander from Thy fold,\nAnd our love to Thee grow cold,\nWith a pitying eye behold,\nLORD, forgive and save.",
+    "5. 	Should father of death oppress,\nEarthly care and want distress,\nMay our souls Thy peace possess;\nMost High hear and save.",
+    "6.	And whate’er our cry may be,\nWhen we lift our hearts to Thee,\nFrom our burden, set us free;\nGod, forgive and save.",
+  ]),
+
+   Hymn("NO 271", "271  NEW Jerusalem, a land of promise", [
+    "1.	NEW Jerusalem, a land of promise,\nKingdom of God, full of love and justice,\nWonderful land, full of beauties around;\nLand of wisdom and joy.",
+    "Chorus:\nWonderful land of joy…………\nWonderful land of joy…\nWonderful land, full of beauties around\nLand of wisdom and joy.",
+    "2.	Ever shining home, promise land of God\nI love Thee, my glorious land of freedom,\nMade for the ‘Israel’ of JEHOVAH GOD,\nLand of wisdom and peace.",
+    "Chorus:\nGlorious land of freedom………..\nGlorious land of freedom……..\nMade for the ‘Israel’ of Jehovah God\nLand of wisdom and peace.",
+    "3.	My heart is full of gladness everyday\nSeeking to know the New Jerusalem\nI shall never turn back from Thee O God\nBut to love Thee always.",
+    "Chorus:\nSeeking to know this land……...Seeking to know this land.….\nI shall never turn back from Thee O God\nBut to love Thee always.",
+  ]),
+
+   Hymn("NO 272", "272  TODAY, JEHOVAH bids me come", [
+    "1.	TODAY, JEHOVAH bids me come,\nTo receive His pardon and mercy;\nThrough His Son Jesus\nHe brought down to die;\nAnd ransom me from sin and death.",
+    "Refrain:\nYes I know only the blood of Jesus\nThat can wash my sins away\nThough my sins, my sins may be as scarlet\nHe’ll make them as white as snow.",
+    "2.	He speaks and I hear His sweet voice,\n To repentance and eternal life;\nO GOD! To Thee, I must return and live,\nFor no ‘ther hope or joy I have.",
+    "3.	I give my heart all to Thee, LORD,\nTo Thine open arms for Salvation,\nTo live without fear thro’ eternity\nIn Thy glorious kingdom on earth.",
+  ]),
+
+   Hymn("NO 273", "273  PRAISE to the Lord, my Redeemer, Son of Jehovah God", [
+    "1.	PRAISE to the Lord, my Redeemer, Son of Jehovah God,\nO my soul, praise him, for He is thy health and Salvation;\nCome, ye who hear, Brothers and Sisters, draw near,\nPraise Him in glad adoration.",
+    "2.	 Praise to the Lord, who o’er all things so wondrously reigneth;\n Shelter Thee under His wings, yea, so gently sustaineth;\nHast Thou not seen? All that is needful hath been\nGranted in what had been ordained.",
+    "3.	Praise to the Lord, who doth prosper thy work and defend thee.\nSurely His goodness and mercy here daily attend thee\nPonder anew, what the Almighty can do\nHe who with love doth befriend thee.",
+    "4.	Praise to the Lord, O let all that is in me adore Him,\nAll that hath life and breath come now with praises before Him\nLet the Amen, sound from His people again;\nAgain and again, adore Him.",
+  ]),
+
+   Hymn("NO 274", "274  PRAISE the LORD, His glories show-", [
+    "1.	PRAISE the LORD, His glories show-\nA-men, praise ye the LORD\nAll ye favoured ones below\nPraise ye the LORD, A-men\nPraise Him, praise Him ever more-\nA-men praise ye the LORD\nAll that hear and share His love-\nPraise ye the LORD, A-men.",
+    "2.	Praise the LORD His mercies trace-\nA-men, praise ye the LORD,\nPraise His providence and grace-\nPraise ye the LORD, A-men\nAll that He for men hath done-\nPraise ye the LORD A-men\nAll He sends us through His Son\nA-men praise ye the LORD.",
+    "3.	Strings and voices, hands and hearts-\nPraise ye the LORD A-men\nIn His great praise bear your part-\nA-men praise ye the LORD\nAll that breathe, your LORD adore-\nPraise ye the LORD A-men\nPraise Him, praise Him ever more-\nA-men praise ye the LORD.",
+    "4.	All ye people here on earth-\nPraise ye the LORD A-men\nTell His wonders, sing His worth-\nA-men praise ye the LORD\nAge to age, and shore to shore-\nA-men praise ye the LORD\nPraise Him, praise Him ever more\nA-men praise ye the LORD.",
+  ]),
+
+   Hymn("NO 275", "275  SING to God a song of praise", [
+    "1.	SING to God a song of praise\nAnd Jesus who now reigns\nAll ye ransomed ones below\nSing, Sing- now and- re-joice\nHe lives fore’er to bestow  \nHis- blessings from above\nGlo-ry and praises to Christ\nOur King and Re-deem-er",
+    "2.	Christians on this happy day\nPraise ye the Lord A-men\nHaste with joy your vows you pay-\nAt the feet of the Lamb\nOffer now your thanks and praise\nTo the Lamb who now reigns\nWho is firstborn from the dead\nHea-ven-ly crowned with pow’r.",
+    "3.	He now sits at God’s right hand\nIn Mount Zion a-bove\nAnd now rules in equity\nAs the King of Sa-lem\nTherefore let us praise His Name\nWith joy-ful psalms and hymns\nAll pow’rs now belongs to Him\nBoth- in heaven and earth.",
+    "4.	Awake my soul with gladness-\nTo Jesus  Christ the Lamb\nMy heart is free no more fear-\nI will praise Thee my Lord\nAnd hail Thee, O, King of kings \nPraise to the Lord of Host\nGlo-ry and praises to Christ\nSon of JEHOVAH GOD.",
+    "5.	Arise, children of the Lord\nSing, re-joice and a-dore\nChrist who reigns and rules in peace-\nO, sing now and re-joice \n   There is hope and salvation\nFor all those who trust Him\nSing Oh sing and bless His Name\nPraise ye the Lord Amen.",
+  ]),
+
+   Hymn("NO 276", "276  PRAISE JEHOVAH our God", [
+    "1.	PRAISE JEHOVAH our God\nCreator of mankind\nWe bow and worship Thee\nForever and ever.",
+    "2.	Praise JEHOVAH our God\nGreat I AM, GOD of love\nALMIGHTY GOD, we praise\n Thee “THE ANCIENT OF DAY”.",
+    "3.	Hail JEHOVAH our God\nA friend of Abraham\nWhom Logos appeared to\nAs King Melshizedek.",
+    "4.	Who’s King Melchizedek?\nHe is the Priest of God;\nWho came to earth as Christ,\nAnd redeemed us from sin.",
+    "5.	Praise God who reign above\nWho keep His courts below\nWhose robe is the great light\nWe sing loud of Thy grace.",
+    "6.	Holy, Holy, Holy\nMerciful and Mighty\nAll Thy works shall praise Thee\nForever and ever.",
+  ]),
+
+   Hymn("NO 277", "277  SING the Kingdom joyful news", [
+    "1.	SING the Kingdom joyful news\nOf Salvation\nJoyful news so free to all\nThrough Christ Jesus\nLet’s declare it far and wide\nTo all mankind\nJoyful news so free to all\nThrough Christ Jesus.",
+    "2.	Ye pris’ners of hope rejoice\nRejoice and sing,\nBehold the presence of Christ!\nShall set you free\nSing joyful songs to our King\nWho died for thee\nPraise Him children of the earth\nChrist has made it.",
+    "3.	All unite and sing with joy\nOf Christ great love\nGracious love He’s sheared to all\nOn mount Cal-vary\nTrust in Jesus and be free\nFrom sin and death\nYe shall indeed all be saved\nFor ever more.",
+    "4.	Help us Lord to reach the land\nFull of safety\nWhere no grief nor death abides\nBut peace and joy\nWhere love of Christ do abound\nWith joy around\nHow glorious this paradise\n‘Tis forever.",
+  ]),
+
+   Hymn("NO 278", "278  REJOICE! Our Lord is King!", [
+    "1.	REJOICE! Our Lord is King!\nAdore the Prince of Peace\nOh men give thanks and sing,\nAnd praise Him evermore\nLift up your heart, lift up your voice;\nRejoice, again I say, rejoice.",
+    "2. 	Jesus, the Saviour reigns,\nSon of JEEHOVAH GOD,\nWho came to set us free,\nNow takes His seat above;\nLift up your heart, lift up your voice;\nRejoice, again I say, rejoice.",
+    "3.	His Kingdom cannot fail;\nHe rules o’er earth and heav’n\nThe keys of death and hell\nAre to our Christ been giv’n\nLift up your heart, lift up your voice;\nRejoice, again I say, rejoice.",
+    "4.	He sits at God’s right hand\nTill all his foes submitted,\nAnd bowed to His command,\nAnd fall beneath His feet;\nLift up your heart, lift up your voice;\nRejoice, again I say, rejoice.",
+    "5.	Rejoice in glorious hope\nJesus, the King has come,\nTo take you to Himself\nIn His kingdom on earth,\nLift up your heart, lift up your voice,\nRejoice, again I say, rejoice.",
+  ]),
+
+   Hymn("NO 279", "279  AFTER this I beheld a great multitude", [
+    "1.	AFTER this I beheld a great multitude\nWhich no man would number in all nations\nStood before the throne, and before the great Lamb\nClothed with white robes and palms in all their hands.",
+    "2.	They stood round the throne, and fell on their faces,\nCried with a loud voice “Salvation to our God”\nAmen; blessing, glory, wisdom and honour\nPow’r and might, be unto our God for ever.",
+    "3.	Which and from whence are these arrayed with white robes?\nAll these came out of the great tribulation\nAnd have washed their robes and made them pure and white\nIn the blood of the great Lamb, who shall lead them.",
+    "(May be used as succeeding part (sequel) after Exhortation).",
+  ]),
+
+   Hymn("NO 280", "280  FLEE into the kingdom of God!", [
+    "1.	FLEE into the kingdom of God!\nSing praises of Him who was slain,\nWho shed His blood to redeem us\nOh sing His praise with thanks!",
+    "Refrain:\nO give Christ Jesus all your heart!\nGive Him your hands, brethren in Christ\nHe’s come to set His Kingdom here\nTo make the captives free.",
+    "2.	Now sing praises of Christ our king,\nWho reigns eternally in pow’r\nBehold Him at your door knocking\nTo restore you, His joy.",
+    "3.	He’s come to dwell among sinners\nTo make them free indeed in truth\nAnd lead them to the promised land-\nWhere death no more abides.",
+    "4.	Rejoice, ye children of God by faith\nGive thanks and praises to the  Lord;\nWho’s come to take you to Himself\nIn His Kingdom on earth.",
+  ]),
+
+   Hymn("NO 281", "281  THE foundation of our Lord God standeth sure", [
+    "1.	THE foundation of our Lord God standeth sure\nWhat our Lord God hath planted, it standeth sure\nThe foundation of our God standeth sure fore’er\nIt brings peace to all the faithful ones of God.",
+    "2.	Our God’s “Mountain” has come to stay forever\n‘Cause it is a “Stronghold” that can’t be removed\nFormed by JEHOVAH GOD, thro’ His ‘nointed saints\nThe foundation of God standeth fore’er.",
+    "3.	Soon this wicked profane world shall pass away\nBut the kingdom of our God, it standeth sure\nChrist the Chief Corner Stone reigneth sure fore’er\nHe has come to reign and guide His faithful ones.",
+    "4.	When this wicked evil world has passed away\nSatan and his angles shall have been destroyed\nWe shall enter into the joy of our Lord\nWhat a joyful moment of peace and gladness.",
+    "5.	What a glorious hope we’ve found in Jesus Christ!\nO, brethren, let us now rejoice for ever \nFor now our salvation standeth sure fore’er\nGlory be to our God and His Son Jesus.",
+  ]),
+
+   Hymn("NO 282", "282  JESUS my Saviour, is all things to me;", [
+    "1.	JESUS my Saviour, is all things to me;\nOh, what a wonderful Saviour is He! \nGuiding, protecting o’er life’s trouble sea,\nMighty, Deliv’rer Jesus for me!",
+    "Refrain:\nJesus for me! Jesus for me!\nAll the time, ev’ry where, Jesus for me.",
+    "2.	Jesus in sickness, and Jesus in health\nJesus in poverty, comfort or wealth, \nSunshine or tempest, whatever it be,\nHe is my safety, Jesus for me!",
+    "3.	He is my Refuge, my Rock and my Tower\nHe is my fortress, my strength and my pow’r,\nLife everlasting, my Saviour is He,\nBlessed Redeemer, Jesus for me!",
+    "4.	He is my Prophet, my Priest and my King;\nHe is my bread of life, fountain and spring;\nBright Sun of Righteousness, my Star of Hope;\nHorn of Salvation, Jesus for me!",
+    "5.	Jesus in sorrow, in joy or in pain;\nJesus my treasure, in loss or in gain;\nConstant companion where’er I may be,\nLiving or dying, Jesus for me!.",
+  ]),
+
+   Hymn("NO 283", "283  HOW sweet it is to dwell in Christ", [
+    "1.	HOW sweet it is to dwell in Christ,\nFor those who love to learn the truth,\nBrethren, we’ve come to love His ways\nTo dwell in Christ the Prince of Peace.",
+    "Refrain:\nO! What a life we have in Christ\nTo dwell in Him the Prince of Peace\nThe Counselor and glorious Prince\nWho forever and ever reigns.",
+    "2.	There is a home of perfect love\nWhere Christ everlastingly dwells;\nFor those who love to dwell in Him\nShall find eternal rest in Him.",
+    "3.	The Kingdom of our God has come:\nTo make us free and to bless us.\nAnd now, Jesus our Saviour reigns\nIn the Kingdom of God of peace.",
+    "4.	When we shall reach the promised land,\nThere we shall dwell in perfect peace\nThe peace that none beside our God,\nCan give those who survive by grace.",
+  ]),
+
+   Hymn("NO 284", "284  COURAGE, brethren! And do not faint", [
+    "1.	COURAGE, brethren! And do not faint,\nThough satan thy path may face\nThere is God light to guide thy pace\nSince God’s will you choose to do.",
+    "2.	Though the way be far and narrow,\nAnd the foes may try to hurt,\nMarch on bravely heroes of Christ,\nSince God’s will you choose to do.",
+    "3.	Falsehood and filthy acts forsake,\nGodless ways and lusts deny,\nHave hope and don’t waver in faith\nSince God’s will you choose to do.",
+    "4.	Though friends will hate and will thee shun,\nAnd parents will thee deny,\nMurmur not, but look unto Christ;\nSince God’s will you choose to do.",
+    "5.	Be courageous, brethren in Christ,\nTrusting in His wondrous pow’r\nMarch on bravely, heroes of Christ\nFor to live in Christ is gain.",
+  ]),
+
+   Hymn("NO 284", "284  COURAGE, brethren; and do not faint", [
+    "1.	COURAGE, brethren; and do not faint,\nThough satan thy paths may face\nThere God’s light to guide thy pace\nSince God’s will you choose to do.",
+    "Refrain:\nBe courageous brethren in Christ.\nTrusting in His wondrous pow’r\nMarch on bravely, heroes of Christ,\nFor to live in Christ is gain.",
+    "2.	Though the way be far and narrow,\nAnd the foes may try to hurt,\nMarch on bravely, heroes of Christ\nSince God’s will you choose to do."
+    "3.	Falsehood and filthy acts forsake,\nGodless ways and lusts deny\nHave hope and don’t waver in faith\nSince God’s will you choose to do.",
+    "4.	Though friends will hate and will thee shun\nAnd parents will thee deny\nMurmur not, but look unto Christ\nSince God’s will you choose to do.",
+  ]),
+
+   Hymn("NO 284", "284  COURAGE, brethren! And do not faint", [
+    "1.	COURAGE, brethren! And do not faint,\nThough satan thy path may face\nThere is God’s light to guide thy pace\nSince God’s will you choose to do\nThough the way be far and narrow\nAnd the foes may try to hurt\nMarch on bravely, heroes of Christ\nSince God’s will you choose to do.",
+    "Refrain:\nBe courageous brethren in Christ\nTrusting in His wondrous power\nMarch on bravely, heroes of Christ\nFor to live in Christ is gain.",
+    "2.	Falsehood and filthy acts forsake,\nGodless ways and lusts deny\nHave hope and don’t waver in faith\nSince God’s will you choose to do\nThough friends will hate and will thee shun, \nAnd parents will thee deny,\nMurmur not, but look unto Christ\nSince God’s will you choose to do.",
+  ]),
+
+  Hymn("NO 285", "285 I must have Christ with me", [
+    "1.	I must have Christ with me\nFor I can’t walk alone\nI must feel His presence near me\nAnd feel His arms around me thrown\nMy soul shall fear no ill\nMy soul shall fear no ill.",
+    "Refrain:\nI’ll go where He sends me\nI will not, I will not murmur\nHis footsteps I will follow, still\nI’ll go where e-ver He leads me.",
+    "2.	I must have Christ with me\nMy faith O Lord make strong\nThou can whisper words of comfort\nThat no other man’s voice can speak\nMy soul shall fear no ill\nMy soul shall fear no ill.",
+    "3.	I must have Christ with me\nIn on-ward march of life\nThro’ the tempest and the sunshine\nThro’ the battle and through the strife\nMy soul shall fear no ill\nMy soul shall fear no ill.",
+    "4.	I must have Christ with me\nTo guide me on my way\nTo reach the new Jerusalem\nThe happy home for me on earth\nWhere, I’ll adore His name\nWith prai-ses all day long.",
+    "Refrain:\nThen shall my soul rejoice\nRejoice as a favoured Christian\nWho’ve pass through the battle and strife\nTo praise Jesus for ever more.",
+  ]),
+
+   Hymn("NO 286", "286  LORD, fill us with wisdom and pow’r", [
+    "1.	LORD, fill us with wisdom and pow’r,\nThat we may live in Thy true love,\nServing Thee Lord, a-right always.",
+    "Refrain:\nThis we ask-Lord\nThis we ask-Lord\nIn Jesus’ name.",
+    "2.	Lord, cleanse our heart from ev-‘ry sin\nAnd let Thy love so dwell within\nThat Thou may use our lips to win.",
+    "3.	As we for others intercede,\nLord, let Thy pow’r be felt indeed\nThat all be freed from satan’s hold.",
+    "4.	On all Thine children, grant us grace,\nThat each may live as Thou hast planned,\nTo spread the gospel message ‘round.",
+    "5.	The prayers that we’ve offered, Lord,\nIn faith according to Thy word,\nWe thank Thee, Father Thou hast heard.",
+    "Refrain:\nLord we thank Thee\nLord we thank Thee\nFather of grace.",
+  ]),
+
+   Hymn("NO 287", "287  THERE is friend for all God’s children", [
+    "1.	THERE is friend for all God’s children\nWhose name is Christ Jesus\n A friend that never changes,\nWhose love will never die;\nUnlike our friends by nature,\nWho changes with changing years,\nThis friend is always worthy \nThy precious name he bears.",
+    "2.	There’s a song for all God’s children\nA song about Jesus\nOur Savior and Redeemer\nWho died to save our souls\nAll around Him is pleasure\nIn Christ is Salvation\nOh come, all ye God’s children\nThat all may be your own.",
+    "3.	There’s a prize for all God’s children\nIn New Jerusalem\nAnd all who look to Jesus\nShall have it by and by\nA prize of brightest glory\nWhich He shall sure bestow\nOn all who love righteousness\nAnd walk with Him in peace.",
+    "4.	There’s a home for all God’s children\nIn God’s Kingdom on earth\nWhere Jesus reigns in glory\nA home of peace and joy\nNo paradise is like it\nNor can with it compare\nFor ev’ry one is joyful\nSinging to praise the Lord.",
+    "5.	Happy vest for righteous children\nIn the LORD’S Pa-ra-dise,\nFor those who fought and con-quer’d,\nWith faith and by God’s grace\nA rest from ev-’ry trouble\nFrom sin and dea-th free\nThere’s ev-ry righteous pilgrim\nShall rest epter-nal-ly.",
+  ]),
+
+   Hymn("NO 288", "288  GOD make my life a little light", [
+    "1.	GOD make my life a little light\nWithin the world to glow\nA little flame that burneth bright\nWhere-ever I may go.",
+    "2.	God make my life a little flow’r\nThat gives sweet smell to all,\nContent to bloom now and always\nAlthough the place be small.",
+    "3.	God make my life a little song \nThat comforteth the sad\nThat helpeth others to be strong\nAnd makes the singer glad.",
+    "4.	God make my life a little “staff”\nWhere on the weak may rest\nSo, that what health and strength I have\nMay serve my neighbours best.",
+    "5.	God make my life a little hymn\nOf tenderness of praise\nOf faith that ne’er waxeth dim\nIn all His wondrous ways.",
+  ]),
+
+   Hymn("NO 289", "289  JESUS loves me! This I know", [
+    "1.	JESUS loves me! This I know,\nFor the Bible tells me so;\nLittle ones to Him belong\nThey are weak but He is strong,",
+    "Refrain:\nYes Jesus love me  3x\nThe Bible tells me so.",
+    "2.	Jesus love me! He who died,\nTo redeem my soul from death\nHe has washed my sins away\nTo enter His Kingdom here.",
+    "3.	Jesus loves me! He will stay\nClose beside me all the way;\nI shall love Him all my life\n‘Cause He loves me this I know.\n
+    "4.	In assurance I’ll find rest\nTrusting Him I’m ever blest;\nSatan can’t harm me no more\nWhen I prove that Christ is mine.",
+  ]),
+
+   Hymn("NO 290", "290  AROUND the throne in God’s Kingdom", [
+    "1.	AROUND the throne in God’s Kingdom\nThousands of children stand;\nChildren whose sins are all for-giv’n\nA holy happy band.",
+    "Refrain:\nSinging! Glory, glory, glory!\nSinging! Glory, glory, glory!",
+    "2.	What brought them to this pa-ra-dise?\nA home so bright and fair\nWhere all is peace and joy and love;\n‘Cause they trust in Christ.",
+    "3.	Jesus the Saviour shed His blood\nTo wash away their sins;\nBath’d in that pure and precious blood\nBehold them white and clean.",
+    "4.	On earth they sought the Saviour’s grace,\nOn earth they love His name:\nSo now they see His blessed face,\nAnd stand before the Lamb.",
+  ]),
+
+   Hymn("NO 291", "291  WE are little children, very young indeed", [
+    "1.	WE are little children, very young indeed,\nBut the Saviour’s promise each of us may plead.",
+    "Refrain:\nIf we seek Him early, if we come today,\nWe can be His little friends, He has said we may.",
+    "2.	Little friends of Jesus, what a happy thought! \nWhat a precious promise in the Bible taught!",
+    "3.	Little friend of Jesus, walking by His side,\nWith His arm around us every step to guide.",
+    "4.	We must love dearly with a constant love,\nTo see Christ Jesus in God’s Kingdom on earth.",
+  ]),
+
+   Hymn("NO 292", "292  THE name of Jesus is so sweet", [
+    "1.	THE name of Jesus is so sweet\nI love its music to repeat;\nIt makes my joy full and complete\nThe precious name of Jesus Christ.",
+    "2.	I love the name of Him whose heart\nKnows all my griefs and bears a-part; \nWho bids all anxious fears depart-\nI love the name of Jesus Christ.",
+    "3.	That name I fondly love to hear,\nIt never fails my heart to cheer,\nIts music dries the fall-ing tear;\nExalt the name of Jesus Christ.",
+    "4.	No word of man can ever tell\nHow sweet the name I love so well\nOh, let His praises ever be!\nOh, praise the name of Jesus Christ.",
+  ]),
+
+   Hymn("NO 293", "293  HOW good is our Lord, Christ Jesus", [
+    "1.	HOW good is our Lord, Christ Jesus,\nThe faithful unchangeable friend;\nWhose love is as great as His pow’r,\nCame down my lost soul to redeem.",
+    "2.	‘Tis Jesus the first and the last,\nMy Savior and Redeemer;\nI will praise and worship Thee always\nSon of JEHOVAH for ever.",     
+    "3.	Thou great Shepherd of God’s children\nThe joy and de-sire of my heart\nFor closer communion I pray;\nOh Lord to reside where Thou art.",
+    "4.	Thy love for a sinner who’ve shown,\nThy passion and death on the tree;\nNow, my life, my all I have giv’n\nTo praise and worship Thee always.",
+    "5.	Thy mountain I want to abide,\nAnd never a moment depart,\nThe Salem land of pure delight\nWhere peace, joy and love reign always.",
+  ]),
+
+   Hymn("NO 294", "294  COURAGE, brethren! Do not stumble", [
+    "1.	COURAGE, brethren! Do not stumble\nThough the path be dark as night\nThere’s a star to guide the humble;\nTrust in God, and do the right.",
+    "2.	If the road be rough and dreary,\nAnd its end far out of sight;\nFoot it bravely! Strong or weary\nTrust in God, and do the right.",
+    "3.	Trust no lovely forms of passion,\nFriends may look like angles bright;\nTrust no princes, nor sons of men;\nTrust in God, and do the right.",
+    "4.	Some will hate thee, some will love thee,\nSome will flatter, some will slight;\nCease from man, and look above Thee;\nTrust in God, and do the right.",
+  ]),
+
+   Hymn("NO 295", "295  GOD shall keep us and shall lead us", [
+    "1.	GOD shall keep us and shall lead us,\nO what a joy to trace His course!\nWhen we shall be gathered brethren,\nIn His kingdom as God’s children.",
+    "Refrain:\nWhat a joy, what a love!\nLove, rest and joy and peaceful home!\nJEHOVAH GOD shall wipe away;\nWipe away all tears from our eyes,\nWhat a joy, what a love,\nWhen we shall be gathered brethren.",
+    "2.	Happy brethren in Christ Jesus\nWhat a grace to dwell in God’s light!\nWith thankfulness, faith, joy and love\nPraising JEHOVAH and Jesus.",
+    "3.	If our hearts delight in the LORD,\nLet us praise Him with one accord\nWhenever we gather brethren\nGive God your heart; Give God your hands!",
+    "4.	To GOD’S children, is Salvation\nO, what a joy to God’s nation!\nJEHOVAH GOD, deliver us;\nIn our journey to golden shore.",
+  ]),
+
+   Hymn("NO 296", "296  GIVE thanks and praises to ALMIGHTY", [
+    "1.	GIVE thanks and praises to ALMIGHTY\nJEHOVAH GOD ‘ANCIENT of DAYS’,\nGive thanks and praise our Redeemer, King,\nChrist Jesus, Prince of Peace.",
+    "Refrain:\nFor the beauty of God’s Holiness\nFor the beauty of His Holy word\nGive thanks and praises to Higher Pow’rs\nI AM and Christ Jesus.",
+    "2.	Our Redeemer Jesus is on earth\nTo judge the world in equity\nWhere two or three are gathered in truth\nThere’s is hope of life and peace.",
+    "Refrain:\nThere’s hope of life and peace, rest and joy\nFrom JEHOVAH through His only Son\nGive thanks and praises to Higher Pow’rs \nI AM and Christ Jesus.",
+    "3.	This message to this evil world\nWhere there’s no hope of life and peace,\nNor the truth of our JEHOVAH GOD\nAnd His Son Christ Jesus.",
+    "Refrain:\nHad JEHOVAH not left unto us\nA small remnant of the Anointed Saints\nLo! We should have all then been destroyed \nHail! Them in truth and love.",
+    "4.	Christ is the way, the truth and the life\nIn righteousness, He hast come down;\nTo judge this evil world of their deeds;\nAnd gather all His Own.",
+    "Refrain:\nWelcome! Jesus Rock of salvation\nTo gather Thy chosen ones by grace,\nInto Thy kingdom for ever more\nWhere they shall be with Thee.",
+  ]),
+
+   Hymn("NO 297", "297  SING forth and praise JE-HO-VAH, our GOD", [
+    "1.	SING forth and praise JE-HO-VAH, our GOD\nFor the victory is the LORD’S\nBro-thers and Sis-ters in Christ be glad;\nFor the vict’ry is the LORD’S.",
+    "Refrain:\nYes, for the vict’ry is the LORD’S\nRe-joice and praise\nJE-HO-VAH God\nRe-joice and praise the LORD GOD.",
+    "2.	Give thanks and praise to JE-HO-VAH our GOD,\nFor our vic-t’ry  o’er the foes\nMake known GOD’S vic-t’ry to the na-tions\nOf all peo-ple far and near.",
+    "Refrain:\nAnd warn them all to be god-ly\nAnd fear the LORD\nAnd Christ Je-sus\nAnd fear the LORD and Je-sus.",
+    "3.	Now sing and re-new thy vows to Them\nAnd pro-claim their vic-to-ry \nSing now with strength to re-new thy vows,\nIn Their service with great faith.",
+    "Refrain:\nHail JE-HO-VAH and Christ Je-sus\nFor our vic-t’ry\nO-ver the foes\nFor our vic-t’ry o’er the foes.",
+  ]),
+
+   Hymn("NO 298", "298  SING to the Lord a joyful song", [
+    "1.	SING to the Lord a joyful song,\nLift up your hearts, your voices praises;\nTo us His gracious gift belong,\nTo Him our songs of love and praise.",
+    "2.	For life and love, for rest and food,\nFor daily help, and nightly care,\nSing to the Lord, for He is good,\nAnd praise His name, for He’s our God.",
+    "3.	For strength to those who on Him wait\nHis truth to prove, His will to do,\nPraise ye our God, for He is great,\nTrust in His name, for it is true.",
+    "4.	For joys untold, that from above,\nCheer those who love His sweet employ,\nSing to our God, for He is love,\nExalt His name, for it is joy.",
+    "5.	For He is Lord of heav’n and earth,\nWhom angels serve and saints adore,\nWho came down to redeem us all,\nTo whom be praises forev’r more.",
+  ]),
+
+   Hymn("NO 299", "299  IN ev-‘ry thing you do or say, put God first", [
+    "1.	IN ev-‘ry thing you do or say, put God first;\nThough each new day brings strong trails, put God first\nJEHOVAH GOD see-th ev-rything you do,\nAs you run swift life’s race to the promised land.",
+    "2.	Put God first, tis He a-lone can hold you fast\nHe alone can guide your feet till storms are past;\nAnd lead you safely to Paradise at last;\nWhere love, peace, joy and rest doth reign for ever.",
+    "3.	When you are tempted to do wrong, put God first;\nIf sinful men around you throng, put God first;\nIt never pays the right to stray from His way,\nThough satan is vexed, seeking whom to devour.",
+    "4.	When sorrows wind blow a-round you, put God first;\nWhen in affliction and suff’ring, put God first;\nNe’er give up the battle, hard though it may be;\nPut your trust in the Lord, He is ever near.",
+  ]),
+
+   Hymn("NO 300", "300  WHEN troubles assail, seek Jesus", [
+    "1.	WHEN troubles assail, seek Jesus;\nAnd dangers frighten, seek Jesus;",
+    "Refrain:\nLet no fear change your trusting soul\n‘Cause when Christ pilots, all is well.",
+    "2.	When friends should all fail, seek Jesus;\nAnd all foes unite, seek Jesus;",
+    "3.	When in affliction, seek Jesus;\nWhen all hopes are lost, seek Jesus; ",
+    "4	When heavy laden, seek Jesus;\nAnd in temptations, seek Jesus;",
+    "5.	A place of refuge? Seek Jesus;\nSalvation your hope? seek Jesus;.",
   ]), 
 
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-  Hymn("NO 31", "", [
-    ".",
-  ]),
-  Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
+   Hymn("NO 301", "301  MAR-VEL-LOUS and great, O LORD are Thy works", [
+    "1.	MAR-VEL-LOUS and great, O LORD are Thy works\nGlo-rious is Thy hea-v’nly throne\nPer-fect are Thy ways, AL-MIGH-TY FA-THER\nAll the Saints shall praise Thy Name.",
+    "Refrain:\nThey shall praise Thee all the world a-round;\nSpread-ing the gospel of truth,\nHow mar-vel-lous and great, is Thy love, O LORD,\n All the earth shall praise Thy Name",
+    "2.	Thy jus-tice and love is to man bes-towed;\nTo all those who love Thy ways\nThose who love Thy ways, in truth are fa-voured\nBless-ings they will all en-joy.",
+    "Refrain:\nFor e-ver more, e-ver more in peace\nIn the King-dom of our God,\nThey shall praise Thee, praise Thee AL-MIGH-TY FA-THER\nIn Thy King-dom here on earth.",
+    "3.	Hea-ven is Thy throne, and earth Thy foot-stool\nHoly tem-ples Thou dwell-eth\nThy Ho-ly tem-ples are the ‘nointed ones;\nYou have chosen from the earth.",
+    "Refrain:\nTo preach the truth, and spread it to all\nTo all na-tions of the earth\nWe hon-our and es-teem Thy wis-dom and pow’r\nWe de-clare Thy won-drous works.",
   ]),
 
-   Hymn("NO 31", "", [
+   Hymn("NO 302", "302  GREAT is Thy faith-fulness, O GOD my Father", [
+    "1.	GREAT is Thy faith-fulness, O GOD my Father\nThere is no shadow of turn-ing with Thee;\nThou changest not Thy compassion, they fail not;\nAs Thou hast been, Thou for e-ver wilt be.",
+    "Refrain:\nGreat is Thy faith-ful-ness!\nGreat is Thy faith-ful-ness!\nMorning by morning new mer-cies I see;\nAll I have need for Thy hand doth pro-vide me;\nGreat is Thy faith-ful-ness, Lord unto me!.",
+    "2.	JEHOVAH, Almighty God o’er land and sea\nSun, moon and stars in their courses a-bove,\nJoin with all nature in manifold witness\nTo Thy great faith-ful-ness, mer-cy and love.",
+    "3.	Thy love O JEHOVAH is freely given\nThro’ Christ Jesus Thy ‘nly Begotten SON,\nThine heart O Lord is kind be-yond all measure;\nHow my sin, though red like crimson was cleansed",
+    "4.	I cannot doubt O LORD Thy ten-der mer-cies,\nIn all my life you’ve not left me a-lone;\nFeed me, feed me my LORD, with the liv-ing bread,\nI know Thou’ll pro-vide me till end of time.",
+    "5.	Every day Christ Jesus himself is near me,\nWith special mer-cy and care for each hour;\nAll my needs, all my wants he would take care of,\nTake my life, let it be, my Re-deem-er.",
+    "6.	Day after day, and with each pass-ing mo-ments\nYou give me strength to meet all my tri-als,\nI trust in Thee my Lord in Thine bes-tow-ment;\nI have no casue for doubt or a-ny fear.",
+    "7.	My strong sal-va-tion is Sun of Righ-teous-ness\nThere is no foe or terror I will fear\nThou art my light and help in tri-bu-la-tion;\nLord give me peace and joy, Father of all.",
+    "8.	I will not be dis-may’d what e’er betide me\nJEHOVAH and Christ will take care of me\nThey will hide me and give me grace of glo-ry;\nIn God’s kingdom on earth for e-ver more.",
+  ]),
+
+   Hymn("NO 303", "303  LORD, give Thine children a pure Christian home!", [
+    "1.	LORD, give Thine children a pure Christian home!\nA home where God’s word is loved and taught,\nA home where the LORD’s will is sought and made,\nA home crown’d with hap-pi-ness and peace.",
+    "Refrain:\nGive Thine children\nA Christian home of peace and joy\nGive Thine children\nA home where God’s will is loved and taught.",
+    "2.	LORD, give Thine children a pure Christian home!\nHome where the Father is true and strong\nA home that is free from the blight of wrong,\nHome that is joy-ous with songs of love.",
+
+3.	LORD, give Thine children a pure Christian home!
+Home where the mother is queen-ly quest,
+Striv-ing to show others Thy way is best,
+Home where the LORD is an honoured quest.
+4.	LORD, give Thine children a pure Christian home!   
+Home where children will be led to know
+JE-HO-VAH, the Cre-a-tor of good things
+And His Son Christ Jesus the Saviour.",
+  ]),
+   Hymn("NO 303", "", [
+    "1.	O LORD, give Thine children a pure Christian home!
+A home where God’s word is loved and taught,
+A home where the LORD’s will is sought and is made,
+A home crown’d with hap-pi-ness and peace.
+
+Refrain:
+   Give to Thine …….children Lord
+   A home where God’s word is loved and taught
+   Lord, give Thine children a home of peace and joy
+   A home crown’d with hap-pi-ness and peace.
+
+2.	LORD, give Thine children a pure Christian home!
+Home where the Father is true and strong
+A good home that is free from the blight of wrong 
+Home that is joy-ous with songs of love.
+
+3.	LORD, give Thine children a pure Christian home!
+Home where the mother is queen-ly quest,
+Striv-ing hard to show others Thy way is best
+Home where the LORD is an honoured quest.
+
+4.	LORD, give Thine children a pure Christian home!
+Home where children will be led to know
+JE-HO-VAH, the Cre-a-tor of all good things
+And His Son Christ Jesus the Saviour.",
+  ]),
+  Hymn("NO 303", "", [
+    " 1.       GIVE thine children O Lord, a pure Christian home   
+          A good home where God’s word is loved and is taught;
+          A home where the Lord’s will is sought and his made,
+          A Christian home crown’d with happiness and peace.
+
+
+ 2.      Give thine children O Lord, a pure Christian home
+A home where the father is true and his strong;
+A good home that is free from the blight of wrong,
+A home that is joyous, full with songs of love.
+
+ 3.       Give thine children O Lord, a pure Christian home
+A home where the mother is so queenly quest
+Striving to show others, the way that is best,
+A home where JEHOVAH is an honoured guest
+
+ 4.      Give thine children O Lord, a pure Christian home
+Home where little children will be led to know
+ALMIGHTY JEHOVAH, creator of good thing,
+And His Son Christ Jesus, our Saviour and King.
+
+ 5.      Grant them joy which brightens all earthly sorrows
+Grant them the peace which cleanse all pain, grief, and strife
+And to life’s day the glorious unknown morrow,
+That the-irs may be that which knows no ending. Amen.",
+  ]),
+  Hymn("NO 304", "", [
+    "1.	THERE’S not a friend like the lov-ing Jesus,
+No, not one! No, not one!
+None else could heal all our souls’ diseases, 
+No, not one! No, not one!
+
+Refrain:
+   Jesus knows all about our struggles,
+   He will guide till the day is done
+   There’s not a friend like the lov-ing Jesus
+   No, not one! No, not one!
+
+2.	No friend like Him is so high and holy
+No, not one! No, not one!
+And yet no friend is so meek and lowly
+No, not one! No, not one!
+
+3.	There’s not an hour that His is not near us
+No, not one! No, not one!
+No night so dark but his love can cheer us,
+No, not one! No, not one!
+4.	Was e’er a gift like the Saviour given?
+No, not one! No, not one!
+Who else can give rest to all the righteous?
+No, not one! No, not one!",
+  ]),
+  Hymn("NO 305", "", [
+    "1.	MY hope is built on nothing else
+Than Jesus and His righteous way
+I dare not trust the worldly way
+But only lean on Jesus’ name.
+
+Refrain:
+   On Christ, the solid Rock, I stand
+   All other ground is sinking sand 
+   All other ground is sinking sand
+
+
+2.	When darkness veils his lovely face,
+I rest on His unchanging grace;
+In every high and stormy gale
+My anchor holds within the veil.
+
+3.	His oath, His covenant of blood,
+Support me in the whelming flood,
+When all around my soul gives way,
+He then is all my hope and strength.
+
+4.	When God’s Kingdom on earth shall be
+Oh, may I then in Him be found;
+Dressed in His righteousness and love
+Faultless to stand before the throne.",
+  ]),
+   Hymn("NO 306", "", [
+    "1.	MY be-lov-ed and dear bro-ther in Christ,
+ 	Lay down in death till re-sur-rec-tion day,
+When Christ shall raise thee to e-ter-nal life,
+In His King-dom, on earth.
+
+2.	Though calm in slumber as an infant’s sleep;
+It is a per-fect rest, se-cure and deep-
+Till we will meet on Re-sur-rec-tion Day,
+In God’s King-dom, on earth.
+
+3.	My dear bro-ther, who from his la-bours rest,
+Who by his faith, be-fore the world con-fess’d
+Thy name, O Je-su, raise him by thy grace,
+In Thy king-dom, on earth.
+
+4.	Thou art his Rock, his For-tress, and his Might,
+Thou, Lord, his Captain in his well-fought fight
+Re-ward him Jesu, with the prize of life,
+In Thy king-dom, on earth.
+
+5.	May those he left be-hind be all faith-ful,
+To serve Thee as he did to live in Christ
+Help us O Jesu, to struggle and be;
+In Thy king-dom, on earth.
+
+6.	We thank thee Lord, for our bro-ther in Christ,
+In right-eous-ness we knew he served Thee Lord ,
+Pro-claim-ing thy true gos-pel to the world
+With cour-age and with might.",
+  ]),
+  Hymn("NO 306", "", [
+    "1.	SLEEP on be-lov-ed, dear brother in Christ,
+Lay down in death till Resurrection Day
+When Christ shall raise thee to His glorious side
+        In His kingdom, here on this earth.
+
+2.	Though calm in thy slumber as an infant’s sleep;
+ It is a perfect rest, secure and deep-
+Till we will meet on Resurrection Day
+        In the kingdom of God, on earth.
+
+3.	For dear brother, who from his labours rest,
+Who by his faith, before the world confess’d
+Thy name O Jesu, raise him by Thy grace,
+        In Thy Kingdom, here on this earth.
+4.	Thou art his Rock, his Fortress, and his Might,
+Thou, Lord, his  captain in his well-fought fight
+Reward him Jesu, with prize of life
+        In Thy kingdom, here on this earth.
+5.	May those he left behind be all faithful
+To serve Thee as he did to live in Christ
+Help us O Jesu, to struggle and be;
+        In Thy kingdom, here on this earth.
+
+6.	We thank Thee Lord for our brother in Christ,
+In righteousness we knew he served Thee Lord,
+Proclaiming Thy true gospel to the world,
+With all courage and with all might.",
+  ]),
+   Hymn("NO 307", "", [
+    "1.	A-SLEEP in Jesus! Blessed sleep!
+From which none ever wake to weep
+A calm and deep sleep undisturbed
+Un-broken by the last of foes.
+
+2.	A-sleep in Jesus! Oh, how sweet!
+To be for such a slumber meet!
+With holy confidence to sing,
+That death hath lost its venom sting.
+
+3.	A-sleep in Jesus! Peaceful rest!
+Whose waking is supremely blest;
+No fear, no woe, shall dim the hour,
+That manifest the Saviour’s pow’r.
+
+4.	A-sleep in Jesus! Oh, for me
+May such a beautiful refuge be!
+Securely shall my body lie
+Until the Res-ur-rec-tion Day.",
+  ]),
+   Hymn("NO 308", "", [
+    "1.	WE shall sleep, but not for ever,
+There will be a glorious dawn!
+We shall meet to part no never
+On the Resurrection Day!
+From the deepest caves of ocean,
+From the desert and the plain
+From the valley and the mountain
+Countless throng shall rise again
+
+2.	We shall sleep, but not forever
+In the lone and silent grave
+Blessed be the Lord that taketh
+Blessed be the Lord that gave 
+In the bright, eternal city
+Death can never, never come!
+In his paradise here on earth
+Where we pray to be in joy.
+
+3.	One by one let’s come to Jesus,
+As we heed His gentle voice,
+Let’s continue His way with faith,
+And live in Him if we die
+For we shall sleep, not for ever
+There will be a glorious dawn!
+We shall meet to part no never
+On the Resurrection Day.",
+  ]),
+   Hymn("NO 309", "", [
+    "1.	IT is a thing most wonderful,
+Almost too wonderful to be
+That God’s own Son should come from heav’n,
+And die to save a child like me.
+
+2.	And yet I know that it is true;
+He chose a poor and humble lot
+And wept, and toil’d, and mourn’d and died,
+For love of those who loved him not.
+
+3.	I can not tell how He could love,
+A child so weak and full of sin;
+His love must be most wonderful
+If he could die, my love to win.
+
+
+4.	It is most wonderful to know
+His love for me so free and sure
+But ‘tis more wonderful to see
+My love for him so faint and poor.
+
+
+5.	And yet I want to love Thee Lord;
+Oh! light the flame within my heart
+And I will love Thee more and more,
+Until I see Thee as Thou art.",
+  ]),
+   Hymn("NO 310", "", [
+    "1.	RISE in the strength of God
+And face life’s uphill way
+The steps which other feet have trod
+       You tread to-day
+
+2.	Press onward, upward still,
+To win your way at last
+With better hope and stronger will
+       Than in the past.
+
+3. 	Life’s works more nobly wrought,
+Life’s race more bravely run
+Life’s daily conflict faced and fought,
+       Than in the past.",
+  ]),
+   Hymn("NO 311", "", [
+    "1.	ABIDE with me, fast falls the eventide;
+The darkness deepens, Lord with me abide;
+When other helpers fail, and comforts flee,
+Help of the helpless, O abide with me.
+
+2.	Swift to its close ebbs out life’s little day;
+Earth’s joys grow dim, its glories pass away;
+Change and decay in all around I see;
+O thou who changest not, abide with me.
+
+3.	I need thy presence every passing hour;
+What but Thy grace can foil the tempter’s pow’r?
+Who like thyself my guide and stay can be?
+Through cloud and sunshine, Lord, abide with me.
+
+
+4.	I fear no foe with thee at hand to care
+Ills have to weight, and tears no bitterness;
+Where is death sting? Where grave, the vic-to-ry?
+I triumph still, if thou abide with me.
+
+5.	Keep thou thy light before my closing eyes;
+Shine through the gloom, and hold me to thyself
+Guide me O Lord, while earth’s rain shadows flee;
+In life, in death, O Lord, abide with me.",
+  ]),
+   Hymn("NO 312", "", [
+    "1.	MASTER, the tempest is raging!
+The billows are tossing high!
+The sky is o’er shadowed with blackness,
+No shelter or help is nigh:
+“Carest Thou not that we perish?
+How canst Thou lie a-sleep
+When each moment so madly is threat’ning,
+A grave in the an-gry deep?
+
+Refrain:
+   “The winds and the waves shall obey my will,
+   Peace…………………..be still……………….……….
+   Whether the wrath of the storm-tossed sea,
+   Or demon, or men, or what ever it be,
+   No waters can swallow the ship where lies,
+   The Master of ocean, and earth and skies;
+   They all shall sweetly obey my will;
+   Peace be still! Peace be still!
+   They all shall sweetly obey my will;
+   Peace, peace, be still.
+
+
+
+2.	Master, with anguish of spirit,
+I bow in my grief today;
+The depths of my sad heart are troubled,
+Oh, wake and save, I pray!
+Torrent of sin and of anguish,
+Sweep o’er my sinking soul;
+And I perish! I perish! Dear Master
+Oh, hasten, and take control.
+
+3.	Master, the terror is over,
+The elements sweetly rest;
+Earth’s sun in the calm is mirrored
+Help me O Lord, help my soul;
+Linger, O blessed Redeemer
+Leave me alone no more;
+And with joy I shall make the blest harbour,
+And rest on the blissful shore.",
+  ]),
+
+   Hymn("NO 313", "", [
+    "1.	THE name of Christ is so sweet,
+His song I do love to sing
+‘Cause it makes my joy so full- and complete,
+I love Christ who knows my heart;
+All my griefs and bears a part-
+He bids all my anxious fears- to depart.
+
+Refrain:
+   Christ Jesus………………. How sweet thy name………………..…
+Parts:			Christ Jesus…………………………..…. Precious name
+   Thou who came down to set me free from sins;
+Parts:		  from my sins
+   All ye people praise His name, because He’s the same al-ways
+   Thou art worthy to be praised for ever (O my Lord)
+
+2.	His name I love to hear ‘lways,
+Never fails my heart to cheer,
+It’s music makes so glad and complete
+Words of men can never tell,
+ 	How sweet I love His name well-
+Let His praises ever swell-praise His name.      
+3.	Worthy, worthy is the Lamb,
+	Worthy, worthy is the Lamb,
+Sing, my soul and praise the Lord-King of kings,
+Thou Great Guardian of my soul,
+Be near me now to serve Thee-
+Till I gain the prize of life-through the Lamb.
+
+4.	Now revive Thy work O Lord,
+By Thy pow-er and Thy word
+So that Thy truth may be known all around
+Give me wisdom and thy grace;
+To uphold Thy precious work-
+That I your child may be saved for ever.",
+  ]),
+   Hymn("NO 314", "", [
+    "THIS is God’s Kingdom Mission,
+Standing on Jesus Thy Rock,
+Founded by God through Gideon Urhobo
+The Anointed Saint of God,
+Who preached good tiding of God’s Kingdom free to all;
+Let’s proclaim His wondrous works,
+To the world’s remotest parts,
+Hail JEHOVAH and Christ!
+Unto them salvation belongs,
+Laud and  mag-ni-fy to all-
+God’s Kingdom Mission has come to stay
+Come and join God’s Kingdom Mission.",
+  ]),
+   Hymn("NO 315", "", [
+    "1.	O LORD my God, I want to be Thine
+Come and live in my heart ever more
+Cast out all evils and make me whole;
+Wash me Lord to be as white as snow
+Wash me Lord, oh, wash me Lord,
+To become as white as snow.
+
+
+
+Refrain:
+   O LORD, I want to be perfectly whole
+   As Thou live in my heart evermore;
+   Wash me and I shall be white as snow,
+   White as snow, white as snow, I pray
+
+2.	Let nothing un-holy be in me,
+Extract all stains, lusts and fear in me
+I thank Thee Lord for this blest cleansing
+With Thine own precious blood on the tree,
+Extract all stains, lusts and fear
+Let nothing un-holy stay.
+
+3.	LORD, look down from Thy throne in heaven
+Help me to make a true sac-ri-fice;
+I give up myself and all I know
+To make me become as white as snow
+Wash me Lord, oh, wash me Lord
+To become as white as snow.
+
+4.	LORD, Thou see-st I patiently wait;
+Cre-ate now within me a new heart;
+To those who sought Thee, Thou have mercy,
+May Thy mercy lead and see me through,
+Though great my tres-passes are
+Wash me to be white as snow.",
+  ]),
+   Hymn("NO 316", "", [
+    "1.	HERE in Thy name we are gathered
+Come and revive us, O Lord!
+Send us the showers of blessing;
+Thou hast de-clared in Thy word.
+
+Refrain:
+   O JE-HO-VAH, hear us!
+   Graciously hear us, we pray,
+   Pour from Thy windows upon us
+   Showers of blessings today.
+
+
+2. 	O that the showers of blessing,
+Now on your souls may descend!
+While at the foot-stool of mercy
+Pleading Thy promise we bend.
+
+3.	There shall be showers of blessing
+Promise that never can fail;
+Thou wilt regard our pe-ti-tion
+Surely our faith will prevail
+
+4.	Showers of blessing, we need them,
+Showers of blessing from Thee
+Showers of blessing, O grant them!
+Thine all the glory shall be.",
+  ]),
+   Hymn("NO 317", "", [
+    "1.	MY song shall be of Jesus,
+His mercy crowns my days
+He fills my cup with blessings
+And tunes my heart to praise;
+My song shall be of Jesus,
+The precious Lamb of God,
+Who gave Himself by ransom,
+And bought me with His blood.
+
+2.	My song shall be of Jesus,
+When sitting at His feet
+I’ll call to mind His goodness,
+In mediation sweet;
+My song shall be of Jesus,
+What ever ill betide; 
+I’ll sing the grace that saves me,
+And keeps me at His side.
+
+3.	My song shall be of Jesus
+While pressing on my way,
+To reach the blissful region
+Of pure and perfect day
+And when my soul shall enter
+The gate of His Kingdom
+A song of praise to Jesus
+I’ll sing for ever there.",
+  ]),
+   Hymn("NO 318", "", [
+    "1.	STANDING on the promises of Christ our King,
+Thro’ e-ter-nal a-ges His praises ring;
+Glory in the highest I will shout and sing
+ Standing on the promises of God.   
+Refrain:
+   Stand……………ing, stand…………ing,
+Parts:	   Standing on the promises of God my Father
+   Stand………..…ing, stand………….ing,
+Parts:	   I’m standing on the promises of God.
+
+2.	Standing on the promises that cannot fail,
+When the howling storm of doubt and fear assail,
+By the living word of God I shall prevail,
+Standing on the promises of God. 
+
+3.	Standing on the promises I now can see,
+Perfect, present, cleansing of the blood for me,
+Standing in the liberty when Christ makes free,
+Standing on the promises of God.",
+  ]),
+   Hymn("NO 319", "", [
+    "1.	IS there an-yone who can help us,
+One who un-der-stands our heart de-sires
+When the thorns of life have pierced them hard,
+Who can sym-pa-thise when in great grief,
+Who in His love gives bless-ings we need,
+When sa-tan’s af-flic-tions have pressed us?
+We need a friend to help us sur-vive,
+That friend is Je-sus, bless-ed Sa-viour.
+
+2.	Is there an-yone who can help us,
+Who can give a sin-ner a bright hope,
+When his heart is bur-den’d down with pain,
+Who can af-ford a per-fect release?
+The best friend to have, is the Sa-viour,
+When the cares of life up-on you roll?
+Christ Je-sus will heal your wound-ed heart,
+And will give thee peace, strength and His grace.
+3.	Is there an-yone who can help us,
+When the end is draw-ing near each day,
+Who will now light the way be-fore us;
+And take us safely o-ver the tide?
+With Je-sus, the Way, the Truth, and Life,
+We don’t e-ver need to shrink or fear;
+Je-sus our Sa-viour our strength and shield
+We shall praise for e-ver and e-ver.",
+  ]),
+   Hymn("NO 320", "", [
+    "1.	I’VE a message from the Lord,
+Hallelujah!
+The message unto you I’ll give;
+‘Tis recorded in His word
+Hallelujah!
+It is only that you look and live.
+
+Refrain:
+	   Look and live………………
+		   My brother, live
+	    Look to Jesus now and live
+	    ‘tis recorded in His word,
+	    Halleluyah
+	    It is only that you look and live.
+
+2.	I’ve a message full of love
+Hallelujah!
+A message, O my friend, for you;
+‘Tis a message from a-bove,
+Hallelujah!
+Jesus said it, and I know ‘tis true.
+
+3.	Life is of-fered unto you,
+Hallelujah!
+E-ter-nal life your soul shall have;
+If you’ll only look to Him,
+Hallelujah!
+Look to Jesus, who alone can save.",
+  ]),
+   Hymn("NO 321", "", [
+    "1. Je-sus, Thy yoke I have chosen,
+In Thy Kingdom to find rest;
+And since the world I’ve forsaken,
+Make this yoke easy to bear.
+Refrain:
+	   Jesus my Lord, Saviour Divine,
+	   Send Thy light and truth to shine
+	   To Thee, I’ve come with thankful praise
+	   To keep Thy precepts with joy
+	   
+    2. Lord, Thy burden I have chosen
+    Hoping in Thy sure reward
+    My godly de-si-re, O bless
+    That I may dwell in Thy grace
+
+    3. Though friends may scorn and may shun me,
+    Yet Lord, I ‘ll rejoice in Thee.
+    To do Thy work to Thy glory,
+    To obtain e-ter-nal bliss. 
+
+     4. Lord, to trust in Thy Name is life
+     Since Thou art the Prince of Life,
+     Leave me not, O faithful Saviour
+And Thy yoke I’ll bear with joy.",
+  ]),
+   Hymn("NO 322", "", [
     ".",
   ]),
-   Hymn("NO 31", "", [
+   Hymn("NO 323", "", [
     ".",
   ]),
-   Hymn("NO 31", "", [
+   Hymn("NO 324", "", [
     ".",
   ]),
-   Hymn("NO 31", "", [
+   Hymn("NO 325", "", [
     ".",
   ]),
-   Hymn("NO 31", "", [
+   Hymn("NO 326", "", [
     ".",
   ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
+   Hymn("NO 327", "", [
     ".",
   ]),
    Hymn("NO 31", "", [
