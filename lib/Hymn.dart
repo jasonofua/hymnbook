@@ -1428,8 +1428,8 @@ final List<Hymn> hymns = [
   Hymn("NO 196", "196 JEHOVAH GOD of grace, we come before Thee", [
     "1.	JEHOVAH GOD of grace, we come before Thee,\nTo celebrate the Feast of Christ Jesus;\nThat brings deliverance and peace to God‘s people\nOrdained by Thee for all in this last days.",
     "Refrain:\nGrant us peace, joy and hope,\nIn our Saviour, Jesus\nThe only true perfect Tabernacle,\nSend us Thy precious “rain” through Thy Son Jesus\nFrom year to year in peace and happiness",
-    "2.	Help us O God of grace, now that we’ve known Thee,\nGuard thou our ways, our thoughts, our tongues and hearts,\nThat we Thy kindness and mercies, Lord enjoy\nEach time we celebrate the Feast of Christ."
-        "3.	With thanks we do rejoice as happy Christians,\nWith one accord in Christ praising Thee, Lord;\nTo keep Thy laws, pay our vows and offerings\nIn the LORD’S great Feast of Tabernacles.",
+    "2.	Help us O God of grace, now that we’ve known Thee,\nGuard thou our ways, our thoughts, our tongues and hearts,\nThat we Thy kindness and mercies, Lord enjoy\nEach time we celebrate the Feast of Christ.",
+    "3.	With thanks we do rejoice as happy Christians,\nWith one accord in Christ praising Thee, Lord;\nTo keep Thy laws, pay our vows and offerings\nIn the LORD’S great Feast of Tabernacles.",
     "4.	How lovely are Thy Tabernacles O Lord;\n  Our heart longeth and yea even cleaveth,\nTo praise Thee Lord and keep Thy testimonies,\nIn perfect peace and love for ever more.",
   ]),
 
@@ -2420,255 +2420,125 @@ final List<Hymn> hymns = [
     "4. Lord, to trust in Thy Name is life\nSince Thou art the Prince of Life,\nLeave me not, O faithful Saviour\nAnd Thy yoke I’ll bear with joy.",
   ]),
 
-   Hymn("NO 322", "", [
-    ".",
+   Hymn("", "PSALM 1", [
+    "1. BLESS-ED is the man that/walk/eth/not: in the coun/sel/of/the/un/godly.",
+    "2. Nor standeth in the way/of/sin/ners: nor sitteth in the/seat/of/the/scorn/ful.",
+    "3. But his delight is in the law/of/the/LORD; And in His law doth he/ me.ditate/day/and/night.",
+    "4. And he shall be like a tree, planted by the/rivers/of/water: that bringeth forth/his/fruit/in/his/season.",
+    "5. His leaf also shall/not/wi/ther; and whatsoever/he/doeth/shall/prosper.",
+    "6. The ungodly/are/not/so: but are like a chaff which/the/wind/driveth/a/way.",
+    "7. Therefore, the ungodly shall not stand/in/the/judgment: nor sinners in the con/gre.ga/tion/of/the/righteous.",
+    "8. For the LORD knoweth the way/of/the/righteous: but the way of the/un/god/ly/shall/perish.",
   ]),
-   Hymn("NO 323", "", [
-    ".",
+   Hymn("", "PSALM 23", [
+    "1. The LORD/is my/shepherd; I/shall-/not-/want.",
+    "2. He maketh me to lie down in/green/pastures: He leadeth me be-/side/the still-/wat.ers.",
+    "3. He resto-/reth/my soul: He leadeth me in the paths of righteousness/for/His name's/sake.",
+    "4. Yea, though I walk through the valley of the shadow of death, I will/fear no/evil: for Thou art with me, Thy rod and thy/staff/they/comfort/me.",
+    "5. Thou preparest a table before me in the presence of mine/e/ne/mies: thou anointest my head with oil my/cup/run-neth/over.",
+    "6. Surely goodness and mercy shall follow me: all the days of my/life: and I will dwell in the house/of the/LORD for/ever.",
   ]),
-   Hymn("NO 324", "", [
-    ".",
+   Hymn("", "PSALM 24", [
+    "1. The earth is the LORD'S and/the fullness/there/of: The world/and/they that dwell/there/in.",
+    "2. For He hath founded it/up.on/the/seas: and established/it/up/on/the/floods.",
+    "3. Who shall ascend into the Hill/of/the/LORD? Or who shall stand/in/His/holy/place?",
+    "4. He that hath clean hands/and. a/pure heart: who hath not lifted up his soul unto vanity, nor/ sworn/de/ceit/ful/ly.",
+    "5. He shall receive the blessing/from/the/LORD, and righteousness from the LORD/of/his/Sal/va/tion.",
+    "6. This is the generation of/them. that/seek/ Him: that seek/thy/face/O/Jacob.",
+    "7. Lift up your heads, O ye gates; and be ye lift up, ye/ ever-/las/ting doors: and the King of/glo/ry/shall/come/in.",
+    "8. Who is/ this.King/of/glory? JEHOVAH strong and mighty, the LORD/migh/ty/in/ba/ttle.",
   ]),
-   Hymn("NO 325", "", [
-    ".",
+   Hymn("", "PSALM 84", [
+    "1.	How lovely are Thy Ta/ber/na/cles, JE/HO/VAH/God/of/Hosts.",
+    "2.	My heart longeth yea/e.ven/cleav/veth: For/the/courts/O/my/LORD.",
+    "3.	Here shall I keep Thy/tes/ti/monies: in Thy Ta/ber/na/cles/O/LORD",
+    "4.	Which shall never/be/des/troyed: the de/sire/of/man/kind",
+    "5.	Thy Tabernacle shall/be/in/peace; Through/all/the/world/a/round",
+    "6.   ProclaimingThy righteousness/and/Thy/glory: O /LORD/ our/ strength/ and/ Shield.",
+    "7.	In secret of Thy Tabernacle/will I/dwell: To/praise/Thee/e/ver/more",
+    "8.	With loving sacrifices/of/Thy praise: In/per/fect/peace/and/love.",
   ]),
-   Hymn("NO 326", "", [
-    ".",
+   Hymn("", "PSALM 95", [
+    "1.	O come, let us sing/un.to/the LORD: let us make a joyful noise to/the Rock/ of/our/sal/va/tion.",
+    "2.	Let us come before His presence/with/thanks-/giving, and make a joyful noise/un/to Him/with/psalms. ",
+    "3.		For JEHOVAH/is a/great-/God: and a great/KING/a/bove/all/gods. ",
+    "4.	In His hand are the deep pla/ces. Of/the/ earth: the strength of the/ Hills-/is/ His/ also. ",
+    "5.		The sea is His and/He-/made. it: and His hands/formed/the/dried-/lands. ",
+    "6.	O come, let us worship and/bow-/down: let us kneel be-/fore/JE.HO/VAH/our/maker. ",
+    "7.	JEHOVAH/is/our/GOD: and we are the people of His pasture, and the/sheep/of/His-/hand. ",
+    "8.	Today if ye will hear His voice, harden/not/your/hearts: ",
+    "9	As in the provocation, and as in the day of temp/ta/tion/in the/wilderness.",
+    "10.		When your fathers/temp/ted/me: proved/me/and/saw/my/works. ",
+    "11.	Forty long years was I grieved with this gene/ra.tion/and/said: It is the people that do err in their heart: ",
+    "12	And they have/not/known/my/ways. Unto whom I sware/in/my/wrath: that they should not/en/ter/in.to/my/rest.",
   ]),
-   Hymn("NO 327", "", [
-    ".",
+   Hymn("NO 327", "PSALM 121", [
+    "1.		I will lift up mine eyes/unto.the hills: from/whence/cometh/my help.",
+    "2.		My help cometh/from/the/LORD: which/made/hea/ven/and/earth.",
+    "3.	  He will not suffer thy foot/to/be/mo.ved: He that keepeth/thee/will/not/slumber.",
+    "4.		Behold He that/kee/peth/Israel: shall/nei/ther slumber/nor/sleep.",
+    "5.		The LORD/is/thy/keeper: The LORD is thy/shade/up/on thy/right hand.",
+    "6.		The sun shall not smite/thee/by/day: Nor/the-/moon/by/night.",
+    "7.		The LORD shall preserve/thee/from/evil: He/shall/pre/serve/thy/soul.",
+    "8.	The LORD shall preserve thy going out, and thy/co/ming/in: from this time forth and/e.ven/for/e/ver/more.",
   ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]), 
-
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-  Hymn("NO 31", "", [
-    ".",
+   Hymn("NO 31", "TE DUEM", [
+    "1.	Praise/ye/the/Lord: JE/HO/VAH/GOD/our/KING
+    "2.	Praise His Begotten Son Je/sus/Christ: Me/dia/tor/of mankind",
+    "3.	JEHOVAH is a/great-/God: And a great/KING a/bove/all/gods.",
+    "4.	It is He who hath made/heaven/and earth: through/Christ/Je/sus/our Saviour.",
+    "5.	God’s Kingdom/has-/com: where/there/is/hope/life",
+    "6.	In His Kingdom of/right/eous/ness: those who trust in Him, shall be blest with/ever/last/ing/life.",
+    "7.	Thy King/dom/O/Lord: is an/e/ver/last/ing//king.dom",
+    "8.	And Thy/do/mi/nion: endureth throughout/all/ge/ne/ra/tion.",
+    "9.	We shall speak of the glory/of/Thy/Kingdom: and/talk/of/Thy/power",
+    "10.	And make known to the sons of men, Thy/migh/ty/acts: and the glorious ma/jesty/of/Thy/Kingdom.",
+    "11.	Thou art righteous in/all/Thy/ways: and holy/in-/all/ Thy/works.",
+    "12.	Thou art nigh unto all that/call/on Thee: in-/truth/and/right/eous/ness",
+    "13.	Thou fulfilleth the desire of them/that/fear/Thee: and heareth their cry/and will/save-/them.",
+    "14.	Thou preserveth them/that love-/Thee: but all the wi/cked/will/Thou destroy.",
+    "15.	Jesus Christ has come/to judge/the/world: in equity by His/gos/pel/of/peace.",
+    "16.	O Lord the/King/of/Salem: send Thy light/and let/it/lead/me.",
+    "17.	The end of all/things is/at/hand: be ye therefore sober and watch/un/to/prayer.",
+    "18.	Above all things have fervent charity a/mongst/your/selves: for charity shall cover/the mul/ti/tude/of/sins.",
+    "19.	Praise Jehovah in the beauty/of His/ho/lines: for His Kingdom there/are/a/bun/dant blessings",
+    "20.	Hail Jehovah and/Je/sus Christ: Hail/them/e/ver/more.",
   ]),
 
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
+   Hymn("", "1ST CHRONICLES 29:11-19", [
+    "1.		Thine, JEHOVAH/is/the/great.ness: and the/pow/er/and/the/glory.
+    2.	And the victory and the/ma/jes/ty: for all fullness in/hea.ven/and/earth is Thine.
+    3.		Thine is the kingdom/O-/LORD: and thou art exalted/as/head/a/bove/all. 
+    4.		Both riches and honour/come/from/Thee: and Thou reig/neth/o/ver/all.
+    5.		Now therefore our God/we/thank Thee: and/praise/Thy/glo/rious/name. 
+    6.	But who am I and what/is/my/people: that we should be able to offer, so willingly/af/ter this-/sort? 
+    7.		For all things/come/from/Thee: and of Thine own/have/we/gi/ven/Thee. 
+    8.	For we are strangers/be/fore/Thee: and sojourners/as/were/all/our/fathers.
+    9.		Our days on the earth, are/as/a/shadow: and there/is/none/a/bi/ding. 
+    10.	O LORD our God, all this store that we have prepared to build thee an house for Thine holy name cometh of Thine hand, and is all Thine own. 
+    11.	I know also my God that Thou/tri.est/the/heart: and hast ple/asure/in up/right/ness. 
+    12.	As for me in the uprightness/of/my/heart: I have willingly/off/ered/all/these/things. 
+    13.	Now have I/seen/with/joy:Thy people/which/are/pre/sent/here.
+    14.	To offer willingly/un/to/Thee: in the beau/ty/of/ho/li/ness. 
+    15.	O LORD God of Abraham, Isaac, Israel, and/of/our/fathers: keep/this/for/e—ver.
+    16.	In the thoughts of the hearts/of/Thy/people: and prepare/their/hearts/un/to/thee. 
+    17.	Give unto Thy people a/per/fect/heart: to keep Thy laws and/Thy/tes/ti/monies.
+    18.	And to do/all/these/things: blessed be Thou LORD GOD/for/e/ver/and/ever.",
   ]),
 
-   Hymn("NO 31", "", [
-    ".",
+   Hymn("NO 31", "CHANT(May be used for Freedom Day)", [
+    "1.	CHRIST the Begotten Son/of/the/LORD.Re/dee/mer/of/sin/ners.",
+    "2.	Thy royal birth/bring/eth/peace: and/free/dom/to/man/kind.",
+    "3.	Thou art a LIGHT/to/lighten/the/gen/tiles: and the glory/of/Thy/peo/ple/Israel.",
+    "4.	And givest light to them that/sit in darkness: and/in the shadow/of/death.",
+    "5.	Thou guideth our feet into the/way/of/peace: and maketh those who/love/Thee/dwell/in/safety.",
+    "6.	Thou art our/Ad/vo/cate; and/the horn/of/sal/va/tion.",
+    "7.	Thou art a won/derful/Counselor: and a Migh/ty/Prince/of/peace.",
+    "8.	Son of the/Bless/ed/LORD: and/the-/Word/of/Life.",
+    "9.	We were once as sheep/going/a/stray: but now we have returned unto Thee.Sheperd/and/Bishop/of/our/souls.",
+    "10.	That we might live/un/to righteousness: through Thy blood/shed/on/tree/for/us.",
+    "11.	No sin was/found/in/Thee. Neither/was guile/in Thy mouth.",
+    "12.	But Thou preacheth Truth/and/doeth/righteousness: And those who believeth on Thee shall not perish but/have/ever/last/ing/life.",
   ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]), 
-
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-   Hymn("NO 31", "", [
-    ".",
-  ]),
-  Hymn("NO 31", "", [
-    ".",
-  ]),
-  Hymn("NO 31", "", [
-    ".",
-  ]),
-
-
-
-
 
 ];
