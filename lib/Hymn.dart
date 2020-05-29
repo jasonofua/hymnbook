@@ -2260,7 +2260,7 @@ final List<Hymn> hymns = [
     "4.	LORD, give Thine children a pure Christian home!\n Home where children will be led to know\nJE-HO-VAH, the Cre-a-tor of good things\nAnd His Son Christ Jesus the Saviour.",
   ]),
 
-   Hymn("303", "303  O LORD, give Thine children a pure Christian home!(Part two)", [
+   Hymn("3031", "303  O LORD, give Thine children a pure Christian home!(Part two)", [
     "1.	O LORD, give Thine children a pure Christian home!\nA home where God’s word is loved and taught,\nA home where the LORD’s will is sought and is made,\nA home crown’d with hap-pi-ness and peace.",
     "Refrain:\nGive to Thine …….children Lord\nA home where God’s word is loved and taught\nLord, give Thine children a home of peace and joy\nA home crown’d with hap-pi-ness and peace.",
     "2.	LORD, give Thine children a pure Christian home!\nHome where the Father is true and strong\nA good home that is free from the blight of wrong \nHome that is joy-ous with songs of love.",
@@ -2268,7 +2268,7 @@ final List<Hymn> hymns = [
     "4.	LORD, give Thine children a pure Christian home!\nHome where children will be led to know\nJE-HO-VAH, the Cre-a-tor of all good things\nAnd His Son Christ Jesus the Saviour.",
   ]),
 
-  Hymn("303", "303 GIVE thine children O Lord, a pure Christian home (Part Three)", [
+  Hymn("3032", "303 GIVE thine children O Lord, a pure Christian home (Part Three)", [
     "1.  GIVE thine children O Lord, a pure Christian home\nA good home where God’s word is loved and is taught;\nA home where the Lord’s will is sought and his made,\nA Christian home crown’d with happiness and peace.",
     "2.  Give thine children O Lord, a pure Christian home\nA home where the father is true and his strong;\nA good home that is free from the blight of wrong,\nA home that is joyous, full with songs of love.",
     "3.  Give thine children O Lord, a pure Christian home\nA home where the mother is so queenly quest\nStriving to show others, the way that is best,\nA home where JEHOVAH is an honoured guest",
@@ -2301,7 +2301,7 @@ final List<Hymn> hymns = [
     "6.	We thank thee Lord, for our bro-ther in Christ,\nIn right-eous-ness we knew he served Thee Lord ,\nPro-claim-ing thy true gos-pel to the world\nWith cour-age and with might.",
   ]),
 
-  Hymn("306", "306 SLEEP on be-lov-ed, dear brother in Christ(Part two)", [
+  Hymn("3061", "306 SLEEP on be-lov-ed, dear brother in Christ(Part two)", [
     "1.	SLEEP on be-lov-ed, dear brother in Christ,\nLay down in death till Resurrection Day\nWhen Christ shall raise thee to His glorious side\nIn His kingdom, here on this earth.",
     "2.	Though calm in thy slumber as an infant’s sleep;\nIt is a perfect rest, secure and deep-\nTill we will meet on Resurrection Day\nIn the kingdom of God, on earth.",
     "3.	For dear brother, who from his labours rest,\nWho by his faith, before the world confess’d\nThy name O Jesu, raise him by Thy grace,\nIn Thy Kingdom, here on this earth.",
@@ -2414,7 +2414,7 @@ final List<Hymn> hymns = [
     "4. Lord, to trust in Thy Name is life\nSince Thou art the Prince of Life,\nLeave me not, O faithful Saviour\nAnd Thy yoke I’ll bear with joy.",
   ]),
 
-   Hymn("", "PSALM 1", [
+   Hymn("400", "PSALM 1", [
     "1. BLESS-ED is the man that/walk/eth/not: in the coun/sel/of/the/un/godly.",
     "2. Nor standeth in the way/of/sin/ners: nor sitteth in the/seat/of/the/scorn/ful.",
     "3. But his delight is in the law/of/the/LORD; And in His law doth he/ me.ditate/day/and/night.",
@@ -2424,7 +2424,7 @@ final List<Hymn> hymns = [
     "7. Therefore, the ungodly shall not stand/in/the/judgment: nor sinners in the con/gre.ga/tion/of/the/righteous.",
     "8. For the LORD knoweth the way/of/the/righteous: but the way of the/un/god/ly/shall/perish.",
   ]),
-   Hymn("", "PSALM 23", [
+   Hymn("401", "PSALM 23", [
     "1. The LORD/is my/shepherd; I/shall-/not-/want.",
     "2. He maketh me to lie down in/green/pastures: He leadeth me be-/side/the still-/wat.ers.",
     "3. He resto-/reth/my soul: He leadeth me in the paths of righteousness/for/His name's/sake.",
@@ -2432,7 +2432,7 @@ final List<Hymn> hymns = [
     "5. Thou preparest a table before me in the presence of mine/e/ne/mies: thou anointest my head with oil my/cup/run-neth/over.",
     "6. Surely goodness and mercy shall follow me: all the days of my/life: and I will dwell in the house/of the/LORD for/ever.",
   ]),
-   Hymn("", "PSALM 24", [
+   Hymn("402", "PSALM 24", [
     "1. The earth is the LORD'S and/the fullness/there/of: The world/and/they that dwell/there/in.",
     "2. For He hath founded it/up.on/the/seas: and established/it/up/on/the/floods.",
     "3. Who shall ascend into the Hill/of/the/LORD? Or who shall stand/in/His/holy/place?",
@@ -2442,7 +2442,7 @@ final List<Hymn> hymns = [
     "7. Lift up your heads, O ye gates; and be ye lift up, ye/ ever-/las/ting doors: and the King of/glo/ry/shall/come/in.",
     "8. Who is/ this.King/of/glory? JEHOVAH strong and mighty, the LORD/migh/ty/in/ba/ttle.",
   ]),
-   Hymn("", "PSALM 84", [
+   Hymn("403", "PSALM 84", [
     "1.	How lovely are Thy Ta/ber/na/cles, JE/HO/VAH/God/of/Hosts.",
     "2.	My heart longeth yea/e.ven/cleav/veth: For/the/courts/O/my/LORD.",
     "3.	Here shall I keep Thy/tes/ti/monies: in Thy Ta/ber/na/cles/O/LORD",
@@ -2452,7 +2452,7 @@ final List<Hymn> hymns = [
     "7.	In secret of Thy Tabernacle/will I/dwell: To/praise/Thee/e/ver/more",
     "8.	With loving sacrifices/of/Thy praise: In/per/fect/peace/and/love.",
   ]),
-   Hymn("", "PSALM 95", [
+   Hymn("404", "PSALM 95", [
     "1.	O come, let us sing/un.to/the LORD: let us make a joyful noise to/the Rock/ of/our/sal/va/tion.",
     "2.	Let us come before His presence/with/thanks-/giving, and make a joyful noise/un/to Him/with/psalms. ",
     "3.		For JEHOVAH/is a/great-/God: and a great/KING/a/bove/all/gods. ",
@@ -2466,7 +2466,7 @@ final List<Hymn> hymns = [
     "11.	Forty long years was I grieved with this gene/ra.tion/and/said: It is the people that do err in their heart: ",
     "12	And they have/not/known/my/ways. Unto whom I sware/in/my/wrath: that they should not/en/ter/in.to/my/rest.",
   ]),
-   Hymn("", "PSALM 121", [
+   Hymn("405", "PSALM 121", [
     "1.		I will lift up mine eyes/unto.the hills: from/whence/cometh/my help.",
     "2.		My help cometh/from/the/LORD: which/made/hea/ven/and/earth.",
     "3.	  He will not suffer thy foot/to/be/mo.ved: He that keepeth/thee/will/not/slumber.",
@@ -2476,7 +2476,7 @@ final List<Hymn> hymns = [
     "7.		The LORD shall preserve/thee/from/evil: He/shall/pre/serve/thy/soul.",
     "8.	The LORD shall preserve thy going out, and thy/co/ming/in: from this time forth and/e.ven/for/e/ver/more.",
   ]),
-   Hymn("", "TE DUEM", [
+   Hymn("406", "TE DUEM", [
     "1.	Praise/ye/the/Lord: JE/HO/VAH/GOD/our/KING
     "2.	Praise His Begotten Son Je/sus/Christ: Me/dia/tor/of mankind",
     "3.	JEHOVAH is a/great-/God: And a great/KING a/bove/all/gods.",
@@ -2499,7 +2499,7 @@ final List<Hymn> hymns = [
     "20.	Hail Jehovah and/Je/sus Christ: Hail/them/e/ver/more.",
   ]),
 
-   Hymn("", "1ST CHRONICLES 29:11-19", [
+   Hymn("407", "1ST CHRONICLES 29:11-19", [
     "1.		Thine, JEHOVAH/is/the/great.ness: and the/pow/er/and/the/glory.
     2.	And the victory and the/ma/jes/ty: for all fullness in/hea.ven/and/earth is Thine.
     3.		Thine is the kingdom/O-/LORD: and thou art exalted/as/head/a/bove/all. 
@@ -2520,7 +2520,7 @@ final List<Hymn> hymns = [
     18.	And to do/all/these/things: blessed be Thou LORD GOD/for/e/ver/and/ever.",
   ]),
 
-   Hymn("", "CHANT(May be used for Freedom Day)", [
+   Hymn("408", "CHANT(May be used for Freedom Day)", [
     "1.	CHRIST the Begotten Son/of/the/LORD.Re/dee/mer/of/sin/ners.",
     "2.	Thy royal birth/bring/eth/peace: and/free/dom/to/man/kind.",
     "3.	Thou art a LIGHT/to/lighten/the/gen/tiles: and the glory/of/Thy/peo/ple/Israel.",
