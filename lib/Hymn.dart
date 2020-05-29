@@ -2500,24 +2500,24 @@ final List<Hymn> hymns = [
   ]),
 
    Hymn("407", "1ST CHRONICLES 29:11-19", [
-    "1.		Thine, JEHOVAH/is/the/great.ness: and the/pow/er/and/the/glory.
-    2.	And the victory and the/ma/jes/ty: for all fullness in/hea.ven/and/earth is Thine.
-    3.		Thine is the kingdom/O-/LORD: and thou art exalted/as/head/a/bove/all. 
-    4.		Both riches and honour/come/from/Thee: and Thou reig/neth/o/ver/all.
-    5.		Now therefore our God/we/thank Thee: and/praise/Thy/glo/rious/name. 
-    6.	But who am I and what/is/my/people: that we should be able to offer, so willingly/af/ter this-/sort? 
-    7.		For all things/come/from/Thee: and of Thine own/have/we/gi/ven/Thee. 
-    8.	For we are strangers/be/fore/Thee: and sojourners/as/were/all/our/fathers.
-    9.		Our days on the earth, are/as/a/shadow: and there/is/none/a/bi/ding. 
-    10.	O LORD our God, all this store that we have prepared to build thee an house for Thine holy name cometh of Thine hand, and is all Thine own. 
-    11.	I know also my God that Thou/tri.est/the/heart: and hast ple/asure/in up/right/ness. 
-    12.	As for me in the uprightness/of/my/heart: I have willingly/off/ered/all/these/things. 
-    13.	Now have I/seen/with/joy:Thy people/which/are/pre/sent/here.
-    14.	To offer willingly/un/to/Thee: in the beau/ty/of/ho/li/ness. 
-    15.	O LORD God of Abraham, Isaac, Israel, and/of/our/fathers: keep/this/for/e—ver.
-    16.	In the thoughts of the hearts/of/Thy/people: and prepare/their/hearts/un/to/thee. 
-    17.	Give unto Thy people a/per/fect/heart: to keep Thy laws and/Thy/tes/ti/monies.
-    18.	And to do/all/these/things: blessed be Thou LORD GOD/for/e/ver/and/ever.",
+    "1.		Thine, JEHOVAH/is/the/great.ness: and the/pow/er/and/the/glory.",
+    "2.	And the victory and the/ma/jes/ty: for all fullness in/hea.ven/and/earth is Thine.",
+    "3.		Thine is the kingdom/O-/LORD: and thou art exalted/as/head/a/bove/all.",
+    "4.		Both riches and honour/come/from/Thee: and Thou reig/neth/o/ver/all.",
+    "5.		Now therefore our God/we/thank Thee: and/praise/Thy/glo/rious/name. ",
+    "6.	But who am I and what/is/my/people: that we should be able to offer, so willingly/af/ter this-/sort? ",
+    "7.		For all things/come/from/Thee: and of Thine own/have/we/gi/ven/Thee. ",
+    "8.	For we are strangers/be/fore/Thee: and sojourners/as/were/all/our/fathers.",
+    "9.		Our days on the earth, are/as/a/shadow: and there/is/none/a/bi/ding. ",
+    "10.	O LORD our God, all this store that we have prepared to build thee an house for Thine holy name cometh of Thine hand, and is all Thine own.", 
+    "11.	I know also my God that Thou/tri.est/the/heart: and hast ple/asure/in up/right/ness. ",
+    "12.	As for me in the uprightness/of/my/heart: I have willingly/off/ered/all/these/things. ",
+    "13.	Now have I/seen/with/joy:Thy people/which/are/pre/sent/here.",
+    "14.	To offer willingly/un/to/Thee: in the beau/ty/of/ho/li/ness. ",
+    "15.	O LORD God of Abraham, Isaac, Israel, and/of/our/fathers: keep/this/for/e—ver.",
+    "16.	In the thoughts of the hearts/of/Thy/people: and prepare/their/hearts/un/to/thee. ",
+    "17.	Give unto Thy people a/per/fect/heart: to keep Thy laws and/Thy/tes/ti/monies.",
+    "18.	And to do/all/these/things: blessed be Thou LORD GOD/for/e/ver/and/ever.",
   ]),
 
    Hymn("408", "CHANT(May be used for Freedom Day)", [
