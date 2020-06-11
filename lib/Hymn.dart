@@ -109,13 +109,13 @@ final List<Hymn> hymns = [
     "6.	When to His service we attend,\nMay His Spirit guide us all day\nTo learn His ways our paths to mend,\nHis is the saving way.",
   ]),
 
-  Hymn("10", "OUR LORDS PRAYER", [
+  Hymn("10", "10  OUR LORDS PRAYER", [
     "1.	OUR Father who art in Heaven,\nMay rev’rence be Thy holy name.\nOn earth now has Thy Kingdom come,\nThy will be done as in heaven.",
     "2.	Give us this day our daily bread,\nAnd forgive us our trespasses,\nAs we forgive them that grieve us;\nAnd leave us not in Satan’s snares.",
     "3.	Deliver us from sinful lusts,\nThat in Thy Kingdom we may dwell\nFreed and protected by Thy will,\nEver observant of Thy laws.",
   ]),
 
-  Hymn("11", "ETERNAL Excellency!", [
+  Hymn("11", "11  ETERNAL Excellency!", [
     "1.	ETERNAL Excellency!\nYea for Thy lovingkindness\nAs we gather here this day\nTo give true service to Thee,\nLORD, as we’ve come before Thee,\nMake our hearts to love Thy truth,\nAnd keep our feet in Thy court\nTo be obedient Christians.",
     "2.	King Eternal blessed LORD!\nRain Thy mercies, LORD on us.\nWe assemble here this day\nTo give true service to Thee.\nO with faithful services,\nWe bear Thy light to the world:\nThat they may live in good hope\nOf the bless-ed promised land.",
     "3.	The wicked shall not be there;\nBut righteous ones everywhere.\nWith triumphant songs of praise,\nShall the earth be filled with joy.\nAs governors we shall dwell\nIn Thy dominion by grace \nIn faithfulness we shall live\nOn that bless-ed land of peace.",
@@ -1241,7 +1241,7 @@ final List<Hymn> hymns = [
     "5.	JEHOVAH “ANCIENT OF DAYS”\nGrant us O LORD our requests,\nThat we use them to Thy praise,\nLORD, in Thy kingdom always.",
   ]),
 
-  Hymn("169", "168  WHERE could wisdom now be found?", [
+  Hymn("169", "169  WHERE could wisdom now be found?", [
     "1.	WHERE could wisdom now be found?\nAnd place of understanding?\nSeeing ‘tis hidden from men,\nWho seek not the Lord our King\nOnly GOD knoweth the way\nSince ‘tis found only in Him.",
     "2.	Depth of wisdom is in GOD,\nMay always our heart be found\nFull of the wisdom from Him,\nWhose wisdom perisheth not,\nBut is full of knowledge true\nOf salvation of mankind.",
     "3.	The exchange of it can’t be\nWith precious gold and jewels,\nNor glorious corals and pearls,\nBecause the price of wisdom\nIs above all the rubies,\nTherefore seek wisdom and live.",
@@ -1529,7 +1529,7 @@ final List<Hymn> hymns = [
     "I thank Thee, AL-MIGH-TY as I pay my tithe now,\nGive me faith to con-ti-nue, that I may not rob Thee,\nHelp me LORD, and save me from sa-tan’s temp-ta-tions, \nO-pen your win-dows and pour out Thy bless-ings on me.",
   ]),
 
-   Hymn("211", "221  OH! Servant of God, Saint G M Urhobo", [
+   Hymn("211", "211  OH! Servant of God, Saint G M Urhobo", [
     "1.	OH! Servant of God, Saint G M Urhobo\nWise and strong and meek you were,\nThy glorious warfare you fought and you won\nAnd now you are crowned at last.",
     "Refrain:\nAll:	   We all re-      joice Oh! Ser-vant of God\nParts:		   Re-joice re-joice   Oh! Ser-vant of God\nAll:	   As a cou-ra-geous soldier\nAll:	   We all re-joice re-joice  Oh! Ser-vant of God\nAll:	   As you reign with Christ above.",
     "2.	True remnant of God, you have done well,\nYour teachings we still hold firm\nOur hearts leap for joy, when we hear and learn,\nThe good news through you from God.",
@@ -1821,7 +1821,7 @@ final List<Hymn> hymns = [
     "3	Grant them the joy which brighten earthly sorrow,\nGrant them the peace which calms all earthly strife,\nAnd to life’s day the glorious unknown morrow,\nThat dawns upon eternal love and life.",
   ]),
 
-   Hymn("249", "PRAISE Him! Praise Him! Je-sus, our bless-ed Re-deem-er!", [
+   Hymn("249", "249 PRAISE Him! Praise Him! Je-sus, our bless-ed Re-deem-er!", [
     "1	PRAISE Him! Praise Him! Je-sus, our bless-ed Re-deem-er!\nSing O earth His won-der-ful love pro-claim!\nHail Him! Hail Him! Our Sa-viour and King of glo-ry;\nStrength and hon-our give to His Ho-ly name!\nLike a shep-herd, Je-sus will guard His child-ren,\nIn His arm He car-ries them all day long.",
     "Refrain:\nPraise him! Praise him! Tell of His ex-cel-lent great-ness\nPraise him! Praise him! E-ver in joy-ful songs!",
     "2	Praise Him! Praise Him! Jesus our bless-ed Re-deem-er!\nFor our sins He suf-fered, and bled and died;\nHe’s our Rock, and our hope of e-ter-nal sal-vation,\nHail Him! Hail Him! Je-sus rose from the dead\nSound His prai-ses, Je-sus who bore our sor-rows\nLove un-bound-ed won-der-ful deep and strong.",
@@ -1902,7 +1902,7 @@ final List<Hymn> hymns = [
     "5.	Make this new house Thine own, O LORD;\nThat Thy presence be felt always,\nBe it, indeed, the house of God,\nAnd that in truth the gate of life.",
   ]),
 
-   Hymn("261", "281  O living Christ, Chief Corner Stone", [
+   Hymn("261", "261  O living Christ, Chief Corner Stone", [
     "1.	O living Christ, Chief Corner Stone\nOf our Lord’s great temple\nAs we dedicate this new house,\nVouchsafe Thy presence here\nThat this house for Thine sake, O Lord,\nBe pleased to bless, we pray,\nIn grateful service would we now,\nUse this house for praises.",
     "2.	Except the LORD buildeth the house,\nBuilders labour in vain,\nWe thank Thee LORD for using us;\nTo raise this house to Thee,\nMay those who thirst and seek for truth\nCome and be set free, here\nGrant us O LORD, Thy grace and peace,\nAs we serve doin’ Your will.",
     "3.	All praise and prayers made here,\nBe heard by Thee, O LORD,\nMay Thy teachings we shall learn here,\nGuide us to salvation,\nAs we humbly adore Thee, LORD,\nAnd Thy Son Christ Jesus,\nMay praises, glory and honour\nBe now and ever more.",
