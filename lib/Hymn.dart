@@ -832,7 +832,7 @@ final List<Hymn> hymns = [
     "3.	Grant us thy mercy, Oh Christ our Saviour.\nRefresh us with thy precious word of life,\nO Jesus-our Wonderful Counselor,\nThe “Horn of Salvation” the Prince of life.",
   ]),
 
-   Hymn("111", "111  LORD Jesus-“ Sun of Righteousness"", [
+   Hymn("111", "111  LORD Jesus-“ Sun of Righteousness", [
     "1.	LORD Jesus-“ Sun of Righteousness”!\nThou Son of MOST HIGH GOD \n In thee we’ve found an endless peace,\nJesus-wisdom of GOD.",
     "2.	Let thy light illuminate us,\nAnd to make us now shine\nGloriously in thy works divine\nAs marvel to the foes.",
     "3.	Christ our Advocate-word of GOD!\nGood shepherd, guide us Lord!\nThou Captain of our Salvation,\nNow grant us redemption.",
@@ -2134,10 +2134,10 @@ final List<Hymn> hymns = [
   ]),
 
    Hymn("289", "289  JESUS loves me! This I know", [
-    "1.	JESUS loves me! This I know,\nFor the Bible tells me so;\nLittle ones to Him belong\nThey are weak but He is strong,",
+    "1.	JESUS loves me! This I know,\nFor the Bible tells me so;\nLittle ones to Him belong\nThey are weak but He is strong",
     "Refrain:\nYes Jesus love me  3x\nThe Bible tells me so.",
     "2.	Jesus love me! He who died,\nTo redeem my soul from death\nHe has washed my sins away\nTo enter His Kingdom here.",
-    "3.	Jesus loves me! He will stay\nClose beside me all the way;\nI shall love Him all my life\n‘Cause He loves me this I know.\n
+    "3.	Jesus loves me! He will stay\nClose beside me all the way;\nI shall love Him all my life\n Cause He loves me this I know.",
     "4.	In assurance I’ll find rest\nTrusting Him I’m ever blest;\nSatan can’t harm me no more\nWhen I prove that Christ is mine.",
   ]),
 
@@ -2223,9 +2223,9 @@ final List<Hymn> hymns = [
   ]),
 
    Hymn("300", "300  WHEN troubles assail, seek Jesus", [
-    "1.	WHEN troubles assail, seek Jesus;\nAnd dangers frighten, seek Jesus;",
-    "Refrain:\nLet no fear change your trusting soul\n‘Cause when Christ pilots, all is well.",
-    "2.	When friends should all fail, seek Jesus;\nAnd all foes unite, seek Jesus;",
+    "1.	WHEN troubles assail, seek Jesus; \n And dangers frighten, seek Jesus;",
+    "Refrain:\nLet no fear change your trusting soul \n ‘Cause when Christ pilots, all is well.",
+    "2.	When friends should all fail, seek Jesus; \n And all foes unite, seek Jesus;",
     "3.	When in affliction, seek Jesus;\nWhen all hopes are lost, seek Jesus; ",
     "4	When heavy laden, seek Jesus;\nAnd in temptations, seek Jesus;",
     "5.	A place of refuge? Seek Jesus;\nSalvation your hope? seek Jesus;.",
@@ -2427,13 +2427,13 @@ final List<Hymn> hymns = [
    Hymn("401", "PSALM 23", [
     "1. The LORD/is my/shepherd; I/shall-/not-/want.",
     "2. He maketh me to lie down in/green/pastures: He leadeth me be-/side/the still-/wat.ers.",
-    "3. He resto-/reth/my soul: He leadeth me in the paths of righteousness/for/His name's/sake.",
+    "3. He resto-/reth/my soul: He leadeth me in the paths of righteousness/for/His names/sake.",
     "4. Yea, though I walk through the valley of the shadow of death, I will/fear no/evil: for Thou art with me, Thy rod and thy/staff/they/comfort/me.",
     "5. Thou preparest a table before me in the presence of mine/e/ne/mies: thou anointest my head with oil my/cup/run-neth/over.",
     "6. Surely goodness and mercy shall follow me: all the days of my/life: and I will dwell in the house/of the/LORD for/ever.",
   ]),
    Hymn("402", "PSALM 24", [
-    "1. The earth is the LORD'S and/the fullness/there/of: The world/and/they that dwell/there/in.",
+    "1. The earth is the LORDS and/the fullness/there/of: The world/and/they that dwell/there/in.",
     "2. For He hath founded it/up.on/the/seas: and established/it/up/on/the/floods.",
     "3. Who shall ascend into the Hill/of/the/LORD? Or who shall stand/in/His/holy/place?",
     "4. He that hath clean hands/and. a/pure heart: who hath not lifted up his soul unto vanity, nor/ sworn/de/ceit/ful/ly.",
@@ -2476,14 +2476,15 @@ final List<Hymn> hymns = [
     "7.		The LORD shall preserve/thee/from/evil: He/shall/pre/serve/thy/soul.",
     "8.	The LORD shall preserve thy going out, and thy/co/ming/in: from this time forth and/e.ven/for/e/ver/more.",
   ]),
+
    Hymn("406", "TE DUEM", [
-    "1.	Praise/ye/the/Lord: JE/HO/VAH/GOD/our/KING
+    "1.	Praise/ye/the/Lord: JE/HO/VAH/GOD/our/KING",
     "2.	Praise His Begotten Son Je/sus/Christ: Me/dia/tor/of mankind",
     "3.	JEHOVAH is a/great-/God: And a great/KING a/bove/all/gods.",
     "4.	It is He who hath made/heaven/and earth: through/Christ/Je/sus/our Saviour.",
     "5.	God’s Kingdom/has-/com: where/there/is/hope/life",
     "6.	In His Kingdom of/right/eous/ness: those who trust in Him, shall be blest with/ever/last/ing/life.",
-    "7.	Thy King/dom/O/Lord: is an/e/ver/last/ing//king.dom",
+    "7.	Thy King/dom/O/Lord: is an/e/ver/last/ing/kingdom",
     "8.	And Thy/do/mi/nion: endureth throughout/all/ge/ne/ra/tion.",
     "9.	We shall speak of the glory/of/Thy/Kingdom: and/talk/of/Thy/power",
     "10.	And make known to the sons of men, Thy/migh/ty/acts: and the glorious ma/jesty/of/Thy/Kingdom.",
